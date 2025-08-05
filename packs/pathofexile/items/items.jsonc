@@ -1,56 +1,150 @@
 [
-  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+  // Path of Exile Items for Archipelago PopTracker
+  
+  // Progressive passive points
   {
-    "name": "Toggle",
-    "type": "toggle",
-    "img": "images/items/toggle.png",
-    "codes": "toggle"
+    "name": "Progressive passive point",
+    "type": "consumable",
+    "img": "images/items/passive_point.png",
+    "max_quantity": 128,
+    "codes": "passive_point"
   },
+  
+  // Flask slots
   {
-    "name": "Progressive",
+    "name": "Progressive Flask Unlock Slot",
     "type": "progressive",
     "allow_disabled": true,
-    "initial_stage_idx": 0,
     "stages": [
-      {
-        "img": "images/items/progressive.png",
-        "codes": "progressive",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_2.png",
-        "codes": "progressive_2",
-        "inherit_codes": false
-      }
+      {"img": "images/items/flask_slot_1.png", "codes": "flask_slot_1"},
+      {"img": "images/items/flask_slot_2.png", "codes": "flask_slot_2"},
+      {"img": "images/items/flask_slot_3.png", "codes": "flask_slot_3"},
+      {"img": "images/items/flask_slot_4.png", "codes": "flask_slot_4"},
+      {"img": "images/items/flask_slot_5.png", "codes": "flask_slot_5"}
+    ]
+  },
+  
+  // Magic Flask Unlocks
+  {
+    "name": "Progressive Magic Flask Unlock",
+    "type": "progressive",
+    "allow_disabled": true,
+    "stages": [
+      {"img": "images/items/magic_flask_1.png", "codes": "magic_flask_1"},
+      {"img": "images/items/magic_flask_2.png", "codes": "magic_flask_2"},
+      {"img": "images/items/magic_flask_3.png", "codes": "magic_flask_3"},
+      {"img": "images/items/magic_flask_4.png", "codes": "magic_flask_4"},
+      {"img": "images/items/magic_flask_5.png", "codes": "magic_flask_5"}
+    ]
+  },
+  
+  // Unique Flask Unlocks
+  {
+    "name": "Progressive Unique Flask Unlock",
+    "type": "progressive",
+    "allow_disabled": true,
+    "stages": [
+      {"img": "images/items/unique_flask_1.png", "codes": "unique_flask_1"},
+      {"img": "images/items/unique_flask_2.png", "codes": "unique_flask_2"},
+      {"img": "images/items/unique_flask_3.png", "codes": "unique_flask_3"},
+      {"img": "images/items/unique_flask_4.png", "codes": "unique_flask_4"},
+      {"img": "images/items/unique_flask_5.png", "codes": "unique_flask_5"}
+    ]
+  },
+  
+  // Character Classes - Base
+  {"name": "Scion", "type": "toggle", "img": "images/items/scion.png", "codes": "scion"},
+  {"name": "Marauder", "type": "toggle", "img": "images/items/marauder.png", "codes": "marauder"},
+  {"name": "Duelist", "type": "toggle", "img": "images/items/duelist.png", "codes": "duelist"},
+  {"name": "Ranger", "type": "toggle", "img": "images/items/ranger.png", "codes": "ranger"},
+  {"name": "Shadow", "type": "toggle", "img": "images/items/shadow.png", "codes": "shadow"},
+  {"name": "Witch", "type": "toggle", "img": "images/items/witch.png", "codes": "witch"},
+  {"name": "Templar", "type": "toggle", "img": "images/items/templar.png", "codes": "templar"},
+  
+  // Ascendancy Classes
+  {"name": "Ascendant", "type": "toggle", "img": "images/items/ascendant.png", "codes": "ascendant"},
+  {"name": "Berserker", "type": "toggle", "img": "images/items/berserker.png", "codes": "berserker"},
+  {"name": "Chieftain", "type": "toggle", "img": "images/items/chieftain.png", "codes": "chieftain"},
+  {"name": "Juggernaut", "type": "toggle", "img": "images/items/juggernaut.png", "codes": "juggernaut"},
+  {"name": "Champion", "type": "toggle", "img": "images/items/champion.png", "codes": "champion"},
+  {"name": "Gladiator", "type": "toggle", "img": "images/items/gladiator.png", "codes": "gladiator"},
+  {"name": "Slayer", "type": "toggle", "img": "images/items/slayer.png", "codes": "slayer"},
+  {"name": "Deadeye", "type": "toggle", "img": "images/items/deadeye.png", "codes": "deadeye"},
+  {"name": "Pathfinder", "type": "toggle", "img": "images/items/pathfinder.png", "codes": "pathfinder"},
+  {"name": "Warden", "type": "toggle", "img": "images/items/warden.png", "codes": "warden"},
+  {"name": "Assassin", "type": "toggle", "img": "images/items/assassin.png", "codes": "assassin"},
+  {"name": "Saboteur", "type": "toggle", "img": "images/items/saboteur.png", "codes": "saboteur"},
+  {"name": "Trickster", "type": "toggle", "img": "images/items/trickster.png", "codes": "trickster"},
+  {"name": "Elementalist", "type": "toggle", "img": "images/items/elementalist.png", "codes": "elementalist"},
+  {"name": "Necromancer", "type": "toggle", "img": "images/items/necromancer.png", "codes": "necromancer"},
+  {"name": "Occultist", "type": "toggle", "img": "images/items/occultist.png", "codes": "occultist"},
+  {"name": "Guardian", "type": "toggle", "img": "images/items/guardian.png", "codes": "guardian"},
+  {"name": "Hierophant", "type": "toggle", "img": "images/items/hierophant.png", "codes": "hierophant"},
+  {"name": "Inquisitor", "type": "toggle", "img": "images/items/inquisitor.png", "codes": "inquisitor"},
+  
+  // Max Links Progression
+  {
+    "name": "Progressive max links - Helm",
+    "type": "progressive",
+    "allow_disabled": true,
+    "stages": [
+      {"img": "images/items/link_helm_1.png", "codes": "helm_link_1"},
+      {"img": "images/items/link_helm_2.png", "codes": "helm_link_2"},
+      {"img": "images/items/link_helm_3.png", "codes": "helm_link_3"}
     ]
   },
   {
-    "name": "Consumable",
-    "type": "consumable",
-    "img": "images/items/consumable.png",
-    "max_quantity": 8,
-    "increment": 1,
-    "decrement": 1,
-    "initial_quantity": 1,
-    "overlay_background": "#000000",
-    "overlay_font_size": 8,
-    "codes": "consumable"
+    "name": "Progressive max links - Glove",
+    "type": "progressive",
+    "allow_disabled": true,
+    "stages": [
+      {"img": "images/items/link_glove_1.png", "codes": "glove_link_1"},
+      {"img": "images/items/link_glove_2.png", "codes": "glove_link_2"},
+      {"img": "images/items/link_glove_3.png", "codes": "glove_link_3"}
+    ]
   },
   {
-    "name": "Progressive Toggle",
-    "type": "progressive_toggle",
-    "initial_stage_idx": 0,
+    "name": "Progressive max links - Boot",
+    "type": "progressive",
+    "allow_disabled": true,
     "stages": [
-      {
-        "img": "images/items/progressive.png",
-        "codes": "progressive_toggle",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_2.png",
-        "codes": "progressive_toggle_2",
-        "inherit_codes": false
-      }
+      {"img": "images/items/link_boot_1.png", "codes": "boot_link_1"},
+      {"img": "images/items/link_boot_2.png", "codes": "boot_link_2"},
+      {"img": "images/items/link_boot_3.png", "codes": "boot_link_3"}
+    ]
+  },
+  {
+    "name": "Progressive max links - Body",
+    "type": "progressive",
+    "allow_disabled": true,
+    "stages": [
+      {"img": "images/items/link_body_1.png", "codes": "body_link_1"},
+      {"img": "images/items/link_body_2.png", "codes": "body_link_2"},
+      {"img": "images/items/link_body_3.png", "codes": "body_link_3"},
+      {"img": "images/items/link_body_4.png", "codes": "body_link_4"},
+      {"img": "images/items/link_body_5.png", "codes": "body_link_5"}
+    ]
+  },
+  {
+    "name": "Progressive max links - Weapon",
+    "type": "progressive",
+    "allow_disabled": true,
+    "stages": [
+      {"img": "images/items/link_weapon_1.png", "codes": "weapon_link_1"},
+      {"img": "images/items/link_weapon_2.png", "codes": "weapon_link_2"},
+      {"img": "images/items/link_weapon_3.png", "codes": "weapon_link_3"},
+      {"img": "images/items/link_weapon_4.png", "codes": "weapon_link_4"},
+      {"img": "images/items/link_weapon_5.png", "codes": "weapon_link_5"}
+    ]
+  },
+  {
+    "name": "Progressive max links - Offhand",
+    "type": "progressive",
+    "allow_disabled": true,
+    "stages": [
+      {"img": "images/items/link_offhand_1.png", "codes": "offhand_link_1"},
+      {"img": "images/items/link_offhand_2.png", "codes": "offhand_link_2"},
+      {"img": "images/items/link_offhand_3.png", "codes": "offhand_link_3"}
     ]
   }
 ]
