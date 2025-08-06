@@ -1,0 +1,1972 @@
+[
+    {
+        "name": "maps - hint",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "{}"
+        ],
+        "sections": [
+            {
+                "name": "Saint's_Hauberk - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_saint's_hauberk"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Sorcerer_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_sorcerer_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Dragonscale_Gauntlets - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_dragonscale_gauntlets"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Murder_Mitts - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_murder_mitts"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare_Bascinet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_nightmare_bascinet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Deicide_Mask - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_deicide_mask"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Royal_Axe - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_royal_axe"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Colossal_Tower_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_colossal_tower_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Terror_Maul - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_terror_maul"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Infernal_Sword - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_infernal_sword"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Vaal_Regalia - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_vaal_regalia"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Assassin's_Garb - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_assassin's_garb"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Sadist_Garb - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_sadist_garb"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Glorious_Plate - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_glorious_plate"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Titan_Greaves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_titan_greaves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Harbinger_Bow - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_harbinger_bow"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Imperial_Claw - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_imperial_claw"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Praetor_Crown - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_praetor_crown"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare_Mace - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_nightmare_mace"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Midnight_Blade - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_midnight_blade"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Demon_Dagger - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_demon_dagger"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Void_Sceptre - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_void_sceptre"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Titanium_Spirit_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_titanium_spirit_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Archon_Kite_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_archon_kite_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Jewelled_Foil - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_jewelled_foil"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Void_Axe - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_void_axe"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Prophecy_Wand - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_prophecy_wand"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Judgement_Staff - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_judgement_staff"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Triumphant_Lamellar - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_triumphant_lamellar"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Slink_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_slink_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Murder_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_murder_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Sorcerer_Gloves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_sorcerer_gloves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Titan_Gauntlets - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_titan_gauntlets"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Hubris_Circlet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_hubris_circlet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Eternal_Burgonet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_eternal_burgonet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Infernal_Axe - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_infernal_axe"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Imperial_Buckler - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_imperial_buckler"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Coronal_Maul - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_coronal_maul"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Saintly_Chainmail - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_saintly_chainmail"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Two-Toned_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_two-toned_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Fugitive_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_fugitive_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Terror_Claw - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_terror_claw"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Sai - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_sai"
+                ],
+                "item_count": 3
+            },
+            {
+                "name": "Apothecary's_Gloves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_apothecary's_gloves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Spiked_Gloves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_spiked_gloves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Slink_Gloves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_slink_gloves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Gripped_Gloves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_gripped_gloves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Fingerless_Silk_Gloves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_fingerless_silk_gloves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Lion_Pelt - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_lion_pelt"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Behemoth_Mace - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_behemoth_mace"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Tiger_Hook - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_tiger_hook"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Sambar_Sceptre - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_sambar_sceptre"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Elegant_Round_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_elegant_round_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Pinnacle_Tower_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_pinnacle_tower_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Supreme_Spiked_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_supreme_spiked_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Eclipse_Staff - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_eclipse_staff"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Harpy_Rapier - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_harpy_rapier"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Fleshripper - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_fleshripper"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Exquisite_Blade - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_exquisite_blade"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Profane_Wand - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_profane_wand"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Carnal_Armour - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_carnal_armour"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Maraketh_Bow - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_maraketh_bow"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Runic_Hatchet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_runic_hatchet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Gemini_Claw - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_gemini_claw"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Dragoon_Sword - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_dragoon_sword"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Convoking_Wand - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_convoking_wand"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Crystal_Belt - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_crystal_belt"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Vanguard_Belt - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_vanguard_belt"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Full_Wyvernscale - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_full_wyvernscale"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Titan_Plate - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_titan_plate"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Grand_Ringmail - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_grand_ringmail"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Arcane_Vestment - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_arcane_vestment"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Supreme_Leather - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_supreme_leather"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Sanguine_Raiment - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_sanguine_raiment"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Jester_Mask - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_jester_mask"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "General's_Helmet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_general's_helmet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Bone_Helmet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_bone_helmet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Faithful_Helmet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_faithful_helmet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Moonlit_Circlet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_moonlit_circlet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Dire_Pelt - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_dire_pelt"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Knight_Helm - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_knight_helm"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Marble_Amulet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_marble_amulet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Seaglass_Amulet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_seaglass_amulet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Artillery_Quiver - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_artillery_quiver"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Blue_Pearl_Amulet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_blue_pearl_amulet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Paladin's_Hauberk - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_paladin's_hauberk"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Marshall's_Brigandine - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_marshall's_brigandine"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Torturer_Garb - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_torturer_garb"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Nightweave_Robe - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_nightweave_robe"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Astral_Leather - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_astral_leather"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Legion_Plate - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_legion_plate"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Chimerascale_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_chimerascale_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Martyr_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_martyr_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Infiltrator_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_infiltrator_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Sage_Slippers - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_sage_slippers"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Harpyskin_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_harpyskin_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Precursor_Greaves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_precursor_greaves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Chimerascale_Gauntlets - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_chimerascale_gauntlets"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Martyr_Gloves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_martyr_gloves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Sage_Gloves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_sage_gloves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Infiltrator_Mitts - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_infiltrator_mitts"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Harpyskin_Gloves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_harpyskin_gloves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Precursor_Gauntlets - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_precursor_gauntlets"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Conqueror's_Helmet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_conqueror's_helmet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Conquest_Helmet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_conquest_helmet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Paladin_Crown - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_paladin_crown"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Sunfire_Circlet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_sunfire_circlet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Grizzly_Pelt - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_grizzly_pelt"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Ancient_Mask - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_ancient_mask"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Iolite_Ring - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_iolite_ring"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Opal_Ring - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_opal_ring"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Steel_Ring - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_steel_ring"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Cerulean_Ring - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_cerulean_ring"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Vermillion_Ring - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_vermillion_ring"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Conquest_Lamellar - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_conquest_lamellar"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Syndicate's_Garb - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_syndicate's_garb"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Twilight_Regalia - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_twilight_regalia"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Royal_Plate - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_royal_plate"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Necrotic_Armour - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_necrotic_armour"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Sacred_Chainmail - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_sacred_chainmail"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Paladin_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_paladin_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Wyvernscale_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_wyvernscale_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Phantom_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_phantom_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Velour_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_velour_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Warlock_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_warlock_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Leviathan_Greaves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_leviathan_greaves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Paladin_Gloves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_paladin_gloves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Wyvernscale_Gauntlets - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_wyvernscale_gauntlets"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Phantom_Mitts - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_phantom_mitts"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Velour_Gloves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_velour_gloves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Warlock_Gloves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_warlock_gloves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Leviathan_Gauntlets - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_leviathan_gauntlets"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Divine_Crown - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_divine_crown"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Torturer's_Mask - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_torturer's_mask"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Giantslayer_Helmet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_giantslayer_helmet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Majestic_Pelt - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_majestic_pelt"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Haunted_Bascinet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_haunted_bascinet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Lich's_Circlet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "maps_lich's_circlet"
+                ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "maps",
+                "x": "1130",
+                "y": "1727",
+                "size": 12
+            }
+        ]
+    },
+    {
+        "name": "maps",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "Saint's_Hauberk",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Sorcerer_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Dragonscale_Gauntlets",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Murder_Mitts",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare_Bascinet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Deicide_Mask",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Royal_Axe",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Colossal_Tower_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Terror_Maul",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Infernal_Sword",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Vaal_Regalia",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Assassin's_Garb",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Sadist_Garb",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Glorious_Plate",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Titan_Greaves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Harbinger_Bow",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Imperial_Claw",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Praetor_Crown",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightmare_Mace",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Midnight_Blade",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Demon_Dagger",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Void_Sceptre",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Titanium_Spirit_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Archon_Kite_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Jewelled_Foil",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Void_Axe",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Prophecy_Wand",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Judgement_Staff",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Triumphant_Lamellar",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Slink_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Murder_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Sorcerer_Gloves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Titan_Gauntlets",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Hubris_Circlet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Eternal_Burgonet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Infernal_Axe",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Imperial_Buckler",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Coronal_Maul",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Saintly_Chainmail",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Two-Toned_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Fugitive_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Terror_Claw",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Sai",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Apothecary's_Gloves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Spiked_Gloves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Slink_Gloves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gripped_Gloves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Fingerless_Silk_Gloves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Lion_Pelt",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Behemoth_Mace",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Tiger_Hook",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Sambar_Sceptre",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Elegant_Round_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pinnacle_Tower_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Supreme_Spiked_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Eclipse_Staff",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Harpy_Rapier",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Fleshripper",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Exquisite_Blade",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Profane_Wand",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Carnal_Armour",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Maraketh_Bow",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Runic_Hatchet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gemini_Claw",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Dragoon_Sword",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Convoking_Wand",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Crystal_Belt",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Vanguard_Belt",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Full_Wyvernscale",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Titan_Plate",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Grand_Ringmail",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Arcane_Vestment",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Supreme_Leather",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Sanguine_Raiment",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Jester_Mask",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "General's_Helmet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Bone_Helmet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Faithful_Helmet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Moonlit_Circlet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Dire_Pelt",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Knight_Helm",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Marble_Amulet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Seaglass_Amulet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Artillery_Quiver",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Blue_Pearl_Amulet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Paladin's_Hauberk",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Marshall's_Brigandine",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Torturer_Garb",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nightweave_Robe",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Astral_Leather",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Legion_Plate",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Chimerascale_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Martyr_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Infiltrator_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Sage_Slippers",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Harpyskin_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Precursor_Greaves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Chimerascale_Gauntlets",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Martyr_Gloves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Sage_Gloves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Infiltrator_Mitts",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Harpyskin_Gloves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Precursor_Gauntlets",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Conqueror's_Helmet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Conquest_Helmet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Paladin_Crown",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Sunfire_Circlet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Grizzly_Pelt",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Ancient_Mask",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Iolite_Ring",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Opal_Ring",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Steel_Ring",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Cerulean_Ring",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Vermillion_Ring",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Conquest_Lamellar",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Syndicate's_Garb",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Twilight_Regalia",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Royal_Plate",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Necrotic_Armour",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Sacred_Chainmail",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Paladin_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Wyvernscale_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Phantom_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Velour_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Warlock_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Leviathan_Greaves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Paladin_Gloves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Wyvernscale_Gauntlets",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Phantom_Mitts",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Velour_Gloves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Warlock_Gloves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Leviathan_Gauntlets",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Divine_Crown",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Torturer's_Mask",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Giantslayer_Helmet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Majestic_Pelt",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Haunted_Bascinet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Lich's_Circlet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "maps",
+                "x": "1130",
+                "y": "1727",
+                "size": 6
+            }
+        ]
+    }
+]

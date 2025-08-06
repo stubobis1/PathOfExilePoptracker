@@ -1,0 +1,726 @@
+[
+    {
+        "name": "act_5 - hint",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "{}"
+        ],
+        "sections": [
+            {
+                "name": "Quilted_Jacket - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_quilted_jacket"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Zealot_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_zealot_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Gouger - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_gouger"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reaver_Helmet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_reaver_helmet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Colossal_Hybrid_Flask - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_colossal_hybrid_flask"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Spike-Point_Arrow_Quiver - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_spike-point_arrow_quiver"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Etched_Kite_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_etched_kite_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Burnished_Foil - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_burnished_foil"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Great_Mallet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_great_mallet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Footman_Sword - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_footman_sword"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Engraved_Wand - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_engraved_wand"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Silken_Wrap - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_silken_wrap"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Frontier_Leather - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_frontier_leather"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Battle_Plate - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_battle_plate"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Trapper_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_trapper_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Compound_Bow - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_compound_bow"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Poignard - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_poignard"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Satin_Gloves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_satin_gloves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Hunter_Hood - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_hunter_hood"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Rock_Breaker - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_rock_breaker"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Baselard - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_baselard"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Crystal_Sceptre - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_crystal_sceptre"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Ivory_Spirit_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_ivory_spirit_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Timber_Axe - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_timber_axe"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Military_Staff - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_military_staff"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Hussar_Brigandine - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_hussar_brigandine"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Serpentscale_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_serpentscale_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Hallowed_Life_Flask - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_hallowed_life_flask"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Hallowed_Mana_Flask - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_hallowed_mana_flask"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Wrist_Chopper - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_wrist_chopper"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Enameled_Buckler - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_enameled_buckler"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Crusader_Chainmail - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_crusader_chainmail"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Tiger's_Paw - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_tiger's_paw"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Zealot_Gloves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_zealot_gloves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Serpentscale_Gauntlets - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_serpentscale_gauntlets"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Fencer_Helm - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_fencer_helm"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Mahogany_Tower_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_mahogany_tower_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Estoc - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_estoc"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Sleek_Coat - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_sleek_coat"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Sharkskin_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_sharkskin_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Samite_Slippers - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_samite_slippers"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Sniper_Bow - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_sniper_bow"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Zealot_Helmet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_zealot_helmet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Battle_Hammer - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_battle_hammer"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Battle_Sword - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_battle_sword"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Boot_Blade - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_boot_blade"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Lead_Sceptre - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_lead_sceptre"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Steelhead - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_steelhead"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Highland_Blade - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_5_highland_blade"
+                ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "act_5",
+                "x": "1490",
+                "y": "259",
+                "size": 12
+            }
+        ]
+    },
+    {
+        "name": "act_5",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "Quilted_Jacket",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Zealot_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gouger",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reaver_Helmet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Colossal_Hybrid_Flask",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Spike-Point_Arrow_Quiver",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Etched_Kite_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Burnished_Foil",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Great_Mallet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Footman_Sword",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Engraved_Wand",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Silken_Wrap",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Frontier_Leather",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Battle_Plate",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Trapper_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Compound_Bow",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Poignard",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Satin_Gloves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Hunter_Hood",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Rock_Breaker",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Baselard",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Crystal_Sceptre",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Ivory_Spirit_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Timber_Axe",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Military_Staff",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Hussar_Brigandine",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Serpentscale_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Hallowed_Life_Flask",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Hallowed_Mana_Flask",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Wrist_Chopper",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Enameled_Buckler",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Crusader_Chainmail",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Tiger's_Paw",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Zealot_Gloves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Serpentscale_Gauntlets",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Fencer_Helm",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Mahogany_Tower_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Estoc",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Sleek_Coat",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Sharkskin_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Samite_Slippers",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Sniper_Bow",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Zealot_Helmet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Battle_Hammer",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Battle_Sword",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Boot_Blade",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Lead_Sceptre",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Steelhead",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Highland_Blade",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "act_5",
+                "x": "1490",
+                "y": "259",
+                "size": 6
+            }
+        ]
+    }
+]

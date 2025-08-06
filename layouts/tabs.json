@@ -1,0 +1,246 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "act_1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "act_1"
+                    ]
+                }
+            },
+            {
+                "title": "act_10",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "act_10"
+                    ]
+                }
+            },
+            {
+                "title": "act_2",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "act_2"
+                    ]
+                }
+            },
+            {
+                "title": "act_3",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "act_3"
+                    ]
+                }
+            },
+            {
+                "title": "act_4",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "act_4"
+                    ]
+                }
+            },
+            {
+                "title": "act_5",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "act_5"
+                    ]
+                }
+            },
+            {
+                "title": "act_6",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "act_6"
+                    ]
+                }
+            },
+            {
+                "title": "act_7",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "act_7"
+                    ]
+                }
+            },
+            {
+                "title": "act_8",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "act_8"
+                    ]
+                }
+            },
+            {
+                "title": "act_9",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "act_9"
+                    ]
+                }
+            },
+            {
+                "title": "level",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "level"
+                    ]
+                }
+            },
+            {
+                "title": "maps",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "maps"
+                    ]
+                }
+            },
+            {
+                "title": "twilight_strand",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "twilight_strand"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "act_1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "act_1"
+                    ]
+                }
+            },
+            {
+                "title": "act_10",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "act_10"
+                    ]
+                }
+            },
+            {
+                "title": "act_2",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "act_2"
+                    ]
+                }
+            },
+            {
+                "title": "act_3",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "act_3"
+                    ]
+                }
+            },
+            {
+                "title": "act_4",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "act_4"
+                    ]
+                }
+            },
+            {
+                "title": "act_5",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "act_5"
+                    ]
+                }
+            },
+            {
+                "title": "act_6",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "act_6"
+                    ]
+                }
+            },
+            {
+                "title": "act_7",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "act_7"
+                    ]
+                }
+            },
+            {
+                "title": "act_8",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "act_8"
+                    ]
+                }
+            },
+            {
+                "title": "act_9",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "act_9"
+                    ]
+                }
+            },
+            {
+                "title": "level",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "level"
+                    ]
+                }
+            },
+            {
+                "title": "maps",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "maps"
+                    ]
+                }
+            },
+            {
+                "title": "twilight_strand",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "twilight_strand"
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,5662 @@
+[
+    {
+        "name": "Ice Crash",
+        "type": "toggle",
+        "img": "images/items/icecrash.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "icecrash"
+    },
+    {
+        "name": "Unique Ring (left)",
+        "type": "toggle",
+        "img": "images/items/uniquering(left).png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uniquering(left)"
+    },
+    {
+        "name": "Pyroclast Mine",
+        "type": "toggle",
+        "img": "images/items/pyroclastmine.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pyroclastmine"
+    },
+    {
+        "name": "Cold to Fire Support",
+        "type": "toggle",
+        "img": "images/items/coldtofiresupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "coldtofiresupport"
+    },
+    {
+        "name": "Enduring Cry",
+        "type": "toggle",
+        "img": "images/items/enduringcry.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "enduringcry"
+    },
+    {
+        "name": "Consecrated Path",
+        "type": "toggle",
+        "img": "images/items/consecratedpath.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "consecratedpath"
+    },
+    {
+        "name": "Frostbolt",
+        "type": "toggle",
+        "img": "images/items/frostbolt.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "frostbolt"
+    },
+    {
+        "name": "Viper Strike",
+        "type": "toggle",
+        "img": "images/items/viperstrike.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "viperstrike"
+    },
+    {
+        "name": "Frost Shield",
+        "type": "toggle",
+        "img": "images/items/frostshield.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "frostshield"
+    },
+    {
+        "name": "Sniper's Mark",
+        "type": "toggle",
+        "img": "images/items/sniper'smark.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sniper'smark"
+    },
+    {
+        "name": "Increased Critical Damage Support",
+        "type": "toggle",
+        "img": "images/items/increasedcriticaldamagesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "increasedcriticaldamagesupport"
+    },
+    {
+        "name": "Lacerate",
+        "type": "toggle",
+        "img": "images/items/lacerate.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lacerate"
+    },
+    {
+        "name": "Magic Ring (right)",
+        "type": "toggle",
+        "img": "images/items/magicring(right).png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicring(right)"
+    },
+    {
+        "name": "Mirror Arrow",
+        "type": "toggle",
+        "img": "images/items/mirrorarrow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mirrorarrow"
+    },
+    {
+        "name": "Static Strike",
+        "type": "toggle",
+        "img": "images/items/staticstrike.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "staticstrike"
+    },
+    {
+        "name": "Increased Critical Strikes Support",
+        "type": "toggle",
+        "img": "images/items/increasedcriticalstrikessupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "increasedcriticalstrikessupport"
+    },
+    {
+        "name": "Temporal Rift",
+        "type": "toggle",
+        "img": "images/items/temporalrift.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "temporalrift"
+    },
+    {
+        "name": "Bone Offering",
+        "type": "toggle",
+        "img": "images/items/boneoffering.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "boneoffering"
+    },
+    {
+        "name": "Dark Pact",
+        "type": "toggle",
+        "img": "images/items/darkpact.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "darkpact"
+    },
+    {
+        "name": "Elemental Weakness",
+        "type": "toggle",
+        "img": "images/items/elementalweakness.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "elementalweakness"
+    },
+    {
+        "name": "Flame Link",
+        "type": "toggle",
+        "img": "images/items/flamelink.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flamelink"
+    },
+    {
+        "name": "Crackling Lance",
+        "type": "toggle",
+        "img": "images/items/cracklinglance.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cracklinglance"
+    },
+    {
+        "name": "Reckoning",
+        "type": "toggle",
+        "img": "images/items/reckoning.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "reckoning"
+    },
+    {
+        "name": "Righteous Fire",
+        "type": "toggle",
+        "img": "images/items/righteousfire.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "righteousfire"
+    },
+    {
+        "name": "Earthshatter",
+        "type": "toggle",
+        "img": "images/items/earthshatter.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "earthshatter"
+    },
+    {
+        "name": "Decoy Totem",
+        "type": "toggle",
+        "img": "images/items/decoytotem.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "decoytotem"
+    },
+    {
+        "name": "Progressive max links - Helm",
+        "type": "toggle",
+        "img": "images/items/progressivemaxlinks-helm.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivemaxlinks-helm"
+    },
+    {
+        "name": "Holy Flame Totem",
+        "type": "toggle",
+        "img": "images/items/holyflametotem.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "holyflametotem"
+    },
+    {
+        "name": "Arc",
+        "type": "toggle",
+        "img": "images/items/arc.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "arc"
+    },
+    {
+        "name": "Life Leech Support",
+        "type": "toggle",
+        "img": "images/items/lifeleechsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lifeleechsupport"
+    },
+    {
+        "name": "Fresh Meat Support",
+        "type": "toggle",
+        "img": "images/items/freshmeatsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "freshmeatsupport"
+    },
+    {
+        "name": "Heavy Strike",
+        "type": "toggle",
+        "img": "images/items/heavystrike.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "heavystrike"
+    },
+    {
+        "name": "Precision",
+        "type": "toggle",
+        "img": "images/items/precision.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "precision"
+    },
+    {
+        "name": "Sunder",
+        "type": "toggle",
+        "img": "images/items/sunder.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sunder"
+    },
+    {
+        "name": "Divine Ire",
+        "type": "toggle",
+        "img": "images/items/divineire.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "divineire"
+    },
+    {
+        "name": "Zealotry",
+        "type": "toggle",
+        "img": "images/items/zealotry.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "zealotry"
+    },
+    {
+        "name": "Arrogance Support",
+        "type": "toggle",
+        "img": "images/items/arrogancesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "arrogancesupport"
+    },
+    {
+        "name": "Summon Chaos Golem",
+        "type": "toggle",
+        "img": "images/items/summonchaosgolem.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "summonchaosgolem"
+    },
+    {
+        "name": "Fire Penetration Support",
+        "type": "toggle",
+        "img": "images/items/firepenetrationsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "firepenetrationsupport"
+    },
+    {
+        "name": "Flame Dash",
+        "type": "toggle",
+        "img": "images/items/flamedash.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flamedash"
+    },
+    {
+        "name": "Urgent Orders Support",
+        "type": "toggle",
+        "img": "images/items/urgentorderssupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "urgentorderssupport"
+    },
+    {
+        "name": "Normal Amulet",
+        "type": "toggle",
+        "img": "images/items/normalamulet.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "normalamulet"
+    },
+    {
+        "name": "Unique Sceptre",
+        "type": "toggle",
+        "img": "images/items/uniquesceptre.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uniquesceptre"
+    },
+    {
+        "name": "Magic Dagger",
+        "type": "toggle",
+        "img": "images/items/magicdagger.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicdagger"
+    },
+    {
+        "name": "Incinerate",
+        "type": "toggle",
+        "img": "images/items/incinerate.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "incinerate"
+    },
+    {
+        "name": "Wrath",
+        "type": "toggle",
+        "img": "images/items/wrath.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wrath"
+    },
+    {
+        "name": "Shattering Steel",
+        "type": "toggle",
+        "img": "images/items/shatteringsteel.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shatteringsteel"
+    },
+    {
+        "name": "Spell Cascade Support",
+        "type": "toggle",
+        "img": "images/items/spellcascadesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spellcascadesupport"
+    },
+    {
+        "name": "Magic Quiver",
+        "type": "toggle",
+        "img": "images/items/magicquiver.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicquiver"
+    },
+    {
+        "name": "Malevolence",
+        "type": "toggle",
+        "img": "images/items/malevolence.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "malevolence"
+    },
+    {
+        "name": "Melee Physical Damage Support",
+        "type": "toggle",
+        "img": "images/items/meleephysicaldamagesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "meleephysicaldamagesupport"
+    },
+    {
+        "name": "Ranger",
+        "type": "toggle",
+        "img": "images/items/ranger.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ranger"
+    },
+    {
+        "name": "Ambush",
+        "type": "toggle",
+        "img": "images/items/ambush.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ambush"
+    },
+    {
+        "name": "Glacial Shield Swipe",
+        "type": "toggle",
+        "img": "images/items/glacialshieldswipe.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "glacialshieldswipe"
+    },
+    {
+        "name": "Eye of Winter",
+        "type": "toggle",
+        "img": "images/items/eyeofwinter.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eyeofwinter"
+    },
+    {
+        "name": "Bonechill Support",
+        "type": "toggle",
+        "img": "images/items/bonechillsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bonechillsupport"
+    },
+    {
+        "name": "Burning Damage Support",
+        "type": "toggle",
+        "img": "images/items/burningdamagesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "burningdamagesupport"
+    },
+    {
+        "name": "Poacher's Mark",
+        "type": "toggle",
+        "img": "images/items/poacher'smark.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "poacher'smark"
+    },
+    {
+        "name": "Inspiration Support",
+        "type": "toggle",
+        "img": "images/items/inspirationsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "inspirationsupport"
+    },
+    {
+        "name": "Momentum Support",
+        "type": "toggle",
+        "img": "images/items/momentumsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "momentumsupport"
+    },
+    {
+        "name": "Warden",
+        "type": "toggle",
+        "img": "images/items/warden.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "warden"
+    },
+    {
+        "name": "Spectral Helix",
+        "type": "toggle",
+        "img": "images/items/spectralhelix.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spectralhelix"
+    },
+    {
+        "name": "Unique Ring (right)",
+        "type": "toggle",
+        "img": "images/items/uniquering(right).png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uniquering(right)"
+    },
+    {
+        "name": "Unearth",
+        "type": "toggle",
+        "img": "images/items/unearth.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "unearth"
+    },
+    {
+        "name": "Normal Shield",
+        "type": "toggle",
+        "img": "images/items/normalshield.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "normalshield"
+    },
+    {
+        "name": "Spell Echo Support",
+        "type": "toggle",
+        "img": "images/items/spellechosupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spellechosupport"
+    },
+    {
+        "name": "Power Charge On Critical Support",
+        "type": "toggle",
+        "img": "images/items/powerchargeoncriticalsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "powerchargeoncriticalsupport"
+    },
+    {
+        "name": "Puncture",
+        "type": "toggle",
+        "img": "images/items/puncture.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "puncture"
+    },
+    {
+        "name": "Storm Rain",
+        "type": "toggle",
+        "img": "images/items/stormrain.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stormrain"
+    },
+    {
+        "name": "Smoke Mine",
+        "type": "toggle",
+        "img": "images/items/smokemine.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smokemine"
+    },
+    {
+        "name": "Sacred Wisps Support",
+        "type": "toggle",
+        "img": "images/items/sacredwispssupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sacredwispssupport"
+    },
+    {
+        "name": "Overcharge Support",
+        "type": "toggle",
+        "img": "images/items/overchargesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "overchargesupport"
+    },
+    {
+        "name": "Ethereal Knives",
+        "type": "toggle",
+        "img": "images/items/etherealknives.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "etherealknives"
+    },
+    {
+        "name": "Trap and Mine Damage Support",
+        "type": "toggle",
+        "img": "images/items/trapandminedamagesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "trapandminedamagesupport"
+    },
+    {
+        "name": "Saboteur",
+        "type": "toggle",
+        "img": "images/items/saboteur.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "saboteur"
+    },
+    {
+        "name": "Summon Phantasm Support",
+        "type": "toggle",
+        "img": "images/items/summonphantasmsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "summonphantasmsupport"
+    },
+    {
+        "name": "General's Cry",
+        "type": "toggle",
+        "img": "images/items/general'scry.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "general'scry"
+    },
+    {
+        "name": "Bodyswap",
+        "type": "toggle",
+        "img": "images/items/bodyswap.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bodyswap"
+    },
+    {
+        "name": "Melee Splash Support",
+        "type": "toggle",
+        "img": "images/items/meleesplashsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "meleesplashsupport"
+    },
+    {
+        "name": "Sacrifice Support",
+        "type": "toggle",
+        "img": "images/items/sacrificesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sacrificesupport"
+    },
+    {
+        "name": "Guardian's Blessing Support",
+        "type": "toggle",
+        "img": "images/items/guardian'sblessingsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "guardian'sblessingsupport"
+    },
+    {
+        "name": "Sadism Support",
+        "type": "toggle",
+        "img": "images/items/sadismsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sadismsupport"
+    },
+    {
+        "name": "Magic Fishing Rod",
+        "type": "toggle",
+        "img": "images/items/magicfishingrod.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicfishingrod"
+    },
+    {
+        "name": "Armageddon Brand",
+        "type": "toggle",
+        "img": "images/items/armageddonbrand.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "armageddonbrand"
+    },
+    {
+        "name": "Mirage Archer Support",
+        "type": "toggle",
+        "img": "images/items/miragearchersupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "miragearchersupport"
+    },
+    {
+        "name": "Flame Wall",
+        "type": "toggle",
+        "img": "images/items/flamewall.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flamewall"
+    },
+    {
+        "name": "Warlord's Mark",
+        "type": "toggle",
+        "img": "images/items/warlord'smark.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "warlord'smark"
+    },
+    {
+        "name": "Rare Sceptre",
+        "type": "toggle",
+        "img": "images/items/raresceptre.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "raresceptre"
+    },
+    {
+        "name": "Glacial Hammer",
+        "type": "toggle",
+        "img": "images/items/glacialhammer.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "glacialhammer"
+    },
+    {
+        "name": "Magic Helmet",
+        "type": "toggle",
+        "img": "images/items/magichelmet.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magichelmet"
+    },
+    {
+        "name": "Prismatic Burst Support",
+        "type": "toggle",
+        "img": "images/items/prismaticburstsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "prismaticburstsupport"
+    },
+    {
+        "name": "Phase Run",
+        "type": "toggle",
+        "img": "images/items/phaserun.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "phaserun"
+    },
+    {
+        "name": "Chance to Poison Support",
+        "type": "toggle",
+        "img": "images/items/chancetopoisonsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chancetopoisonsupport"
+    },
+    {
+        "name": "Blight",
+        "type": "toggle",
+        "img": "images/items/blight.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blight"
+    },
+    {
+        "name": "Ancestral Warchief",
+        "type": "toggle",
+        "img": "images/items/ancestralwarchief.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ancestralwarchief"
+    },
+    {
+        "name": "Void Manipulation Support",
+        "type": "toggle",
+        "img": "images/items/voidmanipulationsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "voidmanipulationsupport"
+    },
+    {
+        "name": "Power Siphon",
+        "type": "toggle",
+        "img": "images/items/powersiphon.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "powersiphon"
+    },
+    {
+        "name": "Firestorm",
+        "type": "toggle",
+        "img": "images/items/firestorm.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "firestorm"
+    },
+    {
+        "name": "Magic Bow",
+        "type": "toggle",
+        "img": "images/items/magicbow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicbow"
+    },
+    {
+        "name": "Ancestral Protector",
+        "type": "toggle",
+        "img": "images/items/ancestralprotector.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ancestralprotector"
+    },
+    {
+        "name": "Berserker",
+        "type": "toggle",
+        "img": "images/items/berserker.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "berserker"
+    },
+    {
+        "name": "Perforate",
+        "type": "toggle",
+        "img": "images/items/perforate.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "perforate"
+    },
+    {
+        "name": "Unique Fishing Rod",
+        "type": "toggle",
+        "img": "images/items/uniquefishingrod.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uniquefishingrod"
+    },
+    {
+        "name": "Energy Leech Support",
+        "type": "toggle",
+        "img": "images/items/energyleechsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "energyleechsupport"
+    },
+    {
+        "name": "Normal Axe",
+        "type": "toggle",
+        "img": "images/items/normalaxe.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "normalaxe"
+    },
+    {
+        "name": "Protective Link",
+        "type": "toggle",
+        "img": "images/items/protectivelink.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "protectivelink"
+    },
+    {
+        "name": "Hypothermia Support",
+        "type": "toggle",
+        "img": "images/items/hypothermiasupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hypothermiasupport"
+    },
+    {
+        "name": "Chain Hook",
+        "type": "toggle",
+        "img": "images/items/chainhook.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chainhook"
+    },
+    {
+        "name": "Assassin's Mark",
+        "type": "toggle",
+        "img": "images/items/assassin'smark.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "assassin'smark"
+    },
+    {
+        "name": "Frostbite",
+        "type": "toggle",
+        "img": "images/items/frostbite.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "frostbite"
+    },
+    {
+        "name": "Animate Weapon",
+        "type": "toggle",
+        "img": "images/items/animateweapon.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "animateweapon"
+    },
+    {
+        "name": "Trickster",
+        "type": "toggle",
+        "img": "images/items/trickster.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "trickster"
+    },
+    {
+        "name": "Orb of Storms",
+        "type": "toggle",
+        "img": "images/items/orbofstorms.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "orbofstorms"
+    },
+    {
+        "name": "Normal Bow",
+        "type": "toggle",
+        "img": "images/items/normalbow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "normalbow"
+    },
+    {
+        "name": "Rare Ring (left)",
+        "type": "toggle",
+        "img": "images/items/rarering(left).png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rarering(left)"
+    },
+    {
+        "name": "Chain Support",
+        "type": "toggle",
+        "img": "images/items/chainsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chainsupport"
+    },
+    {
+        "name": "Burning Arrow",
+        "type": "toggle",
+        "img": "images/items/burningarrow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "burningarrow"
+    },
+    {
+        "name": "Cremation",
+        "type": "toggle",
+        "img": "images/items/cremation.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cremation"
+    },
+    {
+        "name": "Unique Claw",
+        "type": "toggle",
+        "img": "images/items/uniqueclaw.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uniqueclaw"
+    },
+    {
+        "name": "Volley Support",
+        "type": "toggle",
+        "img": "images/items/volleysupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "volleysupport"
+    },
+    {
+        "name": "Combustion Support",
+        "type": "toggle",
+        "img": "images/items/combustionsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "combustionsupport"
+    },
+    {
+        "name": "Blast Rain",
+        "type": "toggle",
+        "img": "images/items/blastrain.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blastrain"
+    },
+    {
+        "name": "Purity of Fire",
+        "type": "toggle",
+        "img": "images/items/purityoffire.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "purityoffire"
+    },
+    {
+        "name": "Ascendant",
+        "type": "toggle",
+        "img": "images/items/ascendant.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ascendant"
+    },
+    {
+        "name": "Bladestorm",
+        "type": "toggle",
+        "img": "images/items/bladestorm.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bladestorm"
+    },
+    {
+        "name": "Grace",
+        "type": "toggle",
+        "img": "images/items/grace.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "grace"
+    },
+    {
+        "name": "Innervate Support",
+        "type": "toggle",
+        "img": "images/items/innervatesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "innervatesupport"
+    },
+    {
+        "name": "Unique Boots",
+        "type": "toggle",
+        "img": "images/items/uniqueboots.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uniqueboots"
+    },
+    {
+        "name": "Battlemage's Cry",
+        "type": "toggle",
+        "img": "images/items/battlemage'scry.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "battlemage'scry"
+    },
+    {
+        "name": "Iron Grip Support",
+        "type": "toggle",
+        "img": "images/items/irongripsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "irongripsupport"
+    },
+    {
+        "name": "Elemental Proliferation Support",
+        "type": "toggle",
+        "img": "images/items/elementalproliferationsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "elementalproliferationsupport"
+    },
+    {
+        "name": "Dread Banner",
+        "type": "toggle",
+        "img": "images/items/dreadbanner.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dreadbanner"
+    },
+    {
+        "name": "Trap Support",
+        "type": "toggle",
+        "img": "images/items/trapsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "trapsupport"
+    },
+    {
+        "name": "Icicle Mine",
+        "type": "toggle",
+        "img": "images/items/iciclemine.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "iciclemine"
+    },
+    {
+        "name": "Cluster Traps Support",
+        "type": "toggle",
+        "img": "images/items/clustertrapssupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "clustertrapssupport"
+    },
+    {
+        "name": "Rare Dagger",
+        "type": "toggle",
+        "img": "images/items/raredagger.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "raredagger"
+    },
+    {
+        "name": "Maim Support",
+        "type": "toggle",
+        "img": "images/items/maimsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "maimsupport"
+    },
+    {
+        "name": "Blink Arrow",
+        "type": "toggle",
+        "img": "images/items/blinkarrow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blinkarrow"
+    },
+    {
+        "name": "Vampiric Link",
+        "type": "toggle",
+        "img": "images/items/vampiriclink.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "vampiriclink"
+    },
+    {
+        "name": "Forbidden Rite",
+        "type": "toggle",
+        "img": "images/items/forbiddenrite.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "forbiddenrite"
+    },
+    {
+        "name": "Mark On Hit Support",
+        "type": "toggle",
+        "img": "images/items/markonhitsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "markonhitsupport"
+    },
+    {
+        "name": "Ice Spear",
+        "type": "toggle",
+        "img": "images/items/icespear.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "icespear"
+    },
+    {
+        "name": "Rare Claw",
+        "type": "toggle",
+        "img": "images/items/rareclaw.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rareclaw"
+    },
+    {
+        "name": "Blastchain Mine Support",
+        "type": "toggle",
+        "img": "images/items/blastchainminesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blastchainminesupport"
+    },
+    {
+        "name": "Animate Guardian",
+        "type": "toggle",
+        "img": "images/items/animateguardian.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "animateguardian"
+    },
+    {
+        "name": "Shockwave Support",
+        "type": "toggle",
+        "img": "images/items/shockwavesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shockwavesupport"
+    },
+    {
+        "name": "Cast when Damage Taken Support",
+        "type": "toggle",
+        "img": "images/items/castwhendamagetakensupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "castwhendamagetakensupport"
+    },
+    {
+        "name": "Summon Carrion Golem",
+        "type": "toggle",
+        "img": "images/items/summoncarriongolem.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "summoncarriongolem"
+    },
+    {
+        "name": "Unique Gloves",
+        "type": "toggle",
+        "img": "images/items/uniquegloves.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uniquegloves"
+    },
+    {
+        "name": "Locus Mine Support",
+        "type": "toggle",
+        "img": "images/items/locusminesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "locusminesupport"
+    },
+    {
+        "name": "Cold Penetration Support",
+        "type": "toggle",
+        "img": "images/items/coldpenetrationsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "coldpenetrationsupport"
+    },
+    {
+        "name": "Concentrated Effect Support",
+        "type": "toggle",
+        "img": "images/items/concentratedeffectsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "concentratedeffectsupport"
+    },
+    {
+        "name": "Rage Vortex",
+        "type": "toggle",
+        "img": "images/items/ragevortex.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ragevortex"
+    },
+    {
+        "name": "Blazing Salvo",
+        "type": "toggle",
+        "img": "images/items/blazingsalvo.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blazingsalvo"
+    },
+    {
+        "name": "Marauder",
+        "type": "toggle",
+        "img": "images/items/marauder.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "marauder"
+    },
+    {
+        "name": "Arctic Armour",
+        "type": "toggle",
+        "img": "images/items/arcticarmour.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "arcticarmour"
+    },
+    {
+        "name": "Lightning Trap",
+        "type": "toggle",
+        "img": "images/items/lightningtrap.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lightningtrap"
+    },
+    {
+        "name": "Raise Spectre",
+        "type": "toggle",
+        "img": "images/items/raisespectre.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "raisespectre"
+    },
+    {
+        "name": "Efficacy Support",
+        "type": "toggle",
+        "img": "images/items/efficacysupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "efficacysupport"
+    },
+    {
+        "name": "Rain of Arrows",
+        "type": "toggle",
+        "img": "images/items/rainofarrows.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rainofarrows"
+    },
+    {
+        "name": "Progressive Unique Flask Unlock",
+        "type": "toggle",
+        "img": "images/items/progressiveuniqueflaskunlock.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressiveuniqueflaskunlock"
+    },
+    {
+        "name": "Decay Support",
+        "type": "toggle",
+        "img": "images/items/decaysupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "decaysupport"
+    },
+    {
+        "name": "Flesh and Stone",
+        "type": "toggle",
+        "img": "images/items/fleshandstone.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fleshandstone"
+    },
+    {
+        "name": "Vulnerability",
+        "type": "toggle",
+        "img": "images/items/vulnerability.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "vulnerability"
+    },
+    {
+        "name": "Flamethrower Trap",
+        "type": "toggle",
+        "img": "images/items/flamethrowertrap.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flamethrowertrap"
+    },
+    {
+        "name": "Brand Recall",
+        "type": "toggle",
+        "img": "images/items/brandrecall.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "brandrecall"
+    },
+    {
+        "name": "Tornado",
+        "type": "toggle",
+        "img": "images/items/tornado.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tornado"
+    },
+    {
+        "name": "Swordtorm",
+        "type": "toggle",
+        "img": "images/items/swordtorm.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "swordtorm"
+    },
+    {
+        "name": "Hatred",
+        "type": "toggle",
+        "img": "images/items/hatred.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hatred"
+    },
+    {
+        "name": "Leap Slam",
+        "type": "toggle",
+        "img": "images/items/leapslam.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "leapslam"
+    },
+    {
+        "name": "Scorching Ray",
+        "type": "toggle",
+        "img": "images/items/scorchingray.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "scorchingray"
+    },
+    {
+        "name": "Normal Ring (left)",
+        "type": "toggle",
+        "img": "images/items/normalring(left).png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "normalring(left)"
+    },
+    {
+        "name": "Alchemist's Mark",
+        "type": "toggle",
+        "img": "images/items/alchemist'smark.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "alchemist'smark"
+    },
+    {
+        "name": "Pestilent Strike",
+        "type": "toggle",
+        "img": "images/items/pestilentstrike.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pestilentstrike"
+    },
+    {
+        "name": "Infernal Legion Support",
+        "type": "toggle",
+        "img": "images/items/infernallegionsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "infernallegionsupport"
+    },
+    {
+        "name": "Exsanguinate",
+        "type": "toggle",
+        "img": "images/items/exsanguinate.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "exsanguinate"
+    },
+    {
+        "name": "Rare Staff",
+        "type": "toggle",
+        "img": "images/items/rarestaff.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rarestaff"
+    },
+    {
+        "name": "Hexblast",
+        "type": "toggle",
+        "img": "images/items/hexblast.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hexblast"
+    },
+    {
+        "name": "Frenzy",
+        "type": "toggle",
+        "img": "images/items/frenzy.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "frenzy"
+    },
+    {
+        "name": "Herald of Ash",
+        "type": "toggle",
+        "img": "images/items/heraldofash.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "heraldofash"
+    },
+    {
+        "name": "Summon Skitterbots",
+        "type": "toggle",
+        "img": "images/items/summonskitterbots.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "summonskitterbots"
+    },
+    {
+        "name": "Wave of Conviction",
+        "type": "toggle",
+        "img": "images/items/waveofconviction.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "waveofconviction"
+    },
+    {
+        "name": "Shockwave Totem",
+        "type": "toggle",
+        "img": "images/items/shockwavetotem.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shockwavetotem"
+    },
+    {
+        "name": "Culling Strike Support",
+        "type": "toggle",
+        "img": "images/items/cullingstrikesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cullingstrikesupport"
+    },
+    {
+        "name": "Trinity Support",
+        "type": "toggle",
+        "img": "images/items/trinitysupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "trinitysupport"
+    },
+    {
+        "name": "Flammability",
+        "type": "toggle",
+        "img": "images/items/flammability.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flammability"
+    },
+    {
+        "name": "Withering Step",
+        "type": "toggle",
+        "img": "images/items/witheringstep.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "witheringstep"
+    },
+    {
+        "name": "Multistrike Support",
+        "type": "toggle",
+        "img": "images/items/multistrikesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "multistrikesupport"
+    },
+    {
+        "name": "Rare Gloves",
+        "type": "toggle",
+        "img": "images/items/raregloves.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "raregloves"
+    },
+    {
+        "name": "Elemental Army Support",
+        "type": "toggle",
+        "img": "images/items/elementalarmysupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "elementalarmysupport"
+    },
+    {
+        "name": "Dominating Blow",
+        "type": "toggle",
+        "img": "images/items/dominatingblow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dominatingblow"
+    },
+    {
+        "name": "Tempest Shield",
+        "type": "toggle",
+        "img": "images/items/tempestshield.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tempestshield"
+    },
+    {
+        "name": "Immolate Support",
+        "type": "toggle",
+        "img": "images/items/immolatesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "immolatesupport"
+    },
+    {
+        "name": "Lightning Penetration Support",
+        "type": "toggle",
+        "img": "images/items/lightningpenetrationsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lightningpenetrationsupport"
+    },
+    {
+        "name": "Added Fire Damage Support",
+        "type": "toggle",
+        "img": "images/items/addedfiredamagesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "addedfiredamagesupport"
+    },
+    {
+        "name": "Normal Mace",
+        "type": "toggle",
+        "img": "images/items/normalmace.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "normalmace"
+    },
+    {
+        "name": "Molten Strike",
+        "type": "toggle",
+        "img": "images/items/moltenstrike.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "moltenstrike"
+    },
+    {
+        "name": "Summon Skeletons",
+        "type": "toggle",
+        "img": "images/items/summonskeletons.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "summonskeletons"
+    },
+    {
+        "name": "Conversion Trap",
+        "type": "toggle",
+        "img": "images/items/conversiontrap.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "conversiontrap"
+    },
+    {
+        "name": "Ruthless Support",
+        "type": "toggle",
+        "img": "images/items/ruthlesssupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ruthlesssupport"
+    },
+    {
+        "name": "Progressive max links - Weapon",
+        "type": "toggle",
+        "img": "images/items/progressivemaxlinks-weapon.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivemaxlinks-weapon"
+    },
+    {
+        "name": "Impending Doom Support",
+        "type": "toggle",
+        "img": "images/items/impendingdoomsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "impendingdoomsupport"
+    },
+    {
+        "name": "Elemental Hit",
+        "type": "toggle",
+        "img": "images/items/elementalhit.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "elementalhit"
+    },
+    {
+        "name": "Summon Lightning Golem",
+        "type": "toggle",
+        "img": "images/items/summonlightninggolem.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "summonlightninggolem"
+    },
+    {
+        "name": "Spark",
+        "type": "toggle",
+        "img": "images/items/spark.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spark"
+    },
+    {
+        "name": "Energy Blade",
+        "type": "toggle",
+        "img": "images/items/energyblade.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "energyblade"
+    },
+    {
+        "name": "Frost Blades",
+        "type": "toggle",
+        "img": "images/items/frostblades.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "frostblades"
+    },
+    {
+        "name": "Cold Snap",
+        "type": "toggle",
+        "img": "images/items/coldsnap.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "coldsnap"
+    },
+    {
+        "name": "Essence Drain",
+        "type": "toggle",
+        "img": "images/items/essencedrain.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "essencedrain"
+    },
+    {
+        "name": "Behead Support",
+        "type": "toggle",
+        "img": "images/items/beheadsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "beheadsupport"
+    },
+    {
+        "name": "Ice Bite Support",
+        "type": "toggle",
+        "img": "images/items/icebitesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "icebitesupport"
+    },
+    {
+        "name": "Critical Strike Affliction Support",
+        "type": "toggle",
+        "img": "images/items/criticalstrikeafflictionsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "criticalstrikeafflictionsupport"
+    },
+    {
+        "name": "Blood and Sand",
+        "type": "toggle",
+        "img": "images/items/bloodandsand.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bloodandsand"
+    },
+    {
+        "name": "Less Duration Support",
+        "type": "toggle",
+        "img": "images/items/lessdurationsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lessdurationsupport"
+    },
+    {
+        "name": "Predator Support",
+        "type": "toggle",
+        "img": "images/items/predatorsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "predatorsupport"
+    },
+    {
+        "name": "Galvanic Arrow",
+        "type": "toggle",
+        "img": "images/items/galvanicarrow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "galvanicarrow"
+    },
+    {
+        "name": "Herald of Ice",
+        "type": "toggle",
+        "img": "images/items/heraldofice.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "heraldofice"
+    },
+    {
+        "name": "Purity of Ice",
+        "type": "toggle",
+        "img": "images/items/purityofice.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "purityofice"
+    },
+    {
+        "name": "Elemental Focus Support",
+        "type": "toggle",
+        "img": "images/items/elementalfocussupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "elementalfocussupport"
+    },
+    {
+        "name": "Herald of Purity",
+        "type": "toggle",
+        "img": "images/items/heraldofpurity.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "heraldofpurity"
+    },
+    {
+        "name": "Rare Boots",
+        "type": "toggle",
+        "img": "images/items/rareboots.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rareboots"
+    },
+    {
+        "name": "Rare Sword",
+        "type": "toggle",
+        "img": "images/items/raresword.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "raresword"
+    },
+    {
+        "name": "Glacial Cascade",
+        "type": "toggle",
+        "img": "images/items/glacialcascade.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "glacialcascade"
+    },
+    {
+        "name": "Earthbreaker Support",
+        "type": "toggle",
+        "img": "images/items/earthbreakersupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "earthbreakersupport"
+    },
+    {
+        "name": "Fist of War Support",
+        "type": "toggle",
+        "img": "images/items/fistofwarsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fistofwarsupport"
+    },
+    {
+        "name": "Caustic Arrow",
+        "type": "toggle",
+        "img": "images/items/causticarrow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "causticarrow"
+    },
+    {
+        "name": "Destructive Link",
+        "type": "toggle",
+        "img": "images/items/destructivelink.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "destructivelink"
+    },
+    {
+        "name": "Magic Sword",
+        "type": "toggle",
+        "img": "images/items/magicsword.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicsword"
+    },
+    {
+        "name": "Summon Ice Golem",
+        "type": "toggle",
+        "img": "images/items/summonicegolem.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "summonicegolem"
+    },
+    {
+        "name": "Endurance Charge on Melee Stun Support",
+        "type": "toggle",
+        "img": "images/items/endurancechargeonmeleestunsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "endurancechargeonmeleestunsupport"
+    },
+    {
+        "name": "Elementalist",
+        "type": "toggle",
+        "img": "images/items/elementalist.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "elementalist"
+    },
+    {
+        "name": "Normal Quiver",
+        "type": "toggle",
+        "img": "images/items/normalquiver.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "normalquiver"
+    },
+    {
+        "name": "Ensnaring Arrow",
+        "type": "toggle",
+        "img": "images/items/ensnaringarrow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ensnaringarrow"
+    },
+    {
+        "name": "Absolution",
+        "type": "toggle",
+        "img": "images/items/absolution.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "absolution"
+    },
+    {
+        "name": "Kinetic Blast",
+        "type": "toggle",
+        "img": "images/items/kineticblast.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kineticblast"
+    },
+    {
+        "name": "Vengeance",
+        "type": "toggle",
+        "img": "images/items/vengeance.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "vengeance"
+    },
+    {
+        "name": "Expert Retaliation Support",
+        "type": "toggle",
+        "img": "images/items/expertretaliationsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "expertretaliationsupport"
+    },
+    {
+        "name": "Deadeye",
+        "type": "toggle",
+        "img": "images/items/deadeye.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "deadeye"
+    },
+    {
+        "name": "Intimidating Cry",
+        "type": "toggle",
+        "img": "images/items/intimidatingcry.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "intimidatingcry"
+    },
+    {
+        "name": "Toxic Rain",
+        "type": "toggle",
+        "img": "images/items/toxicrain.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "toxicrain"
+    },
+    {
+        "name": "Artillery Ballista",
+        "type": "toggle",
+        "img": "images/items/artilleryballista.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "artilleryballista"
+    },
+    {
+        "name": "Volatile Dead",
+        "type": "toggle",
+        "img": "images/items/volatiledead.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "volatiledead"
+    },
+    {
+        "name": "Searing Bond",
+        "type": "toggle",
+        "img": "images/items/searingbond.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "searingbond"
+    },
+    {
+        "name": "Void Sphere",
+        "type": "toggle",
+        "img": "images/items/voidsphere.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "voidsphere"
+    },
+    {
+        "name": "Charged Mines Support",
+        "type": "toggle",
+        "img": "images/items/chargedminessupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chargedminessupport"
+    },
+    {
+        "name": "Lesser Multiple Projectiles Support",
+        "type": "toggle",
+        "img": "images/items/lessermultipleprojectilessupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lessermultipleprojectilessupport"
+    },
+    {
+        "name": "Normal Gloves",
+        "type": "toggle",
+        "img": "images/items/normalgloves.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "normalgloves"
+    },
+    {
+        "name": "Punishment",
+        "type": "toggle",
+        "img": "images/items/punishment.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "punishment"
+    },
+    {
+        "name": "Dash",
+        "type": "toggle",
+        "img": "images/items/dash.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dash"
+    },
+    {
+        "name": "Trauma Support",
+        "type": "toggle",
+        "img": "images/items/traumasupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "traumasupport"
+    },
+    {
+        "name": "Storm Call",
+        "type": "toggle",
+        "img": "images/items/stormcall.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stormcall"
+    },
+    {
+        "name": "High-Impact Mine Support",
+        "type": "toggle",
+        "img": "images/items/high-impactminesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "high-impactminesupport"
+    },
+    {
+        "name": "Molten Shell",
+        "type": "toggle",
+        "img": "images/items/moltenshell.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "moltenshell"
+    },
+    {
+        "name": "Assassin",
+        "type": "toggle",
+        "img": "images/items/assassin.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "assassin"
+    },
+    {
+        "name": "Whirling Blades",
+        "type": "toggle",
+        "img": "images/items/whirlingblades.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "whirlingblades"
+    },
+    {
+        "name": "Sigil of Power",
+        "type": "toggle",
+        "img": "images/items/sigilofpower.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sigilofpower"
+    },
+    {
+        "name": "Explosive Trap",
+        "type": "toggle",
+        "img": "images/items/explosivetrap.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "explosivetrap"
+    },
+    {
+        "name": "Cast on Death Support",
+        "type": "toggle",
+        "img": "images/items/castondeathsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "castondeathsupport"
+    },
+    {
+        "name": "Physical to Lightning Support",
+        "type": "toggle",
+        "img": "images/items/physicaltolightningsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "physicaltolightningsupport"
+    },
+    {
+        "name": "Lightning Arrow",
+        "type": "toggle",
+        "img": "images/items/lightningarrow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lightningarrow"
+    },
+    {
+        "name": "Rare Fishing Rod",
+        "type": "toggle",
+        "img": "images/items/rarefishingrod.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rarefishingrod"
+    },
+    {
+        "name": "Infernal Blow",
+        "type": "toggle",
+        "img": "images/items/infernalblow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "infernalblow"
+    },
+    {
+        "name": "Unique Quiver",
+        "type": "toggle",
+        "img": "images/items/uniquequiver.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uniquequiver"
+    },
+    {
+        "name": "Voltaxic Burst",
+        "type": "toggle",
+        "img": "images/items/voltaxicburst.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "voltaxicburst"
+    },
+    {
+        "name": "Rare Wand",
+        "type": "toggle",
+        "img": "images/items/rarewand.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rarewand"
+    },
+    {
+        "name": "Detonate Dead",
+        "type": "toggle",
+        "img": "images/items/detonatedead.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "detonatedead"
+    },
+    {
+        "name": "Ancestral Call Support",
+        "type": "toggle",
+        "img": "images/items/ancestralcallsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ancestralcallsupport"
+    },
+    {
+        "name": "Lifetap Support",
+        "type": "toggle",
+        "img": "images/items/lifetapsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lifetapsupport"
+    },
+    {
+        "name": "Additional Accuracy Support",
+        "type": "toggle",
+        "img": "images/items/additionalaccuracysupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "additionalaccuracysupport"
+    },
+    {
+        "name": "Intuitive Link",
+        "type": "toggle",
+        "img": "images/items/intuitivelink.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "intuitivelink"
+    },
+    {
+        "name": "Storm Burst",
+        "type": "toggle",
+        "img": "images/items/stormburst.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stormburst"
+    },
+    {
+        "name": "Seismic Cry",
+        "type": "toggle",
+        "img": "images/items/seismiccry.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "seismiccry"
+    },
+    {
+        "name": "Multiple Totems Support",
+        "type": "toggle",
+        "img": "images/items/multipletotemssupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "multipletotemssupport"
+    },
+    {
+        "name": "Magic BodyArmour",
+        "type": "toggle",
+        "img": "images/items/magicbodyarmour.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicbodyarmour"
+    },
+    {
+        "name": "Petrified Blood",
+        "type": "toggle",
+        "img": "images/items/petrifiedblood.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "petrifiedblood"
+    },
+    {
+        "name": "Creeping Frost",
+        "type": "toggle",
+        "img": "images/items/creepingfrost.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "creepingfrost"
+    },
+    {
+        "name": "Split Arrow",
+        "type": "toggle",
+        "img": "images/items/splitarrow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "splitarrow"
+    },
+    {
+        "name": "Templar",
+        "type": "toggle",
+        "img": "images/items/templar.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "templar"
+    },
+    {
+        "name": "Defiance Banner",
+        "type": "toggle",
+        "img": "images/items/defiancebanner.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "defiancebanner"
+    },
+    {
+        "name": "Progressive max links - Body",
+        "type": "toggle",
+        "img": "images/items/progressivemaxlinks-body.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivemaxlinks-body"
+    },
+    {
+        "name": "Magic Mace",
+        "type": "toggle",
+        "img": "images/items/magicmace.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicmace"
+    },
+    {
+        "name": "Frostblink",
+        "type": "toggle",
+        "img": "images/items/frostblink.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "frostblink"
+    },
+    {
+        "name": "Flesh Offering",
+        "type": "toggle",
+        "img": "images/items/fleshoffering.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fleshoffering"
+    },
+    {
+        "name": "Steelskin",
+        "type": "toggle",
+        "img": "images/items/steelskin.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "steelskin"
+    },
+    {
+        "name": "Penance Brand",
+        "type": "toggle",
+        "img": "images/items/penancebrand.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "penancebrand"
+    },
+    {
+        "name": "Smite",
+        "type": "toggle",
+        "img": "images/items/smite.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smite"
+    },
+    {
+        "name": "Added Cold Damage Support",
+        "type": "toggle",
+        "img": "images/items/addedcolddamagesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "addedcolddamagesupport"
+    },
+    {
+        "name": "Point Blank Support",
+        "type": "toggle",
+        "img": "images/items/pointblanksupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pointblanksupport"
+    },
+    {
+        "name": "Shrapnel Ballista",
+        "type": "toggle",
+        "img": "images/items/shrapnelballista.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shrapnelballista"
+    },
+    {
+        "name": "Greater Multiple Projectiles Support",
+        "type": "toggle",
+        "img": "images/items/greatermultipleprojectilessupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "greatermultipleprojectilessupport"
+    },
+    {
+        "name": "Normal Belt",
+        "type": "toggle",
+        "img": "images/items/normalbelt.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "normalbelt"
+    },
+    {
+        "name": "Progressive Flask Unlock Slot",
+        "type": "toggle",
+        "img": "images/items/progressiveflaskunlockslot.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressiveflaskunlockslot"
+    },
+    {
+        "name": "Magic Wand",
+        "type": "toggle",
+        "img": "images/items/magicwand.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicwand"
+    },
+    {
+        "name": "Magic Ring (left)",
+        "type": "toggle",
+        "img": "images/items/magicring(left).png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicring(left)"
+    },
+    {
+        "name": "Damage on Full Life Support",
+        "type": "toggle",
+        "img": "images/items/damageonfulllifesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "damageonfulllifesupport"
+    },
+    {
+        "name": "Unique Dagger",
+        "type": "toggle",
+        "img": "images/items/uniquedagger.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uniquedagger"
+    },
+    {
+        "name": "Eternal Blessing Support",
+        "type": "toggle",
+        "img": "images/items/eternalblessingsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eternalblessingsupport"
+    },
+    {
+        "name": "Swift Assembly Support",
+        "type": "toggle",
+        "img": "images/items/swiftassemblysupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "swiftassemblysupport"
+    },
+    {
+        "name": "Normal Sceptre",
+        "type": "toggle",
+        "img": "images/items/normalsceptre.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "normalsceptre"
+    },
+    {
+        "name": "Boneshatter",
+        "type": "toggle",
+        "img": "images/items/boneshatter.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "boneshatter"
+    },
+    {
+        "name": "Splitting Steel",
+        "type": "toggle",
+        "img": "images/items/splittingsteel.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "splittingsteel"
+    },
+    {
+        "name": "Greater Volley Support",
+        "type": "toggle",
+        "img": "images/items/greatervolleysupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "greatervolleysupport"
+    },
+    {
+        "name": "Detonate Mines",
+        "type": "toggle",
+        "img": "images/items/detonatemines.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "detonatemines"
+    },
+    {
+        "name": "Blade Vortex",
+        "type": "toggle",
+        "img": "images/items/bladevortex.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bladevortex"
+    },
+    {
+        "name": "Poisonous Concoction",
+        "type": "toggle",
+        "img": "images/items/poisonousconcoction.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "poisonousconcoction"
+    },
+    {
+        "name": "Kinetic Bolt",
+        "type": "toggle",
+        "img": "images/items/kineticbolt.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kineticbolt"
+    },
+    {
+        "name": "Magic Axe",
+        "type": "toggle",
+        "img": "images/items/magicaxe.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicaxe"
+    },
+    {
+        "name": "Controlled Destruction Support",
+        "type": "toggle",
+        "img": "images/items/controlleddestructionsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "controlleddestructionsupport"
+    },
+    {
+        "name": "Cobra Lash",
+        "type": "toggle",
+        "img": "images/items/cobralash.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cobralash"
+    },
+    {
+        "name": "Rage Support",
+        "type": "toggle",
+        "img": "images/items/ragesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ragesupport"
+    },
+    {
+        "name": "Convocation",
+        "type": "toggle",
+        "img": "images/items/convocation.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "convocation"
+    },
+    {
+        "name": "Witch",
+        "type": "toggle",
+        "img": "images/items/witch.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "witch"
+    },
+    {
+        "name": "Minion Speed Support",
+        "type": "toggle",
+        "img": "images/items/minionspeedsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "minionspeedsupport"
+    },
+    {
+        "name": "Progressive max links - Boot",
+        "type": "toggle",
+        "img": "images/items/progressivemaxlinks-boot.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivemaxlinks-boot"
+    },
+    {
+        "name": "Venom Gyre",
+        "type": "toggle",
+        "img": "images/items/venomgyre.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "venomgyre"
+    },
+    {
+        "name": "Immortal Call",
+        "type": "toggle",
+        "img": "images/items/immortalcall.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "immortalcall"
+    },
+    {
+        "name": "Mana Leech Support",
+        "type": "toggle",
+        "img": "images/items/manaleechsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "manaleechsupport"
+    },
+    {
+        "name": "Progressive Magic Flask Unlock",
+        "type": "toggle",
+        "img": "images/items/progressivemagicflaskunlock.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivemagicflaskunlock"
+    },
+    {
+        "name": "Generosity Support",
+        "type": "toggle",
+        "img": "images/items/generositysupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "generositysupport"
+    },
+    {
+        "name": "Frigid Bond Support",
+        "type": "toggle",
+        "img": "images/items/frigidbondsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "frigidbondsupport"
+    },
+    {
+        "name": "Corrupting Fever",
+        "type": "toggle",
+        "img": "images/items/corruptingfever.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "corruptingfever"
+    },
+    {
+        "name": "Summon Stone Golem",
+        "type": "toggle",
+        "img": "images/items/summonstonegolem.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "summonstonegolem"
+    },
+    {
+        "name": "Intensify Support",
+        "type": "toggle",
+        "img": "images/items/intensifysupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "intensifysupport"
+    },
+    {
+        "name": "Normal Boots",
+        "type": "toggle",
+        "img": "images/items/normalboots.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "normalboots"
+    },
+    {
+        "name": "Fortify Support",
+        "type": "toggle",
+        "img": "images/items/fortifysupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fortifysupport"
+    },
+    {
+        "name": "Blade Flurry",
+        "type": "toggle",
+        "img": "images/items/bladeflurry.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bladeflurry"
+    },
+    {
+        "name": "Winter Orb",
+        "type": "toggle",
+        "img": "images/items/winterorb.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "winterorb"
+    },
+    {
+        "name": "Minefield Support",
+        "type": "toggle",
+        "img": "images/items/minefieldsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "minefieldsupport"
+    },
+    {
+        "name": "Rare Ring (right)",
+        "type": "toggle",
+        "img": "images/items/rarering(right).png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rarering(right)"
+    },
+    {
+        "name": "Unique Mace",
+        "type": "toggle",
+        "img": "images/items/uniquemace.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uniquemace"
+    },
+    {
+        "name": "Explosive Concoction",
+        "type": "toggle",
+        "img": "images/items/explosiveconcoction.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "explosiveconcoction"
+    },
+    {
+        "name": "Ground Slam",
+        "type": "toggle",
+        "img": "images/items/groundslam.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "groundslam"
+    },
+    {
+        "name": "Devour Support",
+        "type": "toggle",
+        "img": "images/items/devoursupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "devoursupport"
+    },
+    {
+        "name": "Rare Axe",
+        "type": "toggle",
+        "img": "images/items/rareaxe.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rareaxe"
+    },
+    {
+        "name": "Automation",
+        "type": "toggle",
+        "img": "images/items/automation.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "automation"
+    },
+    {
+        "name": "Added Chaos Damage Support",
+        "type": "toggle",
+        "img": "images/items/addedchaosdamagesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "addedchaosdamagesupport"
+    },
+    {
+        "name": "Focused Channelling Support",
+        "type": "toggle",
+        "img": "images/items/focusedchannellingsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "focusedchannellingsupport"
+    },
+    {
+        "name": "Tectonic Slam",
+        "type": "toggle",
+        "img": "images/items/tectonicslam.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tectonicslam"
+    },
+    {
+        "name": "Normal Staff",
+        "type": "toggle",
+        "img": "images/items/normalstaff.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "normalstaff"
+    },
+    {
+        "name": "Fork Support",
+        "type": "toggle",
+        "img": "images/items/forksupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "forksupport"
+    },
+    {
+        "name": "Item Rarity Support",
+        "type": "toggle",
+        "img": "images/items/itemraritysupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "itemraritysupport"
+    },
+    {
+        "name": "Normal Sword",
+        "type": "toggle",
+        "img": "images/items/normalsword.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "normalsword"
+    },
+    {
+        "name": "Magic Belt",
+        "type": "toggle",
+        "img": "images/items/magicbelt.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicbelt"
+    },
+    {
+        "name": "Multiple Traps Support",
+        "type": "toggle",
+        "img": "images/items/multipletrapssupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "multipletrapssupport"
+    },
+    {
+        "name": "Infernal Cry",
+        "type": "toggle",
+        "img": "images/items/infernalcry.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "infernalcry"
+    },
+    {
+        "name": "Spectral Throw",
+        "type": "toggle",
+        "img": "images/items/spectralthrow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spectralthrow"
+    },
+    {
+        "name": "Guardian",
+        "type": "toggle",
+        "img": "images/items/guardian.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "guardian"
+    },
+    {
+        "name": "Duelist",
+        "type": "toggle",
+        "img": "images/items/duelist.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "duelist"
+    },
+    {
+        "name": "Hextouch Support",
+        "type": "toggle",
+        "img": "images/items/hextouchsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hextouchsupport"
+    },
+    {
+        "name": "Pinpoint Support",
+        "type": "toggle",
+        "img": "images/items/pinpointsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pinpointsupport"
+    },
+    {
+        "name": "Vengeful Cry",
+        "type": "toggle",
+        "img": "images/items/vengefulcry.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "vengefulcry"
+    },
+    {
+        "name": "Rare Belt",
+        "type": "toggle",
+        "img": "images/items/rarebelt.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rarebelt"
+    },
+    {
+        "name": "Fireball",
+        "type": "toggle",
+        "img": "images/items/fireball.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fireball"
+    },
+    {
+        "name": "Bladefall",
+        "type": "toggle",
+        "img": "images/items/bladefall.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bladefall"
+    },
+    {
+        "name": "Soulrend",
+        "type": "toggle",
+        "img": "images/items/soulrend.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "soulrend"
+    },
+    {
+        "name": "Arrow Nova Support",
+        "type": "toggle",
+        "img": "images/items/arrownovasupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "arrownovasupport"
+    },
+    {
+        "name": "Unique Wand",
+        "type": "toggle",
+        "img": "images/items/uniquewand.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uniquewand"
+    },
+    {
+        "name": "Life Gain on Hit Support",
+        "type": "toggle",
+        "img": "images/items/lifegainonhitsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lifegainonhitsupport"
+    },
+    {
+        "name": "Barrage",
+        "type": "toggle",
+        "img": "images/items/barrage.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "barrage"
+    },
+    {
+        "name": "Magic Boots",
+        "type": "toggle",
+        "img": "images/items/magicboots.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicboots"
+    },
+    {
+        "name": "Added Lightning Damage Support",
+        "type": "toggle",
+        "img": "images/items/addedlightningdamagesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "addedlightningdamagesupport"
+    },
+    {
+        "name": "Blasphemy Support",
+        "type": "toggle",
+        "img": "images/items/blasphemysupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blasphemysupport"
+    },
+    {
+        "name": "Frozen Legion",
+        "type": "toggle",
+        "img": "images/items/frozenlegion.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "frozenlegion"
+    },
+    {
+        "name": "Increased Area of Effect Support",
+        "type": "toggle",
+        "img": "images/items/increasedareaofeffectsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "increasedareaofeffectsupport"
+    },
+    {
+        "name": "Swiftbrand Support",
+        "type": "toggle",
+        "img": "images/items/swiftbrandsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "swiftbrandsupport"
+    },
+    {
+        "name": "Hydrosphere",
+        "type": "toggle",
+        "img": "images/items/hydrosphere.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hydrosphere"
+    },
+    {
+        "name": "Unique Shield",
+        "type": "toggle",
+        "img": "images/items/uniqueshield.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uniqueshield"
+    },
+    {
+        "name": "Shield Charge",
+        "type": "toggle",
+        "img": "images/items/shieldcharge.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shieldcharge"
+    },
+    {
+        "name": "Blade Trap",
+        "type": "toggle",
+        "img": "images/items/bladetrap.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bladetrap"
+    },
+    {
+        "name": "Chance to Bleed Support",
+        "type": "toggle",
+        "img": "images/items/chancetobleedsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chancetobleedsupport"
+    },
+    {
+        "name": "Explosive Arrow",
+        "type": "toggle",
+        "img": "images/items/explosivearrow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "explosivearrow"
+    },
+    {
+        "name": "Tornado Shot",
+        "type": "toggle",
+        "img": "images/items/tornadoshot.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tornadoshot"
+    },
+    {
+        "name": "Summon Reaper",
+        "type": "toggle",
+        "img": "images/items/summonreaper.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "summonreaper"
+    },
+    {
+        "name": "Pathfinder",
+        "type": "toggle",
+        "img": "images/items/pathfinder.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pathfinder"
+    },
+    {
+        "name": "Minion Life Support",
+        "type": "toggle",
+        "img": "images/items/minionlifesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "minionlifesupport"
+    },
+    {
+        "name": "Iron Will Support",
+        "type": "toggle",
+        "img": "images/items/ironwillsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ironwillsupport"
+    },
+    {
+        "name": "Minion Damage Support",
+        "type": "toggle",
+        "img": "images/items/miniondamagesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "miniondamagesupport"
+    },
+    {
+        "name": "Rare Quiver",
+        "type": "toggle",
+        "img": "images/items/rarequiver.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rarequiver"
+    },
+    {
+        "name": "Haste",
+        "type": "toggle",
+        "img": "images/items/haste.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "haste"
+    },
+    {
+        "name": "Normal Dagger",
+        "type": "toggle",
+        "img": "images/items/normaldagger.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "normaldagger"
+    },
+    {
+        "name": "Controlled Blaze Support",
+        "type": "toggle",
+        "img": "images/items/controlledblazesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "controlledblazesupport"
+    },
+    {
+        "name": "Vicious Projectiles Support",
+        "type": "toggle",
+        "img": "images/items/viciousprojectilessupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "viciousprojectilessupport"
+    },
+    {
+        "name": "Lightning Spire Trap",
+        "type": "toggle",
+        "img": "images/items/lightningspiretrap.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lightningspiretrap"
+    },
+    {
+        "name": "Shield Crush",
+        "type": "toggle",
+        "img": "images/items/shieldcrush.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shieldcrush"
+    },
+    {
+        "name": "Chance to Flee Support",
+        "type": "toggle",
+        "img": "images/items/chancetofleesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chancetofleesupport"
+    },
+    {
+        "name": "Rare Amulet",
+        "type": "toggle",
+        "img": "images/items/rareamulet.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rareamulet"
+    },
+    {
+        "name": "Progressive max links - Offhand",
+        "type": "toggle",
+        "img": "images/items/progressivemaxlinks-offhand.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivemaxlinks-offhand"
+    },
+    {
+        "name": "Spellblade Support",
+        "type": "toggle",
+        "img": "images/items/spellbladesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spellbladesupport"
+    },
+    {
+        "name": "Frost Wall",
+        "type": "toggle",
+        "img": "images/items/frostwall.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "frostwall"
+    },
+    {
+        "name": "Magic Sceptre",
+        "type": "toggle",
+        "img": "images/items/magicsceptre.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicsceptre"
+    },
+    {
+        "name": "Unique Bow",
+        "type": "toggle",
+        "img": "images/items/uniquebow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uniquebow"
+    },
+    {
+        "name": "Arcane Surge Support",
+        "type": "toggle",
+        "img": "images/items/arcanesurgesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "arcanesurgesupport"
+    },
+    {
+        "name": "Rejuvenation Totem",
+        "type": "toggle",
+        "img": "images/items/rejuvenationtotem.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rejuvenationtotem"
+    },
+    {
+        "name": "Determination",
+        "type": "toggle",
+        "img": "images/items/determination.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "determination"
+    },
+    {
+        "name": "Faster Attacks Support",
+        "type": "toggle",
+        "img": "images/items/fasterattackssupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fasterattackssupport"
+    },
+    {
+        "name": "Herald of Thunder",
+        "type": "toggle",
+        "img": "images/items/heraldofthunder.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "heraldofthunder"
+    },
+    {
+        "name": "Pride",
+        "type": "toggle",
+        "img": "images/items/pride.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pride"
+    },
+    {
+        "name": "Unleash Support",
+        "type": "toggle",
+        "img": "images/items/unleashsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "unleashsupport"
+    },
+    {
+        "name": "Summon Raging Spirit",
+        "type": "toggle",
+        "img": "images/items/summonragingspirit.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "summonragingspirit"
+    },
+    {
+        "name": "Pulverise Support",
+        "type": "toggle",
+        "img": "images/items/pulverisesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pulverisesupport"
+    },
+    {
+        "name": "Stormbind",
+        "type": "toggle",
+        "img": "images/items/stormbind.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stormbind"
+    },
+    {
+        "name": "Ice Trap",
+        "type": "toggle",
+        "img": "images/items/icetrap.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "icetrap"
+    },
+    {
+        "name": "Unbound Ailments Support",
+        "type": "toggle",
+        "img": "images/items/unboundailmentssupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "unboundailmentssupport"
+    },
+    {
+        "name": "Progressive max links - Glove",
+        "type": "toggle",
+        "img": "images/items/progressivemaxlinks-glove.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivemaxlinks-glove"
+    },
+    {
+        "name": "Devouring Totem",
+        "type": "toggle",
+        "img": "images/items/devouringtotem.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "devouringtotem"
+    },
+    {
+        "name": "Plague Bearer",
+        "type": "toggle",
+        "img": "images/items/plaguebearer.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "plaguebearer"
+    },
+    {
+        "name": "Enfeeble",
+        "type": "toggle",
+        "img": "images/items/enfeeble.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "enfeeble"
+    },
+    {
+        "name": "Arcanist Brand",
+        "type": "toggle",
+        "img": "images/items/arcanistbrand.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "arcanistbrand"
+    },
+    {
+        "name": "Impale Support",
+        "type": "toggle",
+        "img": "images/items/impalesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "impalesupport"
+    },
+    {
+        "name": "Fire Trap",
+        "type": "toggle",
+        "img": "images/items/firetrap.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "firetrap"
+    },
+    {
+        "name": "Corrupting Cry Support",
+        "type": "toggle",
+        "img": "images/items/corruptingcrysupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "corruptingcrysupport"
+    },
+    {
+        "name": "Vigilant Strike",
+        "type": "toggle",
+        "img": "images/items/vigilantstrike.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "vigilantstrike"
+    },
+    {
+        "name": "Advanced Traps Support",
+        "type": "toggle",
+        "img": "images/items/advancedtrapssupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "advancedtrapssupport"
+    },
+    {
+        "name": "Progressive passive point",
+        "type": "toggle",
+        "img": "images/items/progressivepassivepoint.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivepassivepoint"
+    },
+    {
+        "name": "Discipline",
+        "type": "toggle",
+        "img": "images/items/discipline.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "discipline"
+    },
+    {
+        "name": "Cleave",
+        "type": "toggle",
+        "img": "images/items/cleave.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cleave"
+    },
+    {
+        "name": "Shock Nova",
+        "type": "toggle",
+        "img": "images/items/shocknova.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shocknova"
+    },
+    {
+        "name": "Meat Shield Support",
+        "type": "toggle",
+        "img": "images/items/meatshieldsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "meatshieldsupport"
+    },
+    {
+        "name": "Dual Strike",
+        "type": "toggle",
+        "img": "images/items/dualstrike.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dualstrike"
+    },
+    {
+        "name": "Lancing Steel",
+        "type": "toggle",
+        "img": "images/items/lancingsteel.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lancingsteel"
+    },
+    {
+        "name": "Unique Belt",
+        "type": "toggle",
+        "img": "images/items/uniquebelt.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uniquebelt"
+    },
+    {
+        "name": "Normal Fishing Rod",
+        "type": "toggle",
+        "img": "images/items/normalfishingrod.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "normalfishingrod"
+    },
+    {
+        "name": "Purity of Elements",
+        "type": "toggle",
+        "img": "images/items/purityofelements.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "purityofelements"
+    },
+    {
+        "name": "Focused Ballista Support",
+        "type": "toggle",
+        "img": "images/items/focusedballistasupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "focusedballistasupport"
+    },
+    {
+        "name": "Unique Helmet",
+        "type": "toggle",
+        "img": "images/items/uniquehelmet.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uniquehelmet"
+    },
+    {
+        "name": "Bloodthirst Support",
+        "type": "toggle",
+        "img": "images/items/bloodthirstsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bloodthirstsupport"
+    },
+    {
+        "name": "Archmage Support",
+        "type": "toggle",
+        "img": "images/items/archmagesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "archmagesupport"
+    },
+    {
+        "name": "Hierophant",
+        "type": "toggle",
+        "img": "images/items/hierophant.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hierophant"
+    },
+    {
+        "name": "Ice Nova",
+        "type": "toggle",
+        "img": "images/items/icenova.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "icenova"
+    },
+    {
+        "name": "Wild Strike",
+        "type": "toggle",
+        "img": "images/items/wildstrike.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wildstrike"
+    },
+    {
+        "name": "Lightning Conduit",
+        "type": "toggle",
+        "img": "images/items/lightningconduit.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lightningconduit"
+    },
+    {
+        "name": "Stun Support",
+        "type": "toggle",
+        "img": "images/items/stunsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stunsupport"
+    },
+    {
+        "name": "Divine Retribution",
+        "type": "toggle",
+        "img": "images/items/divineretribution.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "divineretribution"
+    },
+    {
+        "name": "Spellslinger",
+        "type": "toggle",
+        "img": "images/items/spellslinger.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spellslinger"
+    },
+    {
+        "name": "Autoexertion",
+        "type": "toggle",
+        "img": "images/items/autoexertion.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "autoexertion"
+    },
+    {
+        "name": "Flicker Strike",
+        "type": "toggle",
+        "img": "images/items/flickerstrike.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flickerstrike"
+    },
+    {
+        "name": "Lightning Tendrils",
+        "type": "toggle",
+        "img": "images/items/lightningtendrils.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lightningtendrils"
+    },
+    {
+        "name": "Spirit Offering",
+        "type": "toggle",
+        "img": "images/items/spiritoffering.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spiritoffering"
+    },
+    {
+        "name": "Soul Link",
+        "type": "toggle",
+        "img": "images/items/soullink.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "soullink"
+    },
+    {
+        "name": "Barrage Support",
+        "type": "toggle",
+        "img": "images/items/barragesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "barragesupport"
+    },
+    {
+        "name": "Feeding Frenzy Support",
+        "type": "toggle",
+        "img": "images/items/feedingfrenzysupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "feedingfrenzysupport"
+    },
+    {
+        "name": "Manaforged Arrows Support",
+        "type": "toggle",
+        "img": "images/items/manaforgedarrowssupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "manaforgedarrowssupport"
+    },
+    {
+        "name": "Raise Zombie",
+        "type": "toggle",
+        "img": "images/items/raisezombie.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "raisezombie"
+    },
+    {
+        "name": "Returning Projectiles Support",
+        "type": "toggle",
+        "img": "images/items/returningprojectilessupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "returningprojectilessupport"
+    },
+    {
+        "name": "Divine Blessing Support",
+        "type": "toggle",
+        "img": "images/items/divineblessingsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "divineblessingsupport"
+    },
+    {
+        "name": "Rare BodyArmour",
+        "type": "toggle",
+        "img": "images/items/rarebodyarmour.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rarebodyarmour"
+    },
+    {
+        "name": "Volatility Support",
+        "type": "toggle",
+        "img": "images/items/volatilitysupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "volatilitysupport"
+    },
+    {
+        "name": "Vortex",
+        "type": "toggle",
+        "img": "images/items/vortex.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "vortex"
+    },
+    {
+        "name": "Ballista Totem Support",
+        "type": "toggle",
+        "img": "images/items/ballistatotemsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ballistatotemsupport"
+    },
+    {
+        "name": "Berserk",
+        "type": "toggle",
+        "img": "images/items/berserk.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "berserk"
+    },
+    {
+        "name": "Elemental Damage with Attacks Support",
+        "type": "toggle",
+        "img": "images/items/elementaldamagewithattackssupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "elementaldamagewithattackssupport"
+    },
+    {
+        "name": "Elemental Penetration Support",
+        "type": "toggle",
+        "img": "images/items/elementalpenetrationsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "elementalpenetrationsupport"
+    },
+    {
+        "name": "Shadow",
+        "type": "toggle",
+        "img": "images/items/shadow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shadow"
+    },
+    {
+        "name": "Summon Flame Golem",
+        "type": "toggle",
+        "img": "images/items/summonflamegolem.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "summonflamegolem"
+    },
+    {
+        "name": "Sweep",
+        "type": "toggle",
+        "img": "images/items/sweep.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sweep"
+    },
+    {
+        "name": "Close Combat Support",
+        "type": "toggle",
+        "img": "images/items/closecombatsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "closecombatsupport"
+    },
+    {
+        "name": "Rare Mace",
+        "type": "toggle",
+        "img": "images/items/raremace.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "raremace"
+    },
+    {
+        "name": "Spectral Shield Throw",
+        "type": "toggle",
+        "img": "images/items/spectralshieldthrow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spectralshieldthrow"
+    },
+    {
+        "name": "Purifying Flame",
+        "type": "toggle",
+        "img": "images/items/purifyingflame.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "purifyingflame"
+    },
+    {
+        "name": "Desecrate",
+        "type": "toggle",
+        "img": "images/items/desecrate.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "desecrate"
+    },
+    {
+        "name": "Occultist",
+        "type": "toggle",
+        "img": "images/items/occultist.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "occultist"
+    },
+    {
+        "name": "Reap",
+        "type": "toggle",
+        "img": "images/items/reap.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "reap"
+    },
+    {
+        "name": "Crushing Fist",
+        "type": "toggle",
+        "img": "images/items/crushingfist.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "crushingfist"
+    },
+    {
+        "name": "Herald of Agony",
+        "type": "toggle",
+        "img": "images/items/heraldofagony.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "heraldofagony"
+    },
+    {
+        "name": "Wintertide Brand",
+        "type": "toggle",
+        "img": "images/items/wintertidebrand.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wintertidebrand"
+    },
+    {
+        "name": "Conductivity",
+        "type": "toggle",
+        "img": "images/items/conductivity.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "conductivity"
+    },
+    {
+        "name": "Block Chance Reduction Support",
+        "type": "toggle",
+        "img": "images/items/blockchancereductionsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blockchancereductionsupport"
+    },
+    {
+        "name": "Ignite Proliferation Support",
+        "type": "toggle",
+        "img": "images/items/igniteproliferationsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "igniteproliferationsupport"
+    },
+    {
+        "name": "Gladiator",
+        "type": "toggle",
+        "img": "images/items/gladiator.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gladiator"
+    },
+    {
+        "name": "Pierce Support",
+        "type": "toggle",
+        "img": "images/items/piercesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "piercesupport"
+    },
+    {
+        "name": "Overexertion Support",
+        "type": "toggle",
+        "img": "images/items/overexertionsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "overexertionsupport"
+    },
+    {
+        "name": "Flame Surge",
+        "type": "toggle",
+        "img": "images/items/flamesurge.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flamesurge"
+    },
+    {
+        "name": "Eviscerate",
+        "type": "toggle",
+        "img": "images/items/eviscerate.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eviscerate"
+    },
+    {
+        "name": "War Banner",
+        "type": "toggle",
+        "img": "images/items/warbanner.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "warbanner"
+    },
+    {
+        "name": "Volcanic Fissure",
+        "type": "toggle",
+        "img": "images/items/volcanicfissure.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "volcanicfissure"
+    },
+    {
+        "name": "Arcane Cloak",
+        "type": "toggle",
+        "img": "images/items/arcanecloak.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "arcanecloak"
+    },
+    {
+        "name": "Ancestral Cry",
+        "type": "toggle",
+        "img": "images/items/ancestralcry.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ancestralcry"
+    },
+    {
+        "name": "Vile Toxins Support",
+        "type": "toggle",
+        "img": "images/items/viletoxinssupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "viletoxinssupport"
+    },
+    {
+        "name": "Chieftain",
+        "type": "toggle",
+        "img": "images/items/chieftain.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chieftain"
+    },
+    {
+        "name": "Nightblade Support",
+        "type": "toggle",
+        "img": "images/items/nightbladesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "nightbladesupport"
+    },
+    {
+        "name": "Brutality Support",
+        "type": "toggle",
+        "img": "images/items/brutalitysupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "brutalitysupport"
+    },
+    {
+        "name": "Bane",
+        "type": "toggle",
+        "img": "images/items/bane.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bane"
+    },
+    {
+        "name": "Lightning Strike",
+        "type": "toggle",
+        "img": "images/items/lightningstrike.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lightningstrike"
+    },
+    {
+        "name": "Earthquake",
+        "type": "toggle",
+        "img": "images/items/earthquake.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "earthquake"
+    },
+    {
+        "name": "Swift Affliction Support",
+        "type": "toggle",
+        "img": "images/items/swiftafflictionsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "swiftafflictionsupport"
+    },
+    {
+        "name": "Champion",
+        "type": "toggle",
+        "img": "images/items/champion.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "champion"
+    },
+    {
+        "name": "Second Wind Support",
+        "type": "toggle",
+        "img": "images/items/secondwindsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "secondwindsupport"
+    },
+    {
+        "name": "Juggernaut",
+        "type": "toggle",
+        "img": "images/items/juggernaut.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "juggernaut"
+    },
+    {
+        "name": "Frost Bomb",
+        "type": "toggle",
+        "img": "images/items/frostbomb.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "frostbomb"
+    },
+    {
+        "name": "Slayer",
+        "type": "toggle",
+        "img": "images/items/slayer.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "slayer"
+    },
+    {
+        "name": "Magic Gloves",
+        "type": "toggle",
+        "img": "images/items/magicgloves.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicgloves"
+    },
+    {
+        "name": "Vitality",
+        "type": "toggle",
+        "img": "images/items/vitality.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "vitality"
+    },
+    {
+        "name": "Discharge",
+        "type": "toggle",
+        "img": "images/items/discharge.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "discharge"
+    },
+    {
+        "name": "Lightning Warp",
+        "type": "toggle",
+        "img": "images/items/lightningwarp.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lightningwarp"
+    },
+    {
+        "name": "Cursed Ground Support",
+        "type": "toggle",
+        "img": "images/items/cursedgroundsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cursedgroundsupport"
+    },
+    {
+        "name": "Contagion",
+        "type": "toggle",
+        "img": "images/items/contagion.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "contagion"
+    },
+    {
+        "name": "Inquisitor",
+        "type": "toggle",
+        "img": "images/items/inquisitor.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "inquisitor"
+    },
+    {
+        "name": "Normal Ring (right)",
+        "type": "toggle",
+        "img": "images/items/normalring(right).png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "normalring(right)"
+    },
+    {
+        "name": "Increased Duration Support",
+        "type": "toggle",
+        "img": "images/items/increaseddurationsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "increaseddurationsupport"
+    },
+    {
+        "name": "Unique BodyArmour",
+        "type": "toggle",
+        "img": "images/items/uniquebodyarmour.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uniquebodyarmour"
+    },
+    {
+        "name": "Storm Brand",
+        "type": "toggle",
+        "img": "images/items/stormbrand.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stormbrand"
+    },
+    {
+        "name": "Anger",
+        "type": "toggle",
+        "img": "images/items/anger.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "anger"
+    },
+    {
+        "name": "Cast when Stunned Support",
+        "type": "toggle",
+        "img": "images/items/castwhenstunnedsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "castwhenstunnedsupport"
+    },
+    {
+        "name": "Flameblast",
+        "type": "toggle",
+        "img": "images/items/flameblast.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flameblast"
+    },
+    {
+        "name": "Despair",
+        "type": "toggle",
+        "img": "images/items/despair.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "despair"
+    },
+    {
+        "name": "Snipe",
+        "type": "toggle",
+        "img": "images/items/snipe.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "snipe"
+    },
+    {
+        "name": "Summon Holy Relic",
+        "type": "toggle",
+        "img": "images/items/summonholyrelic.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "summonholyrelic"
+    },
+    {
+        "name": "Purity of Lightning",
+        "type": "toggle",
+        "img": "images/items/purityoflightning.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "purityoflightning"
+    },
+    {
+        "name": "Galvanic Field",
+        "type": "toggle",
+        "img": "images/items/galvanicfield.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "galvanicfield"
+    },
+    {
+        "name": "Scion",
+        "type": "toggle",
+        "img": "images/items/scion.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "scion"
+    },
+    {
+        "name": "Rallying Cry",
+        "type": "toggle",
+        "img": "images/items/rallyingcry.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rallyingcry"
+    },
+    {
+        "name": "Reave",
+        "type": "toggle",
+        "img": "images/items/reave.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "reave"
+    },
+    {
+        "name": "Rolling Magma",
+        "type": "toggle",
+        "img": "images/items/rollingmagma.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rollingmagma"
+    },
+    {
+        "name": "Spell Totem Support",
+        "type": "toggle",
+        "img": "images/items/spelltotemsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spelltotemsupport"
+    },
+    {
+        "name": "Scourge Arrow",
+        "type": "toggle",
+        "img": "images/items/scourgearrow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "scourgearrow"
+    },
+    {
+        "name": "Knockback Support",
+        "type": "toggle",
+        "img": "images/items/knockbacksupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "knockbacksupport"
+    },
+    {
+        "name": "Cruelty Support",
+        "type": "toggle",
+        "img": "images/items/crueltysupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "crueltysupport"
+    },
+    {
+        "name": "Riposte",
+        "type": "toggle",
+        "img": "images/items/riposte.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "riposte"
+    },
+    {
+        "name": "Rare Bow",
+        "type": "toggle",
+        "img": "images/items/rarebow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rarebow"
+    },
+    {
+        "name": "Bear Trap",
+        "type": "toggle",
+        "img": "images/items/beartrap.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "beartrap"
+    },
+    {
+        "name": "Freezing Pulse",
+        "type": "toggle",
+        "img": "images/items/freezingpulse.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "freezingpulse"
+    },
+    {
+        "name": "Blade Blast",
+        "type": "toggle",
+        "img": "images/items/bladeblast.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bladeblast"
+    },
+    {
+        "name": "Blood Rage",
+        "type": "toggle",
+        "img": "images/items/bloodrage.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bloodrage"
+    },
+    {
+        "name": "Magic Shield",
+        "type": "toggle",
+        "img": "images/items/magicshield.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicshield"
+    },
+    {
+        "name": "Unique Staff",
+        "type": "toggle",
+        "img": "images/items/uniquestaff.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uniquestaff"
+    },
+    {
+        "name": "Slower Projectiles Support",
+        "type": "toggle",
+        "img": "images/items/slowerprojectilessupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "slowerprojectilessupport"
+    },
+    {
+        "name": "Bloodlust Support",
+        "type": "toggle",
+        "img": "images/items/bloodlustsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bloodlustsupport"
+    },
+    {
+        "name": "Stormblast Mine",
+        "type": "toggle",
+        "img": "images/items/stormblastmine.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stormblastmine"
+    },
+    {
+        "name": "Clarity",
+        "type": "toggle",
+        "img": "images/items/clarity.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "clarity"
+    },
+    {
+        "name": "Magic Staff",
+        "type": "toggle",
+        "img": "images/items/magicstaff.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicstaff"
+    },
+    {
+        "name": "Charged Traps Support",
+        "type": "toggle",
+        "img": "images/items/chargedtrapssupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chargedtrapssupport"
+    },
+    {
+        "name": "Seismic Trap",
+        "type": "toggle",
+        "img": "images/items/seismictrap.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "seismictrap"
+    },
+    {
+        "name": "Cast on Melee Kill Support",
+        "type": "toggle",
+        "img": "images/items/castonmeleekillsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "castonmeleekillsupport"
+    },
+    {
+        "name": "Magic Amulet",
+        "type": "toggle",
+        "img": "images/items/magicamulet.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicamulet"
+    },
+    {
+        "name": "Unique Axe",
+        "type": "toggle",
+        "img": "images/items/uniqueaxe.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uniqueaxe"
+    },
+    {
+        "name": "Rare Shield",
+        "type": "toggle",
+        "img": "images/items/rareshield.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rareshield"
+    },
+    {
+        "name": "Siphoning Trap",
+        "type": "toggle",
+        "img": "images/items/siphoningtrap.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "siphoningtrap"
+    },
+    {
+        "name": "Cast On Critical Strike Support",
+        "type": "toggle",
+        "img": "images/items/castoncriticalstrikesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "castoncriticalstrikesupport"
+    },
+    {
+        "name": "Ball Lightning",
+        "type": "toggle",
+        "img": "images/items/balllightning.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "balllightning"
+    },
+    {
+        "name": "Double Strike",
+        "type": "toggle",
+        "img": "images/items/doublestrike.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "doublestrike"
+    },
+    {
+        "name": "Cyclone",
+        "type": "toggle",
+        "img": "images/items/cyclone.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cyclone"
+    },
+    {
+        "name": "Faster Casting Support",
+        "type": "toggle",
+        "img": "images/items/fastercastingsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fastercastingsupport"
+    },
+    {
+        "name": "Unique Amulet",
+        "type": "toggle",
+        "img": "images/items/uniqueamulet.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uniqueamulet"
+    },
+    {
+        "name": "Temporal Chains",
+        "type": "toggle",
+        "img": "images/items/temporalchains.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "temporalchains"
+    },
+    {
+        "name": "Faster Projectiles Support",
+        "type": "toggle",
+        "img": "images/items/fasterprojectilessupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fasterprojectilessupport"
+    },
+    {
+        "name": "Normal Wand",
+        "type": "toggle",
+        "img": "images/items/normalwand.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "normalwand"
+    },
+    {
+        "name": "Normal Helmet",
+        "type": "toggle",
+        "img": "images/items/normalhelmet.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "normalhelmet"
+    },
+    {
+        "name": "Cast while Channelling Support",
+        "type": "toggle",
+        "img": "images/items/castwhilechannellingsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "castwhilechannellingsupport"
+    },
+    {
+        "name": "Rare Helmet",
+        "type": "toggle",
+        "img": "images/items/rarehelmet.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rarehelmet"
+    },
+    {
+        "name": "Infused Channelling Support",
+        "type": "toggle",
+        "img": "images/items/infusedchannellingsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "infusedchannellingsupport"
+    },
+    {
+        "name": "Rupture Support",
+        "type": "toggle",
+        "img": "images/items/rupturesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rupturesupport"
+    },
+    {
+        "name": "Normal Claw",
+        "type": "toggle",
+        "img": "images/items/normalclaw.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "normalclaw"
+    },
+    {
+        "name": "Normal BodyArmour",
+        "type": "toggle",
+        "img": "images/items/normalbodyarmour.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "normalbodyarmour"
+    },
+    {
+        "name": "Ice Shot",
+        "type": "toggle",
+        "img": "images/items/iceshot.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "iceshot"
+    },
+    {
+        "name": "Flamewood Support",
+        "type": "toggle",
+        "img": "images/items/flamewoodsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flamewoodsupport"
+    },
+    {
+        "name": "Necromancer",
+        "type": "toggle",
+        "img": "images/items/necromancer.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "necromancer"
+    },
+    {
+        "name": "Unique Sword",
+        "type": "toggle",
+        "img": "images/items/uniquesword.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uniquesword"
+    },
+    {
+        "name": "Charged Dash",
+        "type": "toggle",
+        "img": "images/items/chargeddash.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chargeddash"
+    },
+    {
+        "name": "Blind Support",
+        "type": "toggle",
+        "img": "images/items/blindsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blindsupport"
+    },
+    {
+        "name": "Hex Bloom Support",
+        "type": "toggle",
+        "img": "images/items/hexbloomsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hexbloomsupport"
+    },
+    {
+        "name": "Manabond",
+        "type": "toggle",
+        "img": "images/items/manabond.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "manabond"
+    },
+    {
+        "name": "Siege Ballista",
+        "type": "toggle",
+        "img": "images/items/siegeballista.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "siegeballista"
+    },
+    {
+        "name": "Deadly Ailments Support",
+        "type": "toggle",
+        "img": "images/items/deadlyailmentssupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "deadlyailmentssupport"
+    },
+    {
+        "name": "Withering Touch Support",
+        "type": "toggle",
+        "img": "images/items/witheringtouchsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "witheringtouchsupport"
+    },
+    {
+        "name": "Magic Claw",
+        "type": "toggle",
+        "img": "images/items/magicclaw.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicclaw"
+    },
+    {
+        "name": "Update",
+        "type": "toggle",
+        "img": "images/items/update.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "update"
+    }
+]

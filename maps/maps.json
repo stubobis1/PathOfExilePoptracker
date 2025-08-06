@@ -1,0 +1,80 @@
+[
+    {
+        "name": "act_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/act_1.png"
+    },
+    {
+        "name": "act_10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/act_10.png"
+    },
+    {
+        "name": "act_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/act_2.png"
+    },
+    {
+        "name": "act_3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/act_3.png"
+    },
+    {
+        "name": "act_4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/act_4.png"
+    },
+    {
+        "name": "act_5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/act_5.png"
+    },
+    {
+        "name": "act_6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/act_6.png"
+    },
+    {
+        "name": "act_7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/act_7.png"
+    },
+    {
+        "name": "act_8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/act_8.png"
+    },
+    {
+        "name": "act_9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/act_9.png"
+    },
+    {
+        "name": "level",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/level.png"
+    },
+    {
+        "name": "maps",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/maps.png"
+    },
+    {
+        "name": "twilight_strand",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/twilight_strand.png"
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "name": "twilight_strand - hint",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "{}"
+        ],
+        "sections": [
+            {
+                "name": "Plate_Vest - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "twilight_strand_plate_vest"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Iron_Greaves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "twilight_strand_iron_greaves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Crude_Bow - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "twilight_strand_crude_bow"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Glass_Shank - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "twilight_strand_glass_shank"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Iron_Gauntlets - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "twilight_strand_iron_gauntlets"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Iron_Hat - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "twilight_strand_iron_hat"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Small_Life_Flask - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "twilight_strand_small_life_flask"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Small_Mana_Flask - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "twilight_strand_small_mana_flask"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Driftwood_Club - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "twilight_strand_driftwood_club"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Rusted_Sword - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "twilight_strand_rusted_sword"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Driftwood_Sceptre - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "twilight_strand_driftwood_sceptre"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Splintered_Tower_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "twilight_strand_splintered_tower_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Driftwood_Wand - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "twilight_strand_driftwood_wand"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Chain_Belt - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "twilight_strand_chain_belt"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Rustic_Sash - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "twilight_strand_rustic_sash"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Shabby_Jerkin - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "twilight_strand_shabby_jerkin"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Rusted_Hatchet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "twilight_strand_rusted_hatchet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Iron_Ring - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "twilight_strand_iron_ring"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Goathide_Buckler - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "twilight_strand_goathide_buckler"
+                ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "twilight_strand",
+                "x": "1248",
+                "y": "1266",
+                "size": 12
+            }
+        ]
+    },
+    {
+        "name": "twilight_strand",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "Plate_Vest",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Iron_Greaves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Crude_Bow",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Glass_Shank",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Iron_Gauntlets",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Iron_Hat",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Small_Life_Flask",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Small_Mana_Flask",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Driftwood_Club",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Rusted_Sword",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Driftwood_Sceptre",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Splintered_Tower_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Driftwood_Wand",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Chain_Belt",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Rustic_Sash",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Shabby_Jerkin",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Rusted_Hatchet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Iron_Ring",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Goathide_Buckler",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "twilight_strand",
+                "x": "1248",
+                "y": "1266",
+                "size": 6
+            }
+        ]
+    }
+]

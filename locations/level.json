@@ -1,0 +1,1426 @@
+[
+    {
+        "name": "level - hint",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "{}"
+        ],
+        "sections": [
+            {
+                "name": "Reach_Level_2 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_2"
+                ],
+                "item_count": 11
+            },
+            {
+                "name": "Reach_Level_3 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_3"
+                ],
+                "item_count": 11
+            },
+            {
+                "name": "Reach_Level_4 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_4"
+                ],
+                "item_count": 11
+            },
+            {
+                "name": "Reach_Level_5 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_5"
+                ],
+                "item_count": 11
+            },
+            {
+                "name": "Reach_Level_6 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_6"
+                ],
+                "item_count": 11
+            },
+            {
+                "name": "Reach_Level_7 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_7"
+                ],
+                "item_count": 11
+            },
+            {
+                "name": "Reach_Level_8 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_8"
+                ],
+                "item_count": 11
+            },
+            {
+                "name": "Reach_Level_9 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_9"
+                ],
+                "item_count": 11
+            },
+            {
+                "name": "Reach_Level_10 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_10"
+                ],
+                "item_count": 2
+            },
+            {
+                "name": "Reach_Level_11 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_11"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_12 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_12"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_13 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_13"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_14 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_14"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_15 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_15"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_16 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_16"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_17 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_17"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_18 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_18"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_19 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_19"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_20 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_20"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_21 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_21"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_22 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_22"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_23 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_23"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_24 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_24"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_25 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_25"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_26 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_26"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_27 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_27"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_28 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_28"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_29 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_29"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_30 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_30"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_31 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_31"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_32 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_32"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_33 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_33"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_34 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_34"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_35 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_35"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_36 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_36"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_37 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_37"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_38 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_38"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_39 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_39"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_40 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_40"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_41 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_41"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_42 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_42"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_43 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_43"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_44 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_44"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_45 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_45"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_46 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_46"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_47 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_47"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_48 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_48"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_49 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_49"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_50 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_50"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_51 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_51"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_52 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_52"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_53 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_53"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_54 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_54"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_55 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_55"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_56 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_56"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_57 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_57"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_58 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_58"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_59 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_59"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_60 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_60"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_61 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_61"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_62 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_62"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_63 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_63"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_64 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_64"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_65 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_65"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_66 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_66"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_67 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_67"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_68 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_68"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_69 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_69"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_70 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_70"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_71 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_71"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_72 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_72"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_73 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_73"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_74 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_74"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_75 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_75"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_76 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_76"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_77 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_77"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_78 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_78"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_79 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_79"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_80 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_80"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_81 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_81"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_82 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_82"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_83 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_83"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_84 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_84"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_85 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_85"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_86 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_86"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_87 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_87"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_88 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_88"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_89 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_89"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_90 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_90"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_91 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_91"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_92 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_92"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_93 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_93"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_94 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_94"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_95 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_95"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_96 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_96"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_97 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_97"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_98 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_98"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_99 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_99"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_100 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "level_reach_level_100"
+                ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "level",
+                "x": "158",
+                "y": "2331",
+                "size": 12
+            }
+        ]
+    },
+    {
+        "name": "level",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "Reach_Level_2",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_3",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_4",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_5",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_6",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_7",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_8",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_9",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_10",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_11",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_12",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_13",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_14",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_15",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_16",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_17",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_18",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_19",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_20",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_21",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_22",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_23",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_24",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_25",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_26",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_27",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_28",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_29",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_30",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_31",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_32",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_33",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_34",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_35",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_36",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_37",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_38",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_39",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_40",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_41",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_42",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_43",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_44",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_45",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_46",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_47",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_48",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_49",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_50",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_51",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_52",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_53",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_54",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_55",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_56",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_57",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_58",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_59",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_60",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_61",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_62",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_63",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_64",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_65",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_66",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_67",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_68",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_69",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_70",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_71",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_72",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_73",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_74",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_75",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_76",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_77",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_78",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_79",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_80",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_81",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_82",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_83",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_84",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_85",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_86",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_87",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_88",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_89",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_90",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_91",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_92",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_93",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_94",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_95",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_96",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_97",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_98",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_99",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Reach_Level_100",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "level",
+                "x": "158",
+                "y": "2331",
+                "size": 6
+            }
+        ]
+    }
+]

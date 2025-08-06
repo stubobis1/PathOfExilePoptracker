@@ -1,0 +1,1384 @@
+[
+    {
+        "name": "act_1 - hint",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "{}"
+        ],
+        "sections": [
+            {
+                "name": "Paua_Amulet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_paua_amulet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Coral_Amulet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_coral_amulet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Simple_Robe - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_simple_robe"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Wool_Shoes - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_wool_shoes"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Rawhide_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_rawhide_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Nailed_Fist - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_nailed_fist"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Wool_Gloves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_wool_gloves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Rawhide_Gloves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_rawhide_gloves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Vine_Circlet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_vine_circlet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Leather_Cap - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_leather_cap"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Medium_Life_Flask - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_medium_life_flask"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Medium_Mana_Flask - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_medium_mana_flask"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Twig_Spirit_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_twig_spirit_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Rusted_Spike - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_rusted_spike"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Driftwood_Maul - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_driftwood_maul"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Corroded_Blade - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_corroded_blade"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Scale_Vest - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_scale_vest"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Chainmail_Vest - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_chainmail_vest"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Padded_Vest - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_padded_vest"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Fishscale_Gauntlets - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_fishscale_gauntlets"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Scare_Mask - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_scare_mask"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Battered_Helm - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_battered_helm"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Serrated_Arrow_Quiver - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_serrated_arrow_quiver"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Coral_Ring - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_coral_ring"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Gnarled_Branch - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_gnarled_branch"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Stone_Axe - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_stone_axe"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Chain_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_chain_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Short_Bow - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_short_bow"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Skinning_Knife - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_skinning_knife"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Wrapped_Mitts - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_wrapped_mitts"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Rusted_Coif - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_rusted_coif"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Tribal_Club - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_tribal_club"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Copper_Sword - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_copper_sword"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Paua_Ring - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_paua_ring"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Darkwood_Sceptre - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_darkwood_sceptre"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Rotted_Round_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_rotted_round_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Spiked_Bundle - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_spiked_bundle"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Corroded_Tower_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_corroded_tower_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Chestplate - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_chestplate"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Wrapped_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_wrapped_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Leatherscale_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_leatherscale_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Large_Life_Flask - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_large_life_flask"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Large_Mana_Flask - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_large_mana_flask"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Jade_Hatchet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_jade_hatchet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Goat's_Horn - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_goat's_horn"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Jade_Amulet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_jade_amulet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Lapis_Amulet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_lapis_amulet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Amber_Amulet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_amber_amulet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Sharktooth_Claw - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_sharktooth_claw"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Chain_Gloves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_chain_gloves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Cone_Helmet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_cone_helmet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Plank_Kite_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_plank_kite_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Whalebone_Rapier - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_whalebone_rapier"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Chainmail_Tunic - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_chainmail_tunic"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Light_Brigandine - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_light_brigandine"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Iron_Circlet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_iron_circlet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Sapphire_Ring - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_sapphire_ring"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Pine_Buckler - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_pine_buckler"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Tribal_Maul - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_tribal_maul"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Longsword - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_longsword"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Oiled_Vest - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_oiled_vest"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Strapped_Leather - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_strapped_leather"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Steel_Greaves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_steel_greaves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Velvet_Slippers - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_velvet_slippers"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Long_Bow - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_long_bow"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Goathide_Gloves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_goathide_gloves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Fire_Arrow_Quiver - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_fire_arrow_quiver"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Yew_Spirit_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_yew_spirit_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Primitive_Staff - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_primitive_staff"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Jade_Chopper - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_jade_chopper"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Heavy_Belt - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_heavy_belt"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Leather_Belt - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_leather_belt"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Tricorne - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_tricorne"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Plague_Mask - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_plague_mask"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Small_Hybrid_Flask - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_small_hybrid_flask"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Spiked_Club - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_spiked_club"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Sabre - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_sabre"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Carving_Knife - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_carving_knife"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Bronze_Sceptre - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_bronze_sceptre"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Silken_Vest - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_silken_vest"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Plated_Gauntlets - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_plated_gauntlets"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Boarding_Axe - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_boarding_axe"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Rawhide_Tower_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_rawhide_tower_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Goathide_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_goathide_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Awl - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_awl"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Velvet_Gloves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_velvet_gloves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Soldier_Helmet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_soldier_helmet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Greater_Life_Flask - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_greater_life_flask"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Greater_Mana_Flask - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_greater_mana_flask"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Topaz_Ring - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_topaz_ring"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Driftwood_Spiked_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_driftwood_spiked_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Fir_Round_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_fir_round_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Battered_Foil - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_battered_foil"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Mallet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_mallet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Bastard_Sword - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_bastard_sword"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Carved_Wand - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_1_carved_wand"
+                ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "act_1",
+                "x": "2358",
+                "y": "1046",
+                "size": 12
+            }
+        ]
+    },
+    {
+        "name": "act_1",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "Paua_Amulet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Coral_Amulet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Simple_Robe",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Wool_Shoes",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Rawhide_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Nailed_Fist",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Wool_Gloves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Rawhide_Gloves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Vine_Circlet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Leather_Cap",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Medium_Life_Flask",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Medium_Mana_Flask",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Twig_Spirit_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Rusted_Spike",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Driftwood_Maul",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Corroded_Blade",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Scale_Vest",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Chainmail_Vest",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Padded_Vest",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Fishscale_Gauntlets",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Scare_Mask",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Battered_Helm",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Serrated_Arrow_Quiver",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Coral_Ring",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gnarled_Branch",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Stone_Axe",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Chain_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Short_Bow",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Skinning_Knife",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Wrapped_Mitts",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Rusted_Coif",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Tribal_Club",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Copper_Sword",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Paua_Ring",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Darkwood_Sceptre",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Rotted_Round_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Spiked_Bundle",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Corroded_Tower_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Chestplate",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Wrapped_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Leatherscale_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Large_Life_Flask",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Large_Mana_Flask",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Jade_Hatchet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Goat's_Horn",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Jade_Amulet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Lapis_Amulet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Amber_Amulet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Sharktooth_Claw",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Chain_Gloves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Cone_Helmet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Plank_Kite_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Whalebone_Rapier",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Chainmail_Tunic",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Light_Brigandine",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Iron_Circlet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Sapphire_Ring",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pine_Buckler",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Tribal_Maul",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Longsword",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Oiled_Vest",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Strapped_Leather",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Steel_Greaves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Velvet_Slippers",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Long_Bow",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Goathide_Gloves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Fire_Arrow_Quiver",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Yew_Spirit_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Primitive_Staff",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Jade_Chopper",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Heavy_Belt",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Leather_Belt",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Tricorne",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Plague_Mask",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Small_Hybrid_Flask",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Spiked_Club",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Sabre",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Carving_Knife",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Bronze_Sceptre",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Silken_Vest",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Plated_Gauntlets",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Boarding_Axe",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Rawhide_Tower_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Goathide_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Awl",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Velvet_Gloves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Soldier_Helmet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Greater_Life_Flask",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Greater_Mana_Flask",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Topaz_Ring",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Driftwood_Spiked_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Fir_Round_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Battered_Foil",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Mallet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Bastard_Sword",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Carved_Wand",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "act_1",
+                "x": "2358",
+                "y": "1046",
+                "size": 6
+            }
+        ]
+    }
+]

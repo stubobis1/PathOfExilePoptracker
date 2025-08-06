@@ -1,0 +1,642 @@
+[
+    {
+        "name": "act_10 - hint",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "{}"
+        ],
+        "sections": [
+            {
+                "name": "Elegant_Ringmail - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_elegant_ringmail"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Crusader_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_crusader_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Spine_Bow - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_spine_bow"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Eye_Gouger - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_eye_gouger"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Sinner_Tricorne - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_sinner_tricorne"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Pernach - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_pernach"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Vaal_Blade - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_vaal_blade"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Platinum_Kris - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_platinum_kris"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Vaal_Sceptre - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_vaal_sceptre"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Ezomyte_Tower_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_ezomyte_tower_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Spiraled_Foil - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_spiraled_foil"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Vaal_Axe - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_vaal_axe"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Maelstr\u00ef\u00bf\u00bdm_Staff - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_maelstr\u00ef\u00bf\u00bdm_staff"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Zodiac_Leather - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_zodiac_leather"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Widowsilk_Robe - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_widowsilk_robe"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Gladiator_Plate - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_gladiator_plate"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Blood_Raiment - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_blood_raiment"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Dragonscale_Boots - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_dragonscale_boots"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Mind_Cage - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_mind_cage"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Royal_Burgonet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_royal_burgonet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Eternal_Life_Flask - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_eternal_life_flask"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Eternal_Mana_Flask - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_eternal_mana_flask"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Vaal_Hatchet - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_vaal_hatchet"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Harmonic_Spirit_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_harmonic_spirit_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Mosaic_Kite_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_mosaic_kite_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Imperial_Maul - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_imperial_maul"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Lion_Sword - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_lion_sword"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Tornado_Wand - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_tornado_wand"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "General's_Brigandine - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_general's_brigandine"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Imperial_Bow - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_imperial_bow"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Vaal_Claw - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_vaal_claw"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Crusader_Gloves - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_crusader_gloves"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Auric_Mace - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_auric_mace"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Eternal_Sword - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_eternal_sword"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Primal_Arrow_Quiver - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_primal_arrow_quiver"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Imperial_Skean - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_imperial_skean"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Carnal_Sceptre - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_carnal_sceptre"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Mirrored_Spiked_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_mirrored_spiked_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Crusader_Buckler - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_crusader_buckler"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Cardinal_Round_Shield - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_cardinal_round_shield"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Imperial_Staff - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_imperial_staff"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Vaal_Rapier - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_vaal_rapier"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Despot_Axe - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "act_10_despot_axe"
+                ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "act_10",
+                "x": "588",
+                "y": "1773",
+                "size": 12
+            }
+        ]
+    },
+    {
+        "name": "act_10",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "Elegant_Ringmail",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Crusader_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Spine_Bow",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Eye_Gouger",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Sinner_Tricorne",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pernach",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Vaal_Blade",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Platinum_Kris",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Vaal_Sceptre",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Ezomyte_Tower_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Spiraled_Foil",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Vaal_Axe",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Maelstr\u00ef\u00bf\u00bdm_Staff",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Zodiac_Leather",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Widowsilk_Robe",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gladiator_Plate",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Blood_Raiment",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Dragonscale_Boots",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Mind_Cage",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Royal_Burgonet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Eternal_Life_Flask",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Eternal_Mana_Flask",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Vaal_Hatchet",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Harmonic_Spirit_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Mosaic_Kite_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Imperial_Maul",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Lion_Sword",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Tornado_Wand",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "General's_Brigandine",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Imperial_Bow",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Vaal_Claw",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Crusader_Gloves",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Auric_Mace",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Eternal_Sword",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Primal_Arrow_Quiver",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Imperial_Skean",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Carnal_Sceptre",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Mirrored_Spiked_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Crusader_Buckler",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Cardinal_Round_Shield",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Imperial_Staff",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Vaal_Rapier",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Despot_Axe",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "act_10",
+                "x": "588",
+                "y": "1773",
+                "size": 6
+            }
+        ]
+    }
+]
