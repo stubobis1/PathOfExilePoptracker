@@ -1670,14 +1670,14 @@
         "codes": "tornado"
     },
     {
-        "name": "Swordtorm",
+        "name": "Swordstorm",
         "type": "toggle",
-        "img": "images/items/swordtorm.png",
+        "img": "images/items/Swordstorm.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "swordtorm"
+        "codes": "Swordstorm"
     },
     {
         "name": "Hatred",
@@ -2130,14 +2130,14 @@
         "codes": "bloodandsand"
     },
     {
-        "name": "Less Duration Support",
+        "name": "More Duration Support",
         "type": "toggle",
-        "img": "images/items/lessdurationsupport.png",
+        "img": "images/items/moredurationsupport.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "lessdurationsupport"
+        "codes": "moredurationsupport"
     },
     {
         "name": "Predator Support",
@@ -4980,14 +4980,14 @@
         "codes": "normalring(right)"
     },
     {
-        "name": "Increased Duration Support",
+        "name": "More Duration Support",
         "type": "toggle",
-        "img": "images/items/increaseddurationsupport.png",
+        "img": "images/items/moredurationsupport.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "increaseddurationsupport"
+        "codes": "moredurationsupport"
     },
     {
         "name": "Unique BodyArmour",
