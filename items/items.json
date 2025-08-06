@@ -92,12 +92,12 @@
     {
         "name": "Sniper's Mark",
         "type": "toggle",
-        "img": "images/items/sniper'smark.png",
+        "img": "images/items/snipersmark.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "sniper'smark"
+        "codes": "snipersmark"
     },
     {
         "name": "Increased Critical Damage Support",
@@ -572,12 +572,12 @@
     {
         "name": "Poacher's Mark",
         "type": "toggle",
-        "img": "images/items/poacher'smark.png",
+        "img": "images/items/poachersmark.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "poacher'smark"
+        "codes": "poachersmark"
     },
     {
         "name": "Inspiration Support",
@@ -762,12 +762,12 @@
     {
         "name": "General's Cry",
         "type": "toggle",
-        "img": "images/items/general'scry.png",
+        "img": "images/items/generalscry.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "general'scry"
+        "codes": "generalscry"
     },
     {
         "name": "Bodyswap",
@@ -802,12 +802,12 @@
     {
         "name": "Guardian's Blessing Support",
         "type": "toggle",
-        "img": "images/items/guardian'sblessingsupport.png",
+        "img": "images/items/guardiansblessingsupport.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "guardian'sblessingsupport"
+        "codes": "guardiansblessingsupport"
     },
     {
         "name": "Sadism Support",
@@ -862,12 +862,12 @@
     {
         "name": "Warlord's Mark",
         "type": "toggle",
-        "img": "images/items/warlord'smark.png",
+        "img": "images/items/warlordsmark.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "warlord'smark"
+        "codes": "warlordsmark"
     },
     {
         "name": "Rare Sceptre",
@@ -1082,12 +1082,12 @@
     {
         "name": "Assassin's Mark",
         "type": "toggle",
-        "img": "images/items/assassin'smark.png",
+        "img": "images/items/assassinsmark.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "assassin'smark"
+        "codes": "assassinsmark"
     },
     {
         "name": "Frostbite",
@@ -1282,12 +1282,12 @@
     {
         "name": "Battlemage's Cry",
         "type": "toggle",
-        "img": "images/items/battlemage'scry.png",
+        "img": "images/items/battlemagescry.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "battlemage'scry"
+        "codes": "battlemagescry"
     },
     {
         "name": "Iron Grip Support",
@@ -1722,12 +1722,12 @@
     {
         "name": "Alchemist's Mark",
         "type": "toggle",
-        "img": "images/items/alchemist'smark.png",
+        "img": "images/items/alchemistsmark.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "alchemist'smark"
+        "codes": "alchemistsmark"
     },
     {
         "name": "Pestilent Strike",
