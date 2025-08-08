@@ -32,7 +32,7 @@
                                 "pathfinder",
                                 "warden",
                                 "scion",
-                                "ascendant",
+                                "ascendant"
                             ],
                             [
                                 "shadow",
@@ -49,6 +49,7 @@
                                 "elementalist"
                             ],
                             [
+                                "progressivepassivepoint",
                                 "progressivenormalflaskunlock",
                                 "progressivemagicflaskunlock",
                                 "progressiveuniqueflaskunlock",

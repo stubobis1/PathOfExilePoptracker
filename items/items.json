@@ -251,13 +251,35 @@
     },
     {
         "name": "Progressive max links - Helm",
-        "type": "toggle",
+        "type": "progressive",
         "img": "images/items/progressivemaxlinks-helm.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "progressivemaxlinks-helm"
+        "codes": "progressivemaxlinks-helm",
+        "stages": [
+            {
+                "img": "images/items/progressivemaxlinks-helm.png",
+                "img_mods": "overlay|images/numbers/0.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-helm.png",
+                "img_mods": "overlay|images/numbers/1.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-helm.png",
+                "img_mods": "overlay|images/numbers/2.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-helm.png",
+                "img_mods": "overlay|images/numbers/3.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-helm.png",
+                "img_mods": "overlay|images/numbers/4.png"
+            }
+        ]
     },
     {
         "name": "Holy Flame Totem",
@@ -1591,13 +1613,39 @@
     },
     {
         "name": "Progressive Unique Flask Unlock",
-        "type": "toggle",
+        "type": "progressive",
         "img": "images/items/progressiveuniqueflaskunlock.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "progressiveuniqueflaskunlock"
+        "codes": "progressiveuniqueflaskunlock",
+        "stages": [
+            {
+                "img": "images/items/progressiveuniqueflaskunlock.png",
+                "img_mods": "overlay|images/numbers/0.png"
+            },
+            {
+                "img": "images/items/progressiveuniqueflaskunlock.png",
+                "img_mods": "overlay|images/numbers/1.png"
+            },
+            {
+                "img": "images/items/progressiveuniqueflaskunlock.png",
+                "img_mods": "overlay|images/numbers/2.png"
+            },
+            {
+                "img": "images/items/progressiveuniqueflaskunlock.png",
+                "img_mods": "overlay|images/numbers/3.png"
+            },
+            {
+                "img": "images/items/progressiveuniqueflaskunlock.png",
+                "img_mods": "overlay|images/numbers/4.png"
+            },
+            {
+                "img": "images/items/progressiveuniqueflaskunlock.png",
+                "img_mods": "overlay|images/numbers/5.png"
+            }
+        ]
     },
     {
         "name": "Decay Support",
@@ -1991,13 +2039,43 @@
     },
     {
         "name": "Progressive max links - Weapon",
-        "type": "toggle",
+        "type": "progressive",
         "img": "images/items/progressivemaxlinks-weapon.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "progressivemaxlinks-weapon"
+        "codes": "progressivemaxlinks-weapon",
+        "stages": [
+            {
+                "img": "images/items/progressivemaxlinks-weapon.png",
+                "img_mods": "overlay|images/numbers/0.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-weapon.png",
+                "img_mods": "overlay|images/numbers/1.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-weapon.png",
+                "img_mods": "overlay|images/numbers/2.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-weapon.png",
+                "img_mods": "overlay|images/numbers/3.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-weapon.png",
+                "img_mods": "overlay|images/numbers/4.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-weapon.png",
+                "img_mods": "overlay|images/numbers/5.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-weapon.png",
+                "img_mods": "overlay|images/numbers/6.png"
+            }
+        ]
     },
     {
         "name": "Impending Doom Support",
@@ -2771,13 +2849,43 @@
     },
     {
         "name": "Progressive max links - Body",
-        "type": "toggle",
+        "type": "progressive",
         "img": "images/items/progressivemaxlinks-body.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "progressivemaxlinks-body"
+        "codes": "progressivemaxlinks-body",
+        "stages": [
+            {
+                "img": "images/items/progressivemaxlinks-body.png",
+                "img_mods": "overlay|images/numbers/0.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-body.png",
+                "img_mods": "overlay|images/numbers/1.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-body.png",
+                "img_mods": "overlay|images/numbers/2.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-body.png",
+                "img_mods": "overlay|images/numbers/3.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-body.png",
+                "img_mods": "overlay|images/numbers/4.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-body.png",
+                "img_mods": "overlay|images/numbers/5.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-body.png",
+                "img_mods": "overlay|images/numbers/6.png"
+            }
+        ]
     },
     {
         "name": "Magic Mace",
@@ -2891,13 +2999,39 @@
     },
     {
         "name": "Progressive Normal Flask Unlock",
-        "type": "toggle",
+        "type": "progressive",
         "img": "images/items/progressivenormalflaskunlock.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "progressivenormalflaskunlock"
+        "codes": "progressivenormalflaskunlock",
+        "stages": [
+            {
+                "img": "images/items/progressivenormalflaskunlock.png",
+                "img_mods": "overlay|images/numbers/0.png"
+            },
+            {
+                "img": "images/items/progressivenormalflaskunlock.png",
+                "img_mods": "overlay|images/numbers/1.png"
+            },
+            {
+                "img": "images/items/progressivenormalflaskunlock.png",
+                "img_mods": "overlay|images/numbers/2.png"
+            },
+            {
+                "img": "images/items/progressivenormalflaskunlock.png",
+                "img_mods": "overlay|images/numbers/3.png"
+            },
+            {
+                "img": "images/items/progressivenormalflaskunlock.png",
+                "img_mods": "overlay|images/numbers/4.png"
+            },
+            {
+                "img": "images/items/progressivenormalflaskunlock.png",
+                "img_mods": "overlay|images/numbers/5.png"
+            }
+        ]
     },
     {
         "name": "Magic Wand",
@@ -3111,13 +3245,35 @@
     },
     {
         "name": "Progressive max links - Boot",
-        "type": "toggle",
+        "type": "progressive",
         "img": "images/items/progressivemaxlinks-boot.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "progressivemaxlinks-boot"
+        "codes": "progressivemaxlinks-boot",
+        "stages": [
+            {
+                "img": "images/items/progressivemaxlinks-boot.png",
+                "img_mods": "overlay|images/numbers/0.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-boot.png",
+                "img_mods": "overlay|images/numbers/1.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-boot.png",
+                "img_mods": "overlay|images/numbers/2.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-boot.png",
+                "img_mods": "overlay|images/numbers/3.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-boot.png",
+                "img_mods": "overlay|images/numbers/4.png"
+            }
+        ]
     },
     {
         "name": "Venom Gyre",
@@ -3151,13 +3307,39 @@
     },
     {
         "name": "Progressive Magic Flask Unlock",
-        "type": "toggle",
+        "type": "progressive",
         "img": "images/items/progressivemagicflaskunlock.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "progressivemagicflaskunlock"
+        "codes": "progressivemagicflaskunlock",
+        "stages": [
+            {
+                "img": "images/items/progressivemagicflaskunlock.png",
+                "img_mods": "overlay|images/numbers/0.png"
+            },
+            {
+                "img": "images/items/progressivemagicflaskunlock.png",
+                "img_mods": "overlay|images/numbers/1.png"
+            },
+            {
+                "img": "images/items/progressivemagicflaskunlock.png",
+                "img_mods": "overlay|images/numbers/2.png"
+            },
+            {
+                "img": "images/items/progressivemagicflaskunlock.png",
+                "img_mods": "overlay|images/numbers/3.png"
+            },
+            {
+                "img": "images/items/progressivemagicflaskunlock.png",
+                "img_mods": "overlay|images/numbers/4.png"
+            },
+            {
+                "img": "images/items/progressivemagicflaskunlock.png",
+                "img_mods": "overlay|images/numbers/5.png"
+            }
+        ]
     },
     {
         "name": "Generosity Support",
@@ -3841,13 +4023,32 @@
     },
     {
         "name": "Progressive max links - Offhand",
-        "type": "toggle",
+        "type": "progressive",
         "img": "images/items/progressivemaxlinks-offhand.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "progressivemaxlinks-offhand"
+        "codes": "progressivemaxlinks-offhand",
+        "stages": [
+            {
+                "img": "images/items/progressivemaxlinks-offhand.png",
+                "img_mods": "overlay|images/numbers/0.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-offhand.png",
+                "img_mods": "overlay|images/numbers/1.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-offhand.png",
+                "img_mods": "overlay|images/numbers/2.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-offhand.png",
+                "img_mods": "overlay|images/numbers/3.png"
+            }
+
+        ]
     },
     {
         "name": "Spellblade Support",
@@ -4011,13 +4212,35 @@
     },
     {
         "name": "Progressive max links - Glove",
-        "type": "toggle",
+        "type": "progressive",
         "img": "images/items/progressivemaxlinks-glove.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "progressivemaxlinks-glove"
+        "codes": "progressivemaxlinks-glove",
+        "stages": [
+            {
+                "img": "images/items/progressivemaxlinks-glove.png",
+                "img_mods": "overlay|images/numbers/0.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-glove.png",
+                "img_mods": "overlay|images/numbers/1.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-glove.png",
+                "img_mods": "overlay|images/numbers/2.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-glove.png",
+                "img_mods": "overlay|images/numbers/3.png"
+            },
+            {
+                "img": "images/items/progressivemaxlinks-glove.png",
+                "img_mods": "overlay|images/numbers/4.png"
+            }
+        ]
     },
     {
         "name": "Devouring Totem",
@@ -4111,13 +4334,620 @@
     },
     {
         "name": "Progressive passive point",
-        "type": "toggle",
+        "type": "progressive",
         "img": "images/items/progressivepassivepoint.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "progressivepassivepoint"
+        "codes": "progressivepassivepoint",
+        "stages": [
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/0.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/1.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/2.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/3.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/4.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/5.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/6.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/7.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/8.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/9.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/10.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/11.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/12.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/13.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/14.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/15.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/16.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/17.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/18.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/19.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/20.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/21.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/22.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/23.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/24.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/25.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/26.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/27.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/28.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/29.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/30.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/31.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/32.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/33.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/34.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/35.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/36.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/37.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/38.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/39.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/40.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/41.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/42.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/43.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/44.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/45.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/46.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/47.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/48.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/49.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/50.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/51.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/52.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/53.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/54.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/55.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/56.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/57.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/58.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/59.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/60.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/61.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/62.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/63.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/64.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/65.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/66.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/67.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/68.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/69.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/70.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/71.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/72.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/73.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/74.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/75.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/76.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/77.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/78.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/79.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/80.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/81.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/82.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/83.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/84.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/85.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/86.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/87.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/88.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/89.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/90.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/91.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/92.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/93.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/94.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/95.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/96.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/97.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/98.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/99.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/100.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/101.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/102.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/103.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/104.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/105.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/106.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/107.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/108.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/109.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/110.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/111.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/112.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/113.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/114.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/115.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/116.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/117.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/118.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/119.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/120.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/121.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/122.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/123.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/124.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/125.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/126.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/127.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/128.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/129.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/130.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/131.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/132.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/133.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/134.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/135.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/136.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/137.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/138.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/139.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/140.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/141.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/142.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/143.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/144.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/145.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/146.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/147.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/148.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/149.png"
+            },
+            {
+                "img": "images/items/progressivepassivepoint.png",
+                "img_mods": "overlay|images/numbers/150.png"
+            }
+        ]
+
     },
     {
         "name": "Discipline",
