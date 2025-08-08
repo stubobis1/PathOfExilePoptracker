@@ -220,16 +220,6 @@
         "codes": "cracklinglance"
     },
     {
-        "name": "Reckoning",
-        "type": "toggle",
-        "img": "images/items/reckoning.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "reckoning"
-    },
-    {
         "name": "Righteous Fire",
         "type": "toggle",
         "img": "images/items/righteousfire.png",
@@ -2348,16 +2338,6 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "kineticblast"
-    },
-    {
-        "name": "Vengeance",
-        "type": "toggle",
-        "img": "images/items/vengeance.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "vengeance"
     },
     {
         "name": "Expert Retaliation Support",
@@ -5169,16 +5149,7 @@
         "overlay_align": "right",
         "codes": "crueltysupport"
     },
-    {
-        "name": "Riposte",
-        "type": "toggle",
-        "img": "images/items/riposte.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "riposte"
-    },
+
     {
         "name": "Rare Bow",
         "type": "toggle",
