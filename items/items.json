@@ -2890,14 +2890,14 @@
         "codes": "normalbelt"
     },
     {
-        "name": "Progressive Flask Unlock Slot",
+        "name": "Progressive Normal Flask Unlock",
         "type": "toggle",
-        "img": "images/items/progressiveflaskunlockslot.png",
+        "img": "images/items/progressivenormalflaskunlock.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "progressiveflaskunlockslot"
+        "codes": "progressivenormalflaskunlock"
     },
     {
         "name": "Magic Wand",

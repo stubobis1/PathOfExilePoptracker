@@ -5,12 +5,6 @@
     "package_uid": "path of exile_ap",
     "author": "builder_script",
     "variants": {
-        "Map Tracker": {
-            "display_name": "Map Tracker",
-            "flags": [
-                "ap"
-            ]
-        },
         "Items Only": {
             "display_name": "Items Only",
             "flags": [
