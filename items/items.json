@@ -261,23 +261,23 @@
         "stages": [
             {
                 "img": "images/items/progressivemaxlinks-helm.png",
-                "img_mods": "overlay|images/numbers/0.png"
+                "img_mods": "overlay|images/bignumbers/0.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-helm.png",
-                "img_mods": "overlay|images/numbers/1.png"
+                "img_mods": "overlay|images/bignumbers/1.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-helm.png",
-                "img_mods": "overlay|images/numbers/2.png"
+                "img_mods": "overlay|images/bignumbers/2.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-helm.png",
-                "img_mods": "overlay|images/numbers/3.png"
+                "img_mods": "overlay|images/bignumbers/3.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-helm.png",
-                "img_mods": "overlay|images/numbers/4.png"
+                "img_mods": "overlay|images/bignumbers/4.png"
             }
         ]
     },
@@ -2049,31 +2049,31 @@
         "stages": [
             {
                 "img": "images/items/progressivemaxlinks-weapon.png",
-                "img_mods": "overlay|images/numbers/0.png"
+                "img_mods": "overlay|images/bignumbers/0.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-weapon.png",
-                "img_mods": "overlay|images/numbers/1.png"
+                "img_mods": "overlay|images/bignumbers/1.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-weapon.png",
-                "img_mods": "overlay|images/numbers/2.png"
+                "img_mods": "overlay|images/bignumbers/2.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-weapon.png",
-                "img_mods": "overlay|images/numbers/3.png"
+                "img_mods": "overlay|images/bignumbers/3.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-weapon.png",
-                "img_mods": "overlay|images/numbers/4.png"
+                "img_mods": "overlay|images/bignumbers/4.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-weapon.png",
-                "img_mods": "overlay|images/numbers/5.png"
+                "img_mods": "overlay|images/bignumbers/5.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-weapon.png",
-                "img_mods": "overlay|images/numbers/6.png"
+                "img_mods": "overlay|images/bignumbers/6.png"
             }
         ]
     },
@@ -2859,31 +2859,31 @@
         "stages": [
             {
                 "img": "images/items/progressivemaxlinks-body.png",
-                "img_mods": "overlay|images/numbers/0.png"
+                "img_mods": "overlay|images/bignumbers/0.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-body.png",
-                "img_mods": "overlay|images/numbers/1.png"
+                "img_mods": "overlay|images/bignumbers/1.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-body.png",
-                "img_mods": "overlay|images/numbers/2.png"
+                "img_mods": "overlay|images/bignumbers/2.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-body.png",
-                "img_mods": "overlay|images/numbers/3.png"
+                "img_mods": "overlay|images/bignumbers/3.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-body.png",
-                "img_mods": "overlay|images/numbers/4.png"
+                "img_mods": "overlay|images/bignumbers/4.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-body.png",
-                "img_mods": "overlay|images/numbers/5.png"
+                "img_mods": "overlay|images/bignumbers/5.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-body.png",
-                "img_mods": "overlay|images/numbers/6.png"
+                "img_mods": "overlay|images/bignumbers/6.png"
             }
         ]
     },
@@ -3009,27 +3009,27 @@
         "stages": [
             {
                 "img": "images/items/progressivenormalflaskunlock.png",
-                "img_mods": "overlay|images/numbers/0.png"
+                "img_mods": "overlay|images/bignumbers/0.png"
             },
             {
                 "img": "images/items/progressivenormalflaskunlock.png",
-                "img_mods": "overlay|images/numbers/1.png"
+                "img_mods": "overlay|images/bignumbers/1.png"
             },
             {
                 "img": "images/items/progressivenormalflaskunlock.png",
-                "img_mods": "overlay|images/numbers/2.png"
+                "img_mods": "overlay|images/bignumbers/2.png"
             },
             {
                 "img": "images/items/progressivenormalflaskunlock.png",
-                "img_mods": "overlay|images/numbers/3.png"
+                "img_mods": "overlay|images/bignumbers/3.png"
             },
             {
                 "img": "images/items/progressivenormalflaskunlock.png",
-                "img_mods": "overlay|images/numbers/4.png"
+                "img_mods": "overlay|images/bignumbers/4.png"
             },
             {
                 "img": "images/items/progressivenormalflaskunlock.png",
-                "img_mods": "overlay|images/numbers/5.png"
+                "img_mods": "overlay|images/bignumbers/5.png"
             }
         ]
     },
@@ -3255,23 +3255,23 @@
         "stages": [
             {
                 "img": "images/items/progressivemaxlinks-boot.png",
-                "img_mods": "overlay|images/numbers/0.png"
+                "img_mods": "overlay|images/bignumbers/0.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-boot.png",
-                "img_mods": "overlay|images/numbers/1.png"
+                "img_mods": "overlay|images/bignumbers/1.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-boot.png",
-                "img_mods": "overlay|images/numbers/2.png"
+                "img_mods": "overlay|images/bignumbers/2.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-boot.png",
-                "img_mods": "overlay|images/numbers/3.png"
+                "img_mods": "overlay|images/bignumbers/3.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-boot.png",
-                "img_mods": "overlay|images/numbers/4.png"
+                "img_mods": "overlay|images/bignumbers/4.png"
             }
         ]
     },
@@ -3317,27 +3317,27 @@
         "stages": [
             {
                 "img": "images/items/progressivemagicflaskunlock.png",
-                "img_mods": "overlay|images/numbers/0.png"
+                "img_mods": "overlay|images/bignumbers/0.png"
             },
             {
                 "img": "images/items/progressivemagicflaskunlock.png",
-                "img_mods": "overlay|images/numbers/1.png"
+                "img_mods": "overlay|images/bignumbers/1.png"
             },
             {
                 "img": "images/items/progressivemagicflaskunlock.png",
-                "img_mods": "overlay|images/numbers/2.png"
+                "img_mods": "overlay|images/bignumbers/2.png"
             },
             {
                 "img": "images/items/progressivemagicflaskunlock.png",
-                "img_mods": "overlay|images/numbers/3.png"
+                "img_mods": "overlay|images/bignumbers/3.png"
             },
             {
                 "img": "images/items/progressivemagicflaskunlock.png",
-                "img_mods": "overlay|images/numbers/4.png"
+                "img_mods": "overlay|images/bignumbers/4.png"
             },
             {
                 "img": "images/items/progressivemagicflaskunlock.png",
-                "img_mods": "overlay|images/numbers/5.png"
+                "img_mods": "overlay|images/bignumbers/5.png"
             }
         ]
     },
@@ -4033,19 +4033,19 @@
         "stages": [
             {
                 "img": "images/items/progressivemaxlinks-offhand.png",
-                "img_mods": "overlay|images/numbers/0.png"
+                "img_mods": "overlay|images/bignumbers/0.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-offhand.png",
-                "img_mods": "overlay|images/numbers/1.png"
+                "img_mods": "overlay|images/bignumbers/1.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-offhand.png",
-                "img_mods": "overlay|images/numbers/2.png"
+                "img_mods": "overlay|images/bignumbers/2.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-offhand.png",
-                "img_mods": "overlay|images/numbers/3.png"
+                "img_mods": "overlay|images/bignumbers/3.png"
             }
 
         ]
@@ -4222,23 +4222,23 @@
         "stages": [
             {
                 "img": "images/items/progressivemaxlinks-glove.png",
-                "img_mods": "overlay|images/numbers/0.png"
+                "img_mods": "overlay|images/bignumbers/0.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-glove.png",
-                "img_mods": "overlay|images/numbers/1.png"
+                "img_mods": "overlay|images/bignumbers/1.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-glove.png",
-                "img_mods": "overlay|images/numbers/2.png"
+                "img_mods": "overlay|images/bignumbers/2.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-glove.png",
-                "img_mods": "overlay|images/numbers/3.png"
+                "img_mods": "overlay|images/bignumbers/3.png"
             },
             {
                 "img": "images/items/progressivemaxlinks-glove.png",
-                "img_mods": "overlay|images/numbers/4.png"
+                "img_mods": "overlay|images/bignumbers/4.png"
             }
         ]
     },
