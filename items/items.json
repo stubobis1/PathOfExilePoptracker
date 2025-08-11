@@ -258,6 +258,8 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "progressivemaxlinks-helm",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
         "stages": [
             {
                 "img": "images/items/progressivemaxlinks-helm.png",
@@ -1620,6 +1622,8 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "progressiveuniqueflaskunlock",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
         "stages": [
             {
                 "img": "images/items/progressiveuniqueflaskunlock.png",
@@ -2046,6 +2050,8 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "progressivemaxlinks-weapon",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
         "stages": [
             {
                 "img": "images/items/progressivemaxlinks-weapon.png",
@@ -2856,6 +2862,8 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "progressivemaxlinks-body",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
         "stages": [
             {
                 "img": "images/items/progressivemaxlinks-body.png",
@@ -3006,6 +3014,8 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "progressivenormalflaskunlock",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
         "stages": [
             {
                 "img": "images/items/progressivenormalflaskunlock.png",
@@ -3252,6 +3262,8 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "progressivemaxlinks-boot",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
         "stages": [
             {
                 "img": "images/items/progressivemaxlinks-boot.png",
@@ -3314,6 +3326,8 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "progressivemagicflaskunlock",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
         "stages": [
             {
                 "img": "images/items/progressivemagicflaskunlock.png",
@@ -4030,6 +4044,8 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "progressivemaxlinks-offhand",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
         "stages": [
             {
                 "img": "images/items/progressivemaxlinks-offhand.png",
@@ -4219,6 +4235,8 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "progressivemaxlinks-glove",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
         "stages": [
             {
                 "img": "images/items/progressivemaxlinks-glove.png",
@@ -4341,6 +4359,8 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "progressivepassivepoint",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
         "stages": [
             {
                 "img": "images/items/progressivepassivepoint.png",

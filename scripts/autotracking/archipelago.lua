@@ -153,7 +153,7 @@ function onItem(index, item_id, item_name, player_number)
                 item_obj.Active = true
             elseif item_obj.Type == "progressive" then
                 -- print("progressive")
-                item_obj.Active = true
+                item_obj.CurrentStage = item_obj.CurrentStage + 1
             elseif item_obj.Type == "consumable" then
                 -- print("consumable")
                 item_obj.AcquiredCount = item_obj.AcquiredCount + item_obj.Increment * (tonumber(item_pair[3]) or 1)
