@@ -2854,43 +2854,43 @@
         "codes": "defiancebanner"
     },
     {
-        "name": "Progressive max links - Body",
+        "name": "Progressive max links - BodyArmour",
         "type": "progressive",
-        "img": "images/items/progressivemaxlinks-body.png",
+        "img": "images/items/progressivemaxlinks-bodyarmour.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "progressivemaxlinks-body",
+        "codes": "progressivemaxlinks-bodyarmour",
         "initial_stage_idx": 0,
         "allow_disabled": false,
         "stages": [
             {
-                "img": "images/items/progressivemaxlinks-body.png",
+                "img": "images/items/progressivemaxlinks-bodyarmour.png",
                 "img_mods": "overlay|images/bignumbers/0.png"
             },
             {
-                "img": "images/items/progressivemaxlinks-body.png",
+                "img": "images/items/progressivemaxlinks-bodyarmour.png",
                 "img_mods": "overlay|images/bignumbers/1.png"
             },
             {
-                "img": "images/items/progressivemaxlinks-body.png",
+                "img": "images/items/progressivemaxlinks-bodyarmour.png",
                 "img_mods": "overlay|images/bignumbers/2.png"
             },
             {
-                "img": "images/items/progressivemaxlinks-body.png",
+                "img": "images/items/progressivemaxlinks-bodyarmour.png",
                 "img_mods": "overlay|images/bignumbers/3.png"
             },
             {
-                "img": "images/items/progressivemaxlinks-body.png",
+                "img": "images/items/progressivemaxlinks-bodyarmour.png",
                 "img_mods": "overlay|images/bignumbers/4.png"
             },
             {
-                "img": "images/items/progressivemaxlinks-body.png",
+                "img": "images/items/progressivemaxlinks-bodyarmour.png",
                 "img_mods": "overlay|images/bignumbers/5.png"
             },
             {
-                "img": "images/items/progressivemaxlinks-body.png",
+                "img": "images/items/progressivemaxlinks-bodyarmour.png",
                 "img_mods": "overlay|images/bignumbers/6.png"
             }
         ]
