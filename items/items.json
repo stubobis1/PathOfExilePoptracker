@@ -3256,33 +3256,33 @@
     {
         "name": "Progressive max links - Boot",
         "type": "progressive",
-        "img": "images/items/progressivemaxlinks-boot.png",
+        "img": "images/items/progressivemaxlinks-boots.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "progressivemaxlinks-boot",
+        "codes": "progressivemaxlinks-boots",
         "initial_stage_idx": 0,
         "allow_disabled": false,
         "stages": [
             {
-                "img": "images/items/progressivemaxlinks-boot.png",
+                "img": "images/items/progressivemaxlinks-boots.png",
                 "img_mods": "overlay|images/bignumbers/0.png"
             },
             {
-                "img": "images/items/progressivemaxlinks-boot.png",
+                "img": "images/items/progressivemaxlinks-boots.png",
                 "img_mods": "overlay|images/bignumbers/1.png"
             },
             {
-                "img": "images/items/progressivemaxlinks-boot.png",
+                "img": "images/items/progressivemaxlinks-boots.png",
                 "img_mods": "overlay|images/bignumbers/2.png"
             },
             {
-                "img": "images/items/progressivemaxlinks-boot.png",
+                "img": "images/items/progressivemaxlinks-boots.png",
                 "img_mods": "overlay|images/bignumbers/3.png"
             },
             {
-                "img": "images/items/progressivemaxlinks-boot.png",
+                "img": "images/items/progressivemaxlinks-boots.png",
                 "img_mods": "overlay|images/bignumbers/4.png"
             }
         ]
@@ -4227,35 +4227,35 @@
         "codes": "unboundailmentssupport"
     },
     {
-        "name": "Progressive max links - Glove",
+        "name": "Progressive max links - Gloves",
         "type": "progressive",
-        "img": "images/items/progressivemaxlinks-glove.png",
+        "img": "images/items/progressivemaxlinks-gloves.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "progressivemaxlinks-glove",
+        "codes": "progressivemaxlinks-gloves",
         "initial_stage_idx": 0,
         "allow_disabled": false,
         "stages": [
             {
-                "img": "images/items/progressivemaxlinks-glove.png",
+                "img": "images/items/progressivemaxlinks-gloves.png",
                 "img_mods": "overlay|images/bignumbers/0.png"
             },
             {
-                "img": "images/items/progressivemaxlinks-glove.png",
+                "img": "images/items/progressivemaxlinks-gloves.png",
                 "img_mods": "overlay|images/bignumbers/1.png"
             },
             {
-                "img": "images/items/progressivemaxlinks-glove.png",
+                "img": "images/items/progressivemaxlinks-gloves.png",
                 "img_mods": "overlay|images/bignumbers/2.png"
             },
             {
-                "img": "images/items/progressivemaxlinks-glove.png",
+                "img": "images/items/progressivemaxlinks-gloves.png",
                 "img_mods": "overlay|images/bignumbers/3.png"
             },
             {
-                "img": "images/items/progressivemaxlinks-glove.png",
+                "img": "images/items/progressivemaxlinks-gloves.png",
                 "img_mods": "overlay|images/bignumbers/4.png"
             }
         ]
