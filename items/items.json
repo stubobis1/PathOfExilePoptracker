@@ -1,5 +1,181 @@
 [
     {
+        "name": "Progressive Flask Unlock",
+        "type": "progressive",
+        "img": "images/items/flasks/0.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressiveflaskunlock",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/items/flasks/0.png"
+            },
+            {
+                "img": "images/items/flasks/1.png"
+            },
+            {
+                "img": "images/items/flasks/2.png"
+            },
+            {
+                "img": "images/items/flasks/3.png"
+            },
+            {
+                "img": "images/items/flasks/4.png"
+            },
+            {
+                "img": "images/items/flasks/5.png"
+            },
+            {
+                "img": "images/items/flasks/6.png"
+            },
+            {
+                "img": "images/items/flasks/7.png"
+            },
+            {
+                "img": "images/items/flasks/8.png"
+            },
+            {
+                "img": "images/items/flasks/9.png"
+            },
+            {
+                "img": "images/items/flasks/10.png"
+            },
+            {
+                "img": "images/items/flasks/11.png"
+            },
+            {
+                "img": "images/items/flasks/12.png"
+            },
+            {
+                "img": "images/items/flasks/13.png"
+            },
+            {
+                "img": "images/items/flasks/14.png"
+            },
+            {
+                "img": "images/items/flasks/15.png"
+            }
+        ]
+    },
+    {
+        "name": "Progressive Normal Flask Unlock",
+        "type": "progressive",
+        "img": "images/items/progressivenormalflaskunlock.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivenormalflaskunlock",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/items/progressivenormalflaskunlock.png",
+                "img_mods": "overlay|images/bignumbers/0.png"
+            },
+            {
+                "img": "images/items/progressivenormalflaskunlock.png",
+                "img_mods": "overlay|images/bignumbers/1.png"
+            },
+            {
+                "img": "images/items/progressivenormalflaskunlock.png",
+                "img_mods": "overlay|images/bignumbers/2.png"
+            },
+            {
+                "img": "images/items/progressivenormalflaskunlock.png",
+                "img_mods": "overlay|images/bignumbers/3.png"
+            },
+            {
+                "img": "images/items/progressivenormalflaskunlock.png",
+                "img_mods": "overlay|images/bignumbers/4.png"
+            },
+            {
+                "img": "images/items/progressivenormalflaskunlock.png",
+                "img_mods": "overlay|images/bignumbers/5.png"
+            }
+        ]
+    },
+    {
+        "name": "Progressive Magic Flask Unlock",
+        "type": "progressive",
+        "img": "images/items/progressivemagicflaskunlock.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivemagicflaskunlock",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/items/progressivemagicflaskunlock.png",
+                "img_mods": "overlay|images/bignumbers/0.png"
+            },
+            {
+                "img": "images/items/progressivemagicflaskunlock.png",
+                "img_mods": "overlay|images/bignumbers/1.png"
+            },
+            {
+                "img": "images/items/progressivemagicflaskunlock.png",
+                "img_mods": "overlay|images/bignumbers/2.png"
+            },
+            {
+                "img": "images/items/progressivemagicflaskunlock.png",
+                "img_mods": "overlay|images/bignumbers/3.png"
+            },
+            {
+                "img": "images/items/progressivemagicflaskunlock.png",
+                "img_mods": "overlay|images/bignumbers/4.png"
+            },
+            {
+                "img": "images/items/progressivemagicflaskunlock.png",
+                "img_mods": "overlay|images/bignumbers/5.png"
+            }
+        ]
+    },
+    {
+        "name": "Progressive Unique Flask Unlock",
+        "type": "progressive",
+        "img": "images/items/progressiveuniqueflaskunlock.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressiveuniqueflaskunlock",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/items/progressiveuniqueflaskunlock.png",
+                "img_mods": "overlay|images/numbers/0.png"
+            },
+            {
+                "img": "images/items/progressiveuniqueflaskunlock.png",
+                "img_mods": "overlay|images/numbers/1.png"
+            },
+            {
+                "img": "images/items/progressiveuniqueflaskunlock.png",
+                "img_mods": "overlay|images/numbers/2.png"
+            },
+            {
+                "img": "images/items/progressiveuniqueflaskunlock.png",
+                "img_mods": "overlay|images/numbers/3.png"
+            },
+            {
+                "img": "images/items/progressiveuniqueflaskunlock.png",
+                "img_mods": "overlay|images/numbers/4.png"
+            },
+            {
+                "img": "images/items/progressiveuniqueflaskunlock.png",
+                "img_mods": "overlay|images/numbers/5.png"
+            }
+        ]
+    },
+    {
         "name": "Ice Crash",
         "type": "toggle",
         "img": "images/items/icecrash.png",
@@ -1114,6 +1290,26 @@
         "codes": "frostbite"
     },
     {
+        "name": "Vaal Gems",
+        "type": "toggle",
+        "img": "images/items/vaalgems.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "vaalgems"
+    },
+    {
+        "name": "Alternate Gems",
+        "type": "toggle",
+        "img": "images/items/alternategems.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "alternategems"
+    },
+    {
         "name": "Animate Weapon",
         "type": "toggle",
         "img": "images/items/animateweapon.png",
@@ -1612,44 +1808,6 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "rainofarrows"
-    },
-    {
-        "name": "Progressive Unique Flask Unlock",
-        "type": "progressive",
-        "img": "images/items/progressiveuniqueflaskunlock.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "progressiveuniqueflaskunlock",
-        "initial_stage_idx": 0,
-        "allow_disabled": false,
-        "stages": [
-            {
-                "img": "images/items/progressiveuniqueflaskunlock.png",
-                "img_mods": "overlay|images/numbers/0.png"
-            },
-            {
-                "img": "images/items/progressiveuniqueflaskunlock.png",
-                "img_mods": "overlay|images/numbers/1.png"
-            },
-            {
-                "img": "images/items/progressiveuniqueflaskunlock.png",
-                "img_mods": "overlay|images/numbers/2.png"
-            },
-            {
-                "img": "images/items/progressiveuniqueflaskunlock.png",
-                "img_mods": "overlay|images/numbers/3.png"
-            },
-            {
-                "img": "images/items/progressiveuniqueflaskunlock.png",
-                "img_mods": "overlay|images/numbers/4.png"
-            },
-            {
-                "img": "images/items/progressiveuniqueflaskunlock.png",
-                "img_mods": "overlay|images/numbers/5.png"
-            }
-        ]
     },
     {
         "name": "Decay Support",
@@ -3006,44 +3164,6 @@
         "codes": "normalbelt"
     },
     {
-        "name": "Progressive Normal Flask Unlock",
-        "type": "progressive",
-        "img": "images/items/progressivenormalflaskunlock.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "progressivenormalflaskunlock",
-        "initial_stage_idx": 0,
-        "allow_disabled": false,
-        "stages": [
-            {
-                "img": "images/items/progressivenormalflaskunlock.png",
-                "img_mods": "overlay|images/bignumbers/0.png"
-            },
-            {
-                "img": "images/items/progressivenormalflaskunlock.png",
-                "img_mods": "overlay|images/bignumbers/1.png"
-            },
-            {
-                "img": "images/items/progressivenormalflaskunlock.png",
-                "img_mods": "overlay|images/bignumbers/2.png"
-            },
-            {
-                "img": "images/items/progressivenormalflaskunlock.png",
-                "img_mods": "overlay|images/bignumbers/3.png"
-            },
-            {
-                "img": "images/items/progressivenormalflaskunlock.png",
-                "img_mods": "overlay|images/bignumbers/4.png"
-            },
-            {
-                "img": "images/items/progressivenormalflaskunlock.png",
-                "img_mods": "overlay|images/bignumbers/5.png"
-            }
-        ]
-    },
-    {
         "name": "Magic Wand",
         "type": "toggle",
         "img": "images/items/magicwand.png",
@@ -3316,44 +3436,6 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "manaleechsupport"
-    },
-    {
-        "name": "Progressive Magic Flask Unlock",
-        "type": "progressive",
-        "img": "images/items/progressivemagicflaskunlock.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "progressivemagicflaskunlock",
-        "initial_stage_idx": 0,
-        "allow_disabled": false,
-        "stages": [
-            {
-                "img": "images/items/progressivemagicflaskunlock.png",
-                "img_mods": "overlay|images/bignumbers/0.png"
-            },
-            {
-                "img": "images/items/progressivemagicflaskunlock.png",
-                "img_mods": "overlay|images/bignumbers/1.png"
-            },
-            {
-                "img": "images/items/progressivemagicflaskunlock.png",
-                "img_mods": "overlay|images/bignumbers/2.png"
-            },
-            {
-                "img": "images/items/progressivemagicflaskunlock.png",
-                "img_mods": "overlay|images/bignumbers/3.png"
-            },
-            {
-                "img": "images/items/progressivemagicflaskunlock.png",
-                "img_mods": "overlay|images/bignumbers/4.png"
-            },
-            {
-                "img": "images/items/progressivemagicflaskunlock.png",
-                "img_mods": "overlay|images/bignumbers/5.png"
-            }
-        ]
     },
     {
         "name": "Generosity Support",
@@ -3745,6 +3827,636 @@
         "overlay_align": "right",
         "codes": "uniquewand"
     },
+
+
+
+
+
+    {
+        "name": "Progressive Axe",
+        "type": "progressive",
+        "img": "images/items/normalaxe.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressiveaxe",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/normalaxe.png"
+            },
+            {
+                "img": "images/items/magicaxe.png"
+            },
+            {
+                "img": "images/items/rareaxe.png"
+            },
+            {
+                "img": "images/items/uniqueaxe.png"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Progressive Bow",
+        "type": "progressive",
+        "img": "images/items/normalbow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivebow",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/normalbow.png"
+            },
+            {
+                "img": "images/items/magicbow.png"
+            },
+            {
+                "img": "images/items/rarebow.png"
+            },
+            {
+                "img": "images/items/uniquebow.png"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Progressive Claw",
+        "type": "progressive",
+        "img": "images/items/normalclaw.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressiveclaw",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/normalclaw.png"
+            },
+            {
+                "img": "images/items/magicclaw.png"
+            },
+            {
+                "img": "images/items/rareclaw.png"
+            },
+            {
+                "img": "images/items/uniqueclaw.png"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Progressive Dagger",
+        "type": "progressive",
+        "img": "images/items/normaldagger.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivedagger",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/normaldagger.png"
+            },
+            {
+                "img": "images/items/magicdagger.png"
+            },
+            {
+                "img": "images/items/raredagger.png"
+            },
+            {
+                "img": "images/items/uniquedagger.png"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Progressive Mace",
+        "type": "progressive",
+        "img": "images/items/normalmace.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivemace",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/normalmace.png"
+            },
+            {
+                "img": "images/items/magicmace.png"
+            },
+            {
+                "img": "images/items/raremace.png"
+            },
+            {
+                "img": "images/items/uniquemace.png"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Progressive Sceptre",
+        "type": "progressive",
+        "img": "images/items/normalsceptre.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivesceptre",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/normalsceptre.png"
+            },
+            {
+                "img": "images/items/magicsceptre.png"
+            },
+            {
+                "img": "images/items/raresceptre.png"
+            },
+            {
+                "img": "images/items/uniquesceptre.png"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Progressive Staff",
+        "type": "progressive",
+        "img": "images/items/normalstaff.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivestaff",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/normalstaff.png"
+            },
+            {
+                "img": "images/items/magicstaff.png"
+            },
+            {
+                "img": "images/items/rarestaff.png"
+            },
+            {
+                "img": "images/items/uniquestaff.png"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Progressive Sword",
+        "type": "progressive",
+        "img": "images/items/normalsword.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivesword",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/normalsword.png"
+            },
+            {
+                "img": "images/items/magicsword.png"
+            },
+            {
+                "img": "images/items/raresword.png"
+            },
+            {
+                "img": "images/items/uniquesword.png"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Progressive Wand",
+        "type": "progressive",
+        "img": "images/items/normalwand.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivewand",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/normalwand.png"
+            },
+            {
+                "img": "images/items/magicwand.png"
+            },
+            {
+                "img": "images/items/rarewand.png"
+            },
+            {
+                "img": "images/items/uniquewand.png"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Progressive BodyArmour",
+        "type": "progressive",
+        "img": "images/items/normalbodyarmour.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivebodyarmour",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/normalbodyarmour.png"
+            },
+            {
+                "img": "images/items/magicbodyarmour.png"
+            },
+            {
+                "img": "images/items/rarebodyarmour.png"
+            },
+            {
+                "img": "images/items/uniquebodyarmour.png"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Progressive Boots",
+        "type": "progressive",
+        "img": "images/items/normalboots.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressiveboots",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/normalboots.png"
+            },
+            {
+                "img": "images/items/magicboots.png"
+            },
+            {
+                "img": "images/items/rareboots.png"
+            },
+            {
+                "img": "images/items/uniqueboots.png"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Progressive Gloves",
+        "type": "progressive",
+        "img": "images/items/normalgloves.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivegloves",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/normalgloves.png"
+            },
+            {
+                "img": "images/items/magicgloves.png"
+            },
+            {
+                "img": "images/items/raregloves.png"
+            },
+            {
+                "img": "images/items/uniquegloves.png"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Progressive Helmet",
+        "type": "progressive",
+        "img": "images/items/normalhelmet.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivehelmet",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/normalhelmet.png"
+            },
+            {
+                "img": "images/items/magichelmet.png"
+            },
+            {
+                "img": "images/items/rarehelmet.png"
+            },
+            {
+                "img": "images/items/uniquehelmet.png"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Progressive Amulet",
+        "type": "progressive",
+        "img": "images/items/normalamulet.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressiveamulet",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/normalamulet.png"
+            },
+            {
+                "img": "images/items/magicamulet.png"
+            },
+            {
+                "img": "images/items/rareamulet.png"
+            },
+            {
+                "img": "images/items/uniqueamulet.png"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Progressive Belt",
+        "type": "progressive",
+        "img": "images/items/normalbelt.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivebelt",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/normalbelt.png"
+            },
+            {
+                "img": "images/items/magicbelt.png"
+            },
+            {
+                "img": "images/items/rarebelt.png"
+            },
+            {
+                "img": "images/items/uniquebelt.png"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Progressive Ring (left)",
+        "type": "progressive",
+        "img": "images/items/normalring(left).png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivering(left)",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/normalring(left).png"
+            },
+            {
+                "img": "images/items/magicring(left).png"
+            },
+            {
+                "img": "images/items/rarering(left).png"
+            },
+            {
+                "img": "images/items/uniquering(left).png"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Progressive Ring (right)",
+        "type": "progressive",
+        "img": "images/items/normalring(right).png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivering(right)",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/normalring(right).png"
+            },
+            {
+                "img": "images/items/magicring(right).png"
+            },
+            {
+                "img": "images/items/rarering(right).png"
+            },
+            {
+                "img": "images/items/uniquering(right).png"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Progressive Quiver",
+        "type": "progressive",
+        "img": "images/items/normalquiver.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivequiver",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/normalquiver.png"
+            },
+            {
+                "img": "images/items/magicquiver.png"
+            },
+            {
+                "img": "images/items/rarequiver.png"
+            },
+            {
+                "img": "images/items/uniquequiver.png"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Progressive Shield",
+        "type": "progressive",
+        "img": "images/items/normalshield.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressiveshield",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/normalshield.png"
+            },
+            {
+                "img": "images/items/magicshield.png"
+            },
+            {
+                "img": "images/items/rareshield.png"
+            },
+            {
+                "img": "images/items/uniqueshield.png"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Progressive Fishing Rod",
+        "type": "progressive",
+        "img": "images/items/normalfishingrod.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivefishingrod",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/normalfishingrod.png"
+            },
+            {
+                "img": "images/items/magicfishingrod.png"
+            },
+            {
+                "img": "images/items/rarefishingrod.png"
+            },
+            {
+                "img": "images/items/uniquefishingrod.png"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Progressive Axe",
+        "type": "progressive",
+        "img": "images/items/normalaxe.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressiveaxe",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/items/normalaxe.png"
+            },
+            {
+                "img": "images/items/magicaxe.png"
+            },
+            {
+                "img": "images/items/rareaxe.png"
+            },
+            {
+                "img": "images/items/uniqueaxe.png"
+            }
+        ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
         "name": "Life Gain on Hit Support",
         "type": "toggle",

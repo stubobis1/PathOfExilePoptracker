@@ -1,157 +1,263 @@
 {
-    "shared_item_grid_horizontal": {
+    "randomized_item_grid": {
         "type": "array",
         "orientation": "vertical",
         "margin": "0,0",
         "content": [
+            {
+                "type": "layout",
+                "key": "unlockable_chars"
+            },
+            {
+                "type": "layout",
+                "key": "randomized_link_unlocks"
+            },
+            {
+                "type": "layout",
+                "key": "unlockable_gear"
+            }
+        ]
+    },
+
+
+    "progressive_item_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "layout",
+                "key": "unlockable_chars"
+            },
             {
                 "type": "array",
                 "orientation": "horizontal",
                 "margin": "0,0",
                 "content": [
                     {
-                        "type": "itemgrid",
-                        "item_margin": "2, 2",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 64,
-                        "item_width": 64,
+                        "type": "layout",
+                        "key": "link_unlocks"
+                    },
+                    {
+                        "type": "itemgrid","item_margin": "0, 0", "h_alignment": "left", "item_h_alignment": "center", "item_v_alignment": "center",
+                        "item_height": 150, "item_width": 300,
                         "rows": [
                             [
-                                "marauder",
-                                "berserker",
-                                "chieftain",
-                                "juggernaut",
-                                "duelist",
-                                "gladiator",
-                                "champion",
-                                "slayer",
-                                "ranger",
-                                "deadeye",
-                                "pathfinder",
-                                "warden",
-                                "scion",
-                                "ascendant"
-                            ],
-                            [
-                                "shadow",
-                                "saboteur",
-                                "trickster",
-                                "assassin",
-                                "templar",
-                                "inquisitor",
-                                "hierophant",
-                                "guardian",
-                                "witch",
-                                "necromancer",
-                                "occultist",
-                                "elementalist"
-                            ],
-                            [
-                                "progressivepassivepoint",
-                                "progressivenormalflaskunlock",
-                                "progressivemagicflaskunlock",
-                                "progressiveuniqueflaskunlock",
-                                "progressivemaxlinks-bodyarmour",
-                                "progressivemaxlinks-boots",
-                                "progressivemaxlinks-gloves",
-                                "progressivemaxlinks-helm",
-                                "progressivemaxlinks-offhand",
-                                "progressivemaxlinks-weapon"
-                            ],
-                            [
-                                "normalamulet",
-                                "normalbelt",
-                                "normalring(left)",
-                                "normalring(right)",
-                                "normalbodyarmour",
-                                "normalboots",
-                                "normalgloves",
-                                "normalhelmet",
-                                "normalshield",
-                                "normalquiver",
-                                "normalaxe",
-                                "normalbow",
-                                "normalclaw",
-                                "normaldagger",
-                                "normalfishingrod",
-                                "normalmace",
-                                "normalsceptre",
-                                "normalstaff",
-                                "normalsword",
-                                "normalwand"
-                            ],
-                            [
-                                "magicamulet",
-                                "magicbelt",
-                                "magicring(left)",
-                                "magicring(right)",
-                                "magicbodyarmour",
-                                "magicboots",
-                                "magicgloves",
-                                "magichelmet",
-                                "magicshield",
-                                "magicquiver",
-                                "magicaxe",
-                                "magicbow",
-                                "magicclaw",
-                                "magicdagger",
-                                "magicfishingrod",
-                                "magicmace",
-                                "magicsceptre",
-                                "magicstaff",
-                                "magicsword",
-                                "magicwand"
-                            ],
-                            [
-                                "rareamulet",
-                                "rarebelt",
-                                "rarering(left)",
-                                "rarering(right)",
-                                "rarebodyarmour",
-                                "rareboots",
-                                "raregloves",
-                                "rarehelmet",
-                                "rareshield",
-                                "rarequiver",
-                                "rareaxe",
-                                "rarebow",
-                                "rareclaw",
-                                "raredagger",
-                                "rarefishingrod",
-                                "raremace",
-                                "raresceptre",
-                                "rarestaff",
-                                "raresword",
-                                "rarewand"
-                            ],
-                            [
-                                "uniqueamulet",
-                                "uniquebelt",
-                                "uniquering(left)",
-                                "uniquering(right)",
-                                "uniquebodyarmour",
-                                "uniqueboots",
-                                "uniquegloves",
-                                "uniquehelmet",
-                                "uniqueshield",
-                                "uniquequiver",
-                                "uniqueaxe",
-                                "uniquebow",
-                                "uniqueclaw",
-                                "uniquedagger",
-                                "uniquefishingrod",
-                                "uniquemace",
-                                "uniquesceptre",
-                                "uniquestaff",
-                                "uniquesword",
-                                "uniquewand"
+                                "progressiveflaskunlock"
                             ]
                         ]
                     }
                 ]
+            },
+
+            {
+                "type": "layout",
+                "key": "progressive_unlockable_gear"
             }
+        ]
+    },
+
+    "unlockable_chars": {
+        "type": "itemgrid", "item_margin": "0, 0", "h_alignment": "left", "item_h_alignment": "center", "item_v_alignment": "center", "item_height": 66, "item_width": 84,
+        "rows":[
+             [
+                "marauder",
+                "berserker",
+                "chieftain",
+                "juggernaut",
+                "duelist",
+                "gladiator",
+                "champion",
+                "slayer",
+                "ranger",
+                "deadeye",
+                "pathfinder",
+                "warden",
+                "scion",
+                "ascendant"
+            ],
+            [
+                "shadow",
+                "saboteur",
+                "trickster",
+                "assassin",
+                "templar",
+                "inquisitor",
+                "hierophant",
+                "guardian",
+                "witch",
+                "necromancer",
+                "occultist",
+                "elementalist",
+                "",
+                "progressivepassivepoint"
+            ]
+        ]
+    },
+    "unlockable_gear": {
+        "type": "itemgrid", "item_margin": "0, 0", "h_alignment": "left", "item_h_alignment": "center", "item_v_alignment": "center", "item_height": 100, "item_width": 64,
+        "rows": [
+            [
+                "normalamulet",
+                "normalbelt",
+                "normalring(left)",
+                "normalring(right)",
+                "normalbodyarmour",
+                "normalboots",
+                "normalgloves",
+                "normalhelmet",
+                "normalshield",
+                "normalquiver",
+                "normalaxe",
+                "normalbow",
+                "normalclaw",
+                "normaldagger",
+                "normalfishingrod",
+                "normalmace",
+                "normalsceptre",
+                "normalstaff",
+                "normalsword",
+                "normalwand"
+            ],
+            [
+                "magicamulet",
+                "magicbelt",
+                "magicring(left)",
+                "magicring(right)",
+                "magicbodyarmour",
+                "magicboots",
+                "magicgloves",
+                "magichelmet",
+                "magicshield",
+                "magicquiver",
+                "magicaxe",
+                "magicbow",
+                "magicclaw",
+                "magicdagger",
+                "magicfishingrod",
+                "magicmace",
+                "magicsceptre",
+                "magicstaff",
+                "magicsword",
+                "magicwand"
+            ],
+            [
+                "rareamulet",
+                "rarebelt",
+                "rarering(left)",
+                "rarering(right)",
+                "rarebodyarmour",
+                "rareboots",
+                "raregloves",
+                "rarehelmet",
+                "rareshield",
+                "rarequiver",
+                "rareaxe",
+                "rarebow",
+                "rareclaw",
+                "raredagger",
+                "rarefishingrod",
+                "raremace",
+                "raresceptre",
+                "rarestaff",
+                "raresword",
+                "rarewand"
+            ],
+            [
+                "uniqueamulet",
+                "uniquebelt",
+                "uniquering(left)",
+                "uniquering(right)",
+                "uniquebodyarmour",
+                "uniqueboots",
+                "uniquegloves",
+                "uniquehelmet",
+                "uniqueshield",
+                "uniquequiver",
+                "uniqueaxe",
+                "uniquebow",
+                "uniqueclaw",
+                "uniquedagger",
+                "uniquefishingrod",
+                "uniquemace",
+                "uniquesceptre",
+                "uniquestaff",
+                "uniquesword",
+                "uniquewand"
+            ]
+        ]
+    },
+    "randomized_link_unlocks": {
+        "type": "itemgrid",
+        "item_margin": "0, 0",
+        "h_alignment": "left",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "item_height": 94,
+        "item_width": 76,
+        "rows": [
+            [
+                "progressivemaxlinks-bodyarmour",
+                "progressivemaxlinks-boots",
+                "progressivemaxlinks-gloves",
+                "progressivemaxlinks-helm",
+                "progressivemaxlinks-offhand",
+                "progressivemaxlinks-weapon",
+
+                "progressivenormalflaskunlock",
+                "progressivemagicflaskunlock",
+                "progressiveuniqueflaskunlock"
+            ]
+        ]
+    },
+
+
+    "progressive_unlockable_gear": {
+        "type": "itemgrid", "item_margin": "0, 0", "h_alignment": "left", "item_h_alignment": "center", "item_v_alignment": "center", "item_height": 160, "item_width": 90,
+        "rows": [
+            [
+                "progressiveamulet",
+                "progressivebelt",
+                "progressivering(left)",
+                "progressivering(right)",
+                "progressivebodyarmour",
+                "progressiveboots",
+                "progressivegloves",
+                "progressivehelmet",
+                "progressiveshield",
+                "progressivequiver"
+                ],[
+                "progressiveaxe",
+                "progressivebow",
+                "progressiveclaw",
+                "progressivedagger",
+                "progressivefishingrod",
+                "progressivemace",
+                "progressivesceptre",
+                "progressivestaff",
+                "progressivesword",
+                "progressivewand"
+            ]
+        ]
+    },
+
+    "link_unlocks": {
+        "type": "itemgrid",
+        "item_margin": "0, 0",
+        "h_alignment": "left",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "item_height": 150,
+        "item_width": 150,
+        "rows": [
+            [
+                "progressivemaxlinks-bodyarmour",
+                "progressivemaxlinks-boots",
+                "progressivemaxlinks-gloves",
+                "progressivemaxlinks-helm",
+                "progressivemaxlinks-offhand",
+                "progressivemaxlinks-weapon"
+            ]
         ]
     }
 }
