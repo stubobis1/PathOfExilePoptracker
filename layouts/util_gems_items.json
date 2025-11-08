@@ -17,8 +17,8 @@
                         "item_v_alignment": "center",
                         "item_height": 64,
                         "item_width": 64,
-                        "rows": [
-["bloodandsand",
+                        "rows": [[
+"bloodandsand",
 "dash",
 "decoytotem",
 "devouringtotem",
@@ -116,11 +116,138 @@
 "soullink",
 "summonicegolem",
 "temporalrift",
-"vampiriclink"],
-                              [
-                                "update"
-                            ]
-                        ]
+"vampiriclink"
+                        ]]
+                    }
+                ]
+            }
+        ]
+    },
+
+
+  "util_shared_item_grid_horizontal_alphabetical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 64,
+                        "item_width": 64,
+                        "rows": [[
+
+
+
+
+"alchemistsmark",
+"ambush",
+"ancestralcry",
+"anger",
+"arcanecloak",
+"arcticarmour",
+"assassinsmark",
+"autoexertion",
+"automation",
+"battlemagescry",
+"berserk",
+"bloodandsand",
+"bloodrage",
+"brandrecall",
+"chargeddash",
+"clarity",
+"conductivity",
+"convocation",
+"corruptingfever",
+"darkpact"],[
+"dash",
+"decoytotem",
+"defiancebanner",
+"desecrate",
+"despair",
+"destructivelink",
+"determination",
+"detonatemines",
+"devouringtotem",
+"discharge",
+"discipline",
+"dreadbanner",
+"elementalweakness",
+"enduringcry",
+"enfeeble",
+"flamedash",
+"flamelink",
+"flammability",
+"fleshandstone",
+"fleshoffering"],[
+"frostbite",
+"frostblink",
+"frostshield",
+"frostwall",
+"generalscry",
+"grace",
+"haste",
+"hatred",
+"heraldofagony",
+"heraldofash",
+"heraldofice",
+"heraldofpurity",
+"heraldofthunder",
+"hexblast",
+"immortalcall",
+"intimidatingcry",
+"intuitivelink",
+"leapslam",
+"lightningwarp",
+"malevolence"],[
+"moltenshell",
+"petrifiedblood",
+"phaserun",
+"plaguebearer",
+"poachersmark",
+"precision",
+"pride",
+"protectivelink",
+"punishment",
+"purityofelements",
+"purityoffire",
+"purityofice",
+"purityoflightning",
+"rallyingcry",
+"rejuvenationtotem",
+"seismiccry",
+"shieldcharge",
+"sigilofpower",
+"siphoningtrap",
+"smokemine"],[
+"snipersmark",
+"soullink",
+"spiritoffering",
+"steelskin",
+"summonholyrelic",
+"summonicegolem",
+"summonskitterbots",
+"tempestshield",
+"temporalchains",
+"temporalrift",
+"vampiriclink",
+"vengefulcry",
+"vitality",
+"vulnerability",
+"warbanner",
+"warlordsmark",
+"witheringstep",
+"wrath",
+"zealotry"
+                        ]]
                     }
                 ]
             }

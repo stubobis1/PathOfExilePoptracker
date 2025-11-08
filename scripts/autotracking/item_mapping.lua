@@ -582,6 +582,16 @@ ITEM_MAPPING = {
 	[581] = {{"overexertionsupport", "toggle"}},
 	[582] = {{"expertretaliationsupport", "toggle"}},
 	[583] = {{"rupturesupport", "toggle"}},
+
+	[584] = {{"conflagration", "toggle"}},
+    [585] = {{"thunderstorm", "toggle"}},
+    [586] = {{"somaticshell", "toggle"}},
+    [587] = {{"kineticfusillade", "toggle"}},
+    [588] = {{"kineticrain", "toggle"}},
+    [589] = {{"wallofforce", "toggle"}},
+    [590] = {{"windburstsupport", "toggle"}},
+    [591] = {{"livinglightningsupport", "toggle"}},
+
 	[41301] = {{"defeathydra", "toggle"}},
 	[41302] = {{"defeatphoenix", "toggle"}},
 	[41303] = {{"defeatchimera", "toggle"}},

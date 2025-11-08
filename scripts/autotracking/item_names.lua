@@ -581,4 +581,13 @@ ITEM_NAMES = {
 	[trinitysupport] = "Trinity Support",
 	[unboundailmentssupport] = "Unbound Ailments Support",
 	[unleashsupport] = "Unleash Support",
+
+	[conflagration] = "Conflagration",
+    [thunderstorm] = "Thunderstorm",
+    [somaticshell] = "Somatic Shell",
+    [kineticfusillade] = "Kinetic Fusillade",
+    [kineticrain] = "Kinetic Rain",
+    [wallofforce] = "Wall of Force",
+    [windburstsupport] = "Windburst Support",
+    [livinglightningsupport] = "Living Lightning Support",
 }

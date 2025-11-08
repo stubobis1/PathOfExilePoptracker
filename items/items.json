@@ -7191,5 +7191,87 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "update"
-    }
+    },
+
+
+{
+        "name": "Conflagration",
+        "type": "toggle",
+        "img": "images/items/conflagration.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "conflagration"
+},
+{
+        "name": "Thunderstorm",
+        "type": "toggle",
+        "img": "images/items/thunderstorm.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "thunderstorm"
+},
+{
+        "name": "Somatic Shell",
+        "type": "toggle",
+        "img": "images/items/somaticshell.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "somaticshell"
+},
+{
+        "name": "Kinetic Fusillade",
+        "type": "toggle",
+        "img": "images/items/kineticfusillade.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kineticfusillade"
+},
+{
+        "name": "Kinetic Rain",
+        "type": "toggle",
+        "img": "images/items/kineticrain.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kineticrain"
+},
+{
+        "name": "Wall of Force",
+        "type": "toggle",
+        "img": "images/items/wallofforce.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wallofforce"
+},
+{
+        "name": "Windburst Support",
+        "type": "toggle",
+        "img": "images/items/windburstsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "windburstsupport"
+},
+{
+        "name": "Living Lightning Support",
+        "type": "toggle",
+        "img": "images/items/livinglightningsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "livinglightningsupport"
+},
 ]
