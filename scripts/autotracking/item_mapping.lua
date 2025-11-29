@@ -592,6 +592,11 @@ ITEM_MAPPING = {
     [590] = {{"windburstsupport", "toggle"}},
     [591] = {{"livinglightningsupport", "toggle"}},
 
+
+    [900] = {{"enhancesupport", "toggle"}},
+    [901] = {{"empowersupport", "toggle"}},
+    [902] = {{"enlightensupport", "toggle"}},
+
 	[41301] = {{"defeathydra", "toggle"}},
 	[41302] = {{"defeatphoenix", "toggle"}},
 	[41303] = {{"defeatchimera", "toggle"}},

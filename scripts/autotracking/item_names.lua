@@ -582,6 +582,10 @@ ITEM_NAMES = {
 	[unboundailmentssupport] = "Unbound Ailments Support",
 	[unleashsupport] = "Unleash Support",
 
+	[enhancesupport] = "Enhance Support",
+	[empowersupport] = "Empower Support",
+	[enlightensupport] = "Enlighten Support",
+
 	[conflagration] = "Conflagration",
     [thunderstorm] = "Thunderstorm",
     [somaticshell] = "Somatic Shell",

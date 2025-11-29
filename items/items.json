@@ -7173,6 +7173,36 @@
         "codes": "witheringtouchsupport"
     },
     {
+        "name": "Enhance Support",
+        "type": "toggle",
+        "img": "images/items/enhancesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "enhancesupport"
+    },
+    {
+        "name": "Enlighten Support",
+        "type": "toggle",
+        "img": "images/items/enlightensupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "enlightensupport"
+    },
+    {
+        "name": "Empower Support",
+        "type": "toggle",
+        "img": "images/items/empowersupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "empowersupport"
+    },
+    {
         "name": "Magic Claw",
         "type": "toggle",
         "img": "images/items/magicclaw.png",

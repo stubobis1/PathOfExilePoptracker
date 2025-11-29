@@ -187,7 +187,9 @@
 "unleashsupport",
 "viletoxinssupport",
 "witheringtouchsupport",
-                                "update"
+"enhancesupport",
+"empowersupport",
+"enlightensupport"
                             ]
                         ]
                     }
@@ -275,7 +277,10 @@
 "elementalpenetrationsupport",
 "elementalproliferationsupport",
 "endurancechargeonmeleestunsupport",
-"energyleechsupport"],[
+"enhancesupport"],[
+"energyleechsupport",
+"enlightensupport",
+"empowersupport",
 "eternalblessingsupport",
 "expertretaliationsupport",
 "fasterattackssupport",
@@ -292,10 +297,10 @@
 "freshmeatsupport",
 "frigidbondsupport",
 "generositysupport",
-"greatermultipleprojectilessupport",
+"greatermultipleprojectilessupport"],[
 "greatervolleysupport",
 "guardiansblessingsupport",
-"hexbloomsupport"],[
+"hexbloomsupport",
 "hextouchsupport",
 "high-impactminesupport",
 "hypothermiasupport",
@@ -312,10 +317,10 @@
 "innervatesupport",
 "inspirationsupport",
 "intensifysupport",
-"irongripsupport",
+"irongripsupport"],[
 "ironwillsupport",
 "itemraritysupport",
-"knockbacksupport"],[
+"knockbacksupport",
 "lessermultipleprojectilessupport",
 "lifegainonhitsupport",
 "lifeleechsupport",
@@ -332,10 +337,10 @@
 "meleesplashsupport",
 "minefieldsupport",
 "miniondamagesupport",
-"minionlifesupport",
+"minionlifesupport"],[
 "minionspeedsupport",
 "miragearchersupport",
-"momentumsupport"],[
+"momentumsupport",
 "moredurationsupport",
 "multipletotemssupport",
 "multipletrapssupport",
@@ -352,10 +357,10 @@
 "prismaticburstsupport",
 "pulverisesupport",
 "ragesupport",
-"returningprojectilessupport",
+"returningprojectilessupport"],[
 "rupturesupport",
 "ruthlesssupport",
-"sacredwispssupport"],[
+"sacredwispssupport",
 "sacrificesupport",
 "sadismsupport",
 "secondwindsupport",
@@ -372,10 +377,10 @@
 "swiftbrandsupport",
 "trapandminedamagesupport",
 "trapsupport",
-"traumasupport",
+"traumasupport"],[
 "trinitysupport",
 "unboundailmentssupport",
-"unleashsupport"],[
+"unleashsupport",
 "urgentorderssupport",
 "viciousprojectilessupport",
 "viletoxinssupport",
@@ -383,8 +388,7 @@
 "volatilitysupport",
 "volleysupport",
 "windburstsupport",
-"witheringtouchsupport",
-                                "update"
+"witheringtouchsupport"
                             ]
                         ]
                     }
