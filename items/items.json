@@ -7304,4 +7304,14 @@
         "overlay_align": "right",
         "codes": "livinglightningsupport"
 },
+{
+        "name": "Wither",
+        "type": "toggle",
+        "img": "images/items/wither.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wither"
+}
 ]

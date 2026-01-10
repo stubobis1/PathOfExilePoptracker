@@ -591,6 +591,7 @@ ITEM_MAPPING = {
     [589] = {{"wallofforce", "toggle"}},
     [590] = {{"windburstsupport", "toggle"}},
     [591] = {{"livinglightningsupport", "toggle"}},
+    [592] = {{"wither", "toggle"}},
 
 
     [900] = {{"enhancesupport", "toggle"}},

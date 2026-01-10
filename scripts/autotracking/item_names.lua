@@ -594,4 +594,6 @@ ITEM_NAMES = {
     [wallofforce] = "Wall of Force",
     [windburstsupport] = "Windburst Support",
     [livinglightningsupport] = "Living Lightning Support",
+
+    [wither] = "Wither",
 }

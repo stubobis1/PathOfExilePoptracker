@@ -42,6 +42,7 @@
 "siphoningtrap",
 "smokemine",
 "vitality",
+"wither",
 "witheringstep",
 "fleshoffering",
 "spiritoffering",
@@ -56,8 +57,8 @@
 "desecrate",
 "fleshandstone",
 "heraldofagony",
-"heraldofash",
-"heraldofice"],[
+"heraldofash"],[
+"heraldofice",
 "heraldofpurity",
 "heraldofthunder",
 "poachersmark",
@@ -76,8 +77,8 @@
 "despair",
 "determination",
 "discipline",
-"dreadbanner",
-"elementalweakness"],[
+"dreadbanner"],[
+"elementalweakness",
 "enfeeble",
 "flammability",
 "frostbite",
@@ -96,8 +97,8 @@
 "purityoflightning",
 "rallyingcry",
 "temporalchains",
-"vengefulcry",
-"vulnerability"],[
+"vengefulcry"],[
+"vulnerability",
 "wrath",
 "zealotry",
 "darkpact",
@@ -246,6 +247,7 @@
 "warlordsmark",
 "witheringstep",
 "wrath",
+"wither",
 "zealotry"
                         ]]
                     }
