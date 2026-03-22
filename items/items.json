@@ -6512,6 +6512,16 @@
         "codes": "inquisitor"
     },
     {
+        "name": "Reliquarian",
+        "type": "toggle",
+        "img": "images/items/reliquarian.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "reliquarian"
+    },
+    {
         "name": "Normal Ring (right)",
         "type": "toggle",
         "img": "images/items/normalring(right).png",
@@ -7313,5 +7323,95 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "wither"
+},
+{
+        "name": "Divine Blast",
+        "type": "toggle",
+        "img": "images/items/divineblast.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "divineblast"
+},
+{
+        "name": "Holy Hammers",
+        "type": "toggle",
+        "img": "images/items/holyhammers.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "holyhammers"
+},
+{
+        "name": "Holy Strike",
+        "type": "toggle",
+        "img": "images/items/holystrike.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "holystrike"
+},
+{
+        "name": "Shield of Light",
+        "type": "toggle",
+        "img": "images/items/shieldoflight.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shieldoflight"
+},
+{
+        "name": "Blessed Call Support",
+        "type": "toggle",
+        "img": "images/items/blessedcallsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blessedcallsupport"
+},
+{
+        "name": "Excommunicate Support",
+        "type": "toggle",
+        "img": "images/items/excommunicatesupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "excommunicatesupport"
+},
+{
+        "name": "Exemplar Support",
+        "type": "toggle",
+        "img": "images/items/exemplarsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "exemplarsupport"
+},
+{
+        "name": "Hallow Support",
+        "type": "toggle",
+        "img": "images/items/hallowsupport.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hallowsupport"
+},
+{
+        "name": "Portal",
+        "type": "toggle",
+        "img": "images/items/portal.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "portal"
 }
 ]

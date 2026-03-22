@@ -593,10 +593,23 @@ ITEM_MAPPING = {
     [591] = {{"livinglightningsupport", "toggle"}},
     [592] = {{"wither", "toggle"}},
 
+    [593] = {{"divineblast","toggle"}},
+    [594] = {{"holyhammers","toggle"}},
+    [595] = {{"holystrike","toggle"}},
+    [596] = {{"shieldoflight","toggle"}},
+
+    [597] = {{"blessedcallsupport","toggle"}},
+    [598] = {{"excommunicatesupport","toggle"}},
+    [599] = {{"exemplarsupport","toggle"}},
+    [600] = {{"hallowsupport","toggle"}},
+
+    [601] = {{"portal","toggle"}},
 
     [900] = {{"enhancesupport", "toggle"}},
     [901] = {{"empowersupport", "toggle"}},
     [902] = {{"enlightensupport", "toggle"}},
+
+    [1013] = {{"reliquarian", "toggle"}},
 
 	[41301] = {{"defeathydra", "toggle"}},
 	[41302] = {{"defeatphoenix", "toggle"}},

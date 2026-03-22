@@ -118,7 +118,8 @@
 "summonicegolem",
 "temporalrift",
 "vampiriclink"
-                        ]]
+],[
+"portal"]]
                     }
                 ]
             }
@@ -214,6 +215,7 @@
 "phaserun",
 "plaguebearer",
 "poachersmark",
+"portal",
 "precision",
 "pride",
 "protectivelink",
@@ -227,8 +229,8 @@
 "seismiccry",
 "shieldcharge",
 "sigilofpower",
-"siphoningtrap",
-"smokemine"],[
+"siphoningtrap"],[
+"smokemine",
 "snipersmark",
 "soullink",
 "spiritoffering",
@@ -247,7 +249,7 @@
 "warlordsmark",
 "witheringstep",
 "wrath",
-"wither",
+"wither"],[
 "zealotry"
                         ]]
                     }

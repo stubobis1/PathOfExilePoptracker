@@ -35,10 +35,11 @@
                           "glacialhammer",
                           "groundslam",
                           "heavystrike",
+                          "holystrike",
                           "iceshot",
-                          "kineticbolt",
-                          "lightningtendrils"
+                          "kineticbolt"
                         ],[
+                          "lightningtendrils",
                           "moltenstrike",
                           "perforate",
                           "purifyingflame",
@@ -57,9 +58,9 @@
                           "beartrap",
                           "contagion",
                           "conversiontrap",
-                          "crushingfist",
-                          "detonatedead"
+                          "crushingfist"
                         ],[
+                          "detonatedead",
                           "flamewall",
                           "frostbomb",
                           "holyflametotem",
@@ -79,8 +80,8 @@
                           "summonskeletons",
                           "unearth",
                           "whirlingblades",
-                          "absolution"
                         ],[
+                          "absolution",
                           "arc",
                           "barrage",
                           "bladetrap",
@@ -99,9 +100,9 @@
                           "icespear",
                           "iciclemine",
                           "incinerate",
-                          "infernalblow",
-                          "kineticfusillade"
+                          "infernalblow"
                         ],[
+                          "kineticfusillade",
                           "lacerate",
                           "lightningarrow",
                           "lightningstrike",
@@ -120,9 +121,9 @@
                           "stormbrand",
                           "stormburst",
                           "stormcall",
-                          "sunder",
-                          "sweep"
+                          "sunder"
                         ],[
+                          "sweep",
                           "toxicrain",
                           "venomgyre",
                           "volatiledead",
@@ -135,15 +136,16 @@
                           "forbiddenrite",
                           "frenzy",
                           "galvanicfield",
+                          "shieldoflight",
                           "righteousfire",
                           "wallofforce",
                           "waveofconviction",
                           "bane",
                           "energyblade",
-                          "infernalcry",
-                          "spellslinger",
-                          "ancestralwarchief"
+                          "infernalcry"
                         ],[
+                          "spellslinger",
+                          "ancestralwarchief",
                           "animateguardian",
                           "armageddonbrand",
                           "artilleryballista",
@@ -159,16 +161,18 @@
                           "cremation",
                           "cyclone",
                           "divineire",
+                          "divineblast",
                           "dominatingblow",
-                          "earthquake",
+                          "earthquake"
+                          ],[
                           "explosivearrow",
                           "explosiveconcoction",
-                          "eyeofwinter"
-                        ],[
+                          "eyeofwinter",
                           "firestorm",
                           "flameblast",
                           "flamethrowertrap",
                           "glacialcascade",
+                          "holyhammers",
                           "icecrash",
                           "icetrap",
                           "kineticblast",
@@ -180,12 +184,12 @@
                           "pestilentstrike",
                           "pyroclastmine",
                           "ragevortex",
-                          "raisespectre",
+                          "raisespectre"
+                          ],[
                           "reap",
                           "scourgearrow",
                           "seismictrap",
-                          "shocknova"
-                        ],[
+                          "shocknova",
                           "shockwavetotem",
                           "somaticshell",
                           "soulrend",
@@ -201,12 +205,12 @@
                           "winterorb",
                           "frozenlegion",
                           "hydrosphere",
-                          "snipe",
+                          "snipe"
+                        ],[
                           "summoncarriongolem",
                           "summonchaosgolem",
                           "summonflamegolem",
-                          "summonlightninggolem"
-                        ],[
+                          "summonlightninggolem",
                           "summonstonegolem",
                           "tornado",
                           "voidsphere",
@@ -285,6 +289,7 @@
 "cyclone",
 "detonatedead",
 "divineire",
+"divineblast",
 "divineretribution",
 "dominatingblow",
 "doublestrike",
@@ -300,8 +305,8 @@
 "explosivearrow",
 "explosiveconcoction",
 "explosivetrap",
-"exsanguinate",
-"eyeofwinter"],[
+"exsanguinate"],[
+"eyeofwinter",
 "fireball",
 "firestorm",
 "firetrap",
@@ -320,11 +325,13 @@
 "galvanicarrow",
 "galvanicfield",
 "glacialcascade",
-"glacialhammer",
-"glacialshieldswipe"],[
+"glacialhammer"],[
+"glacialshieldswipe",
 "groundslam",
 "heavystrike",
 "holyflametotem",
+"holyhammers",
+"holystrike",
 "hydrosphere",
 "icecrash",
 "icenova",
@@ -338,10 +345,10 @@
 "kineticblast",
 "kineticbolt",
 "kineticfusillade",
-"kineticrain",
+"kineticrain"],[
 "lacerate",
 "lancingsteel",
-"lightningarrow"],[
+"lightningarrow",
 "lightningconduit",
 "lightningspiretrap",
 "lightningstrike",
@@ -358,10 +365,10 @@
 "powersiphon",
 "puncture",
 "purifyingflame",
-"pyroclastmine",
+"pyroclastmine"],[
 "ragevortex",
 "rainofarrows",
-"raisespectre"],[
+"raisespectre",
 "raisezombie",
 "reap",
 "reave",
@@ -373,15 +380,16 @@
 "seismictrap",
 "shatteringsteel",
 "shieldcrush",
+"shieldoflight",
 "shocknova",
 "shockwavetotem",
 "shrapnelballista",
 "siegeballista",
-"smite",
+"smite"],[
 "snipe",
 "somaticshell",
 "soulrend",
-"spark"],[
+"spark",
 "spectralhelix",
 "spectralshieldthrow",
 "spectralthrow",
@@ -397,11 +405,11 @@
 "stormrain",
 "summoncarriongolem",
 "summonchaosgolem",
-"summonflamegolem",
+"summonflamegolem"],[
 "summonlightninggolem",
 "summonragingspirit",
 "summonreaper",
-"summonskeletons"],[
+"summonskeletons",
 "summonstonegolem",
 "sunder",
 "sweep",
@@ -417,11 +425,11 @@
 "viperstrike",
 "voidsphere",
 "volatiledead",
-"volcanicfissure",
+"volcanicfissure"],[
 "voltaxicburst",
 "vortex",
 "wallofforce",
-"waveofconviction"],[
+"waveofconviction",
 "whirlingblades",
 "wildstrike",
 "winterorb",

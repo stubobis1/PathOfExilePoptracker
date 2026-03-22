@@ -23,6 +23,7 @@
 "chancetobleedsupport",
 "chancetopoisonsupport",
 "elementalproliferationsupport",
+"hallowsupport",
 "momentumsupport",
 "prismaticburstsupport",
 "ruthlesssupport",
@@ -37,8 +38,9 @@
 "addedcolddamagesupport",
 "addedfiredamagesupport",
 "addedlightningdamagesupport",
-"additionalaccuracysupport",
-"arrownovasupport"],[
+"additionalaccuracysupport"
+],[
+"arrownovasupport",
 "ballistatotemsupport",
 "blastchainminesupport",
 "blindsupport",
@@ -57,8 +59,9 @@
 "locusminesupport",
 "maimsupport",
 "manaforgedarrowssupport",
-"meleesplashsupport",
-"miniondamagesupport"],[
+"meleesplashsupport"
+],[
+"miniondamagesupport",
 "multipletrapssupport",
 "spelltotemsupport",
 "stunsupport",
@@ -77,8 +80,10 @@
 "deadlyailmentssupport",
 "elementaldamagewithattackssupport",
 "elementalfocussupport",
-"endurancechargeonmeleestunsupport",
-"fastercastingsupport"],[
+"endurancechargeonmeleestunsupport"
+],[
+"exemplarsupport",
+"fastercastingsupport",
 "freshmeatsupport",
 "increasedcriticaldamagesupport",
 "irongripsupport",
@@ -96,9 +101,10 @@
 "ragesupport",
 "sacredwispssupport",
 "sadismsupport",
-"shockwavesupport",
+"shockwavesupport"
+],[
 "trapandminedamagesupport",
-"trinitysupport"],[
+"trinitysupport",
 "viciousprojectilessupport",
 "volatilitysupport",
 "addedchaosdamagesupport",
@@ -106,6 +112,7 @@
 "archmagesupport",
 "arrogancesupport",
 "blasphemysupport",
+"blessedcallsupport",
 "bloodthirstsupport",
 "burningdamagesupport",
 "chargedminessupport",
@@ -115,10 +122,12 @@
 "corruptingcrysupport",
 "criticalstrikeafflictionsupport",
 "cursedgroundsupport",
-"elementalarmysupport",
+"elementalarmysupport"
+],[
 "elementalpenetrationsupport",
 "energyleechsupport",
-"expertretaliationsupport"],[
+"excommunicatesupport",
+"expertretaliationsupport",
 "fasterprojectilessupport",
 "feedingfrenzysupport",
 "firepenetrationsupport",
@@ -134,11 +143,12 @@
 "impalesupport",
 "impendingdoomsupport",
 "innervatesupport",
-"inspirationsupport",
+"inspirationsupport"
+],[
 "intensifysupport",
 "itemraritysupport",
 "moredurationsupport",
-"lifeleechsupport"],[
+"lifeleechsupport",
 "lightningpenetrationsupport",
 "manaleechsupport",
 "meatshieldsupport",
@@ -154,11 +164,12 @@
 "barragesupport",
 "beheadsupport",
 "bonechillsupport",
-"brutalitysupport",
+"brutalitysupport"
+],[
 "castoncriticalstrikesupport",
 "castondeathsupport",
 "castonmeleekillsupport",
-"castwhendamagetakensupport"],[
+"castwhendamagetakensupport",
 "castwhenstunnedsupport",
 "castwhilechannellingsupport",
 "chainsupport",
@@ -174,11 +185,12 @@
 "igniteproliferationsupport",
 "immolatesupport",
 "increasedareaofeffectsupport",
-"markonhitsupport",
+"markonhitsupport"
+],[
 "minefieldsupport",
 "multipletotemssupport",
 "multistrikesupport",
-"overexertionsupport"],[
+"overexertionsupport",
 "returningprojectilessupport",
 "rupturesupport",
 "spellechosupport",
@@ -234,10 +246,12 @@
 "beheadsupport",
 "blasphemysupport",
 "blastchainminesupport",
+"blessedcallsupport",
 "blindsupport",
 "blockchancereductionsupport",
-"bloodlustsupport",
-"bloodthirstsupport"],[
+"bloodlustsupport"
+                        ],[
+"bloodthirstsupport",
 "bonechillsupport",
 "brutalitysupport",
 "burningdamagesupport",
@@ -256,8 +270,9 @@
 "closecombatsupport",
 "clustertrapssupport",
 "coldpenetrationsupport",
-"coldtofiresupport",
-"combustionsupport"],[
+"coldtofiresupport"
+                        ],[
+"combustionsupport",
 "concentratedeffectsupport",
 "controlledblazesupport",
 "controlleddestructionsupport",
@@ -276,12 +291,15 @@
 "elementalfocussupport",
 "elementalpenetrationsupport",
 "elementalproliferationsupport",
-"endurancechargeonmeleestunsupport",
-"enhancesupport"],[
+"endurancechargeonmeleestunsupport"
+                          ],[
+"enhancesupport",
 "energyleechsupport",
 "enlightensupport",
 "empowersupport",
 "eternalblessingsupport",
+"excommunicatesupport",
+"exemplarsupport",
 "expertretaliationsupport",
 "fasterattackssupport",
 "fastercastingsupport",
@@ -294,12 +312,14 @@
 "focusedchannellingsupport",
 "forksupport",
 "fortifysupport",
-"freshmeatsupport",
+"freshmeatsupport"
+                          ],[
 "frigidbondsupport",
 "generositysupport",
-"greatermultipleprojectilessupport"],[
+"greatermultipleprojectilessupport",
 "greatervolleysupport",
 "guardiansblessingsupport",
+"hallowsupport",
 "hexbloomsupport",
 "hextouchsupport",
 "high-impactminesupport",
@@ -313,11 +333,12 @@
 "increasedcriticaldamagesupport",
 "increasedcriticalstrikessupport",
 "infernallegionsupport",
-"infusedchannellingsupport",
+"infusedchannellingsupport"
+                        ],[
 "innervatesupport",
 "inspirationsupport",
 "intensifysupport",
-"irongripsupport"],[
+"irongripsupport",
 "ironwillsupport",
 "itemraritysupport",
 "knockbacksupport",
@@ -333,11 +354,12 @@
 "manaleechsupport",
 "markonhitsupport",
 "meatshieldsupport",
-"meleephysicaldamagesupport",
+"meleephysicaldamagesupport"
+                        ],[
 "meleesplashsupport",
 "minefieldsupport",
 "miniondamagesupport",
-"minionlifesupport"],[
+"minionlifesupport",
 "minionspeedsupport",
 "miragearchersupport",
 "momentumsupport",
@@ -353,11 +375,12 @@
 "pinpointsupport",
 "pointblanksupport",
 "powerchargeoncriticalsupport",
-"predatorsupport",
+"predatorsupport"
+                        ],[
 "prismaticburstsupport",
 "pulverisesupport",
 "ragesupport",
-"returningprojectilessupport"],[
+"returningprojectilessupport",
 "rupturesupport",
 "ruthlesssupport",
 "sacredwispssupport",
@@ -373,11 +396,12 @@
 "stunsupport",
 "summonphantasmsupport",
 "swiftafflictionsupport",
-"swiftassemblysupport",
+"swiftassemblysupport"
+                        ],[
 "swiftbrandsupport",
 "trapandminedamagesupport",
 "trapsupport",
-"traumasupport"],[
+"traumasupport",
 "trinitysupport",
 "unboundailmentssupport",
 "unleashsupport",

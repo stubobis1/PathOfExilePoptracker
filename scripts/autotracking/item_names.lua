@@ -29,6 +29,7 @@ ITEM_NAMES = {
 	[guardian] = "Guardian",
 	[hierophant] = "Hierophant",
 	[inquisitor] = "Inquisitor",
+	[reliquarian] = "Reliquarian",
 	[normalaxe] = "Normal Axe",
 	[normalbow] = "Normal Bow",
 	[normalclaw] = "Normal Claw",
